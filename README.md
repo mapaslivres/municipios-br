@@ -1,8 +1,6 @@
 # Municípios
 
-Dados básicos sobre municípios brasileiros.
+Dados básicos sobre municípios brasileiros:
 
-
-Baixe:
-
-  * [municipios.csv](data/municipios.csv)
+* [Visualize](data/municipios.csv)
+* [Baixe](https://github.com/mapaslivres/municipios/raw/master/data/municipios.csv)
