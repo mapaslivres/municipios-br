@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/mapaslivres/municipios/issues"
   },
-  "homepage": "https://github.com/mapaslivres/municipios"
+  "homepage": "https://github.com/mapaslivres/municipios",
+  "license": "ODbL"
 }
