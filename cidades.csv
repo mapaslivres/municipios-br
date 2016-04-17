@@ -15,7 +15,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 1100148,RO,Nova Brasilândia D'Oeste,,-62.308230163,-11.7213254139,Nova Brasilandia D'Oeste,,Alvorada D'oeste,Leste Rondoniense
 1100155,RO,Ouro Preto do Oeste,,-62.2610551904,-10.7235739008,Ouro Preto do Oeste,,Ji-Paraná,Leste Rondoniense
 1100189,RO,Pimenta Bueno,,-61.1836656736,-11.67753699,Pimenta Bueno,,Vilhena,Leste Rondoniense
-1100205,RO,Porto Velho,yes,-63.8314456544,-8.76889179,Porto Velho,,Porto Velho,Madeira-Guaporé
+1100205,RO,Porto Velho,true,-63.8314456544,-8.76889179,Porto Velho,,Porto Velho,Madeira-Guaporé
 1100254,RO,Presidente Médici,,-61.9094386835,-11.1732050162,Presidente Medici,,Ji-Paraná,Leste Rondoniense
 1100262,RO,Rio Crespo,,-62.900010366,-9.7055367097,Rio Crespo,,Ariquemes,Leste Rondoniense
 1100288,RO,Rolim de Moura,,-61.7857809352,-11.7222589134,Rolim de Moura,,Cacoal,Leste Rondoniense
@@ -65,7 +65,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 1200351,AC,Marechal Thaumaturgo,,-72.7902659087,-8.9535911232,Marechal Thaumaturgo,,Cruzeiro do Sul,Vale do Juruá
 1200385,AC,Plácido de Castro,,-67.1882600862,-10.3351332827,Placido de Castro,,Rio Branco,Vale do Acre
 1200393,AC,Porto Walter,,-72.7423339648,-8.2666663628,Porto Walter,,Cruzeiro do Sul,Vale do Juruá
-1200401,AC,Rio Branco,yes,-67.8105287004,-9.9782987527,Rio Branco,,Rio Branco,Vale do Acre
+1200401,AC,Rio Branco,true,-67.8105287004,-9.9782987527,Rio Branco,,Rio Branco,Vale do Acre
 1200427,AC,Rodrigues Alves,,-72.6478549142,-7.7336020337,Rodrigues Alves,,Cruzeiro do Sul,Vale do Juruá
 1200435,AC,Santa Rosa do Purus,,-70.4864968938,-9.4434065374,Santa Rosa do Purus,,Sena Madureira,Vale do Acre
 1200450,AC,Senador Guiomard,,-67.74317236,-10.1481735862,Senador Guiomard,,Rio Branco,Vale do Acre
@@ -110,7 +110,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 1302405,AM,Lábrea,,-64.7947730275,-7.2619465533,Labrea,,Purus,Sul Amazonense
 1302504,AM,Manacapuru,,-60.6205894459,-3.2982780355,Manacapuru,,Manaus,Centro Amazonense
 1302553,AM,Manaquiri,,-60.4588813064,-3.4290796694,Manaquiri,,Manaus,Centro Amazonense
-1302603,AM,Manaus,yes,-60.0233351811,-3.1346914912,Manaus,,Manaus,Centro Amazonense
+1302603,AM,Manaus,true,-60.0233351811,-3.1346914912,Manaus,,Manaus,Centro Amazonense
 1302702,AM,Manicoré,,-61.2992484089,-5.8132052612,Manicore,,Madeira,Sul Amazonense
 1302801,AM,Maraã,,-65.5742837032,-1.8664368773,Maraa,,Japurá,Norte Amazonense
 1302900,AM,Maués,,-57.7150343868,-3.3864279262,Maues,,Parintins,Centro Amazonense
@@ -137,7 +137,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 1304401,AM,Urucurituba,,-58.1596410413,-3.1346331156,Urucurituba,,Itacoatiara,Centro Amazonense
 1400027,RR,Amajari,,-61.4205901727,3.6521184454,Amajari,,Boa Vista,Norte de Roraima
 1400050,RR,Alto Alegre,,-61.3140223901,2.9938229477,Alto Alegre,,Boa Vista,Norte de Roraima
-1400100,RR,Boa Vista,yes,-60.670532673,2.8166819191,Boa Vista,,Boa Vista,Norte de Roraima
+1400100,RR,Boa Vista,true,-60.670532673,2.8166819191,Boa Vista,,Boa Vista,Norte de Roraima
 1400159,RR,Bonfim,,-59.8780066289,3.3502886191,Bonfim,,Nordeste de Roraima,Norte de Roraima
 1400175,RR,Cantá,,-60.6020628476,2.6076663984,Canta,,Nordeste de Roraima,Norte de Roraima
 1400209,RR,Caracaraí,,-61.1491768701,1.8038712473,Caracarai,,Caracaraí,Sul de Roraima
@@ -168,7 +168,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 1501204,PA,Baião,,-49.6727533733,-2.7919618614,Baiao,,Cametá,Nordeste Paraense
 1501253,PA,Bannach,,-50.4060471215,-7.3510721924,Bannach,,São Félix do Xingu,Sudeste Paraense
 1501303,PA,Barcarena,,-48.6270728925,-1.505767005,Barcarena,,Belém,Metropolitana de Belém
-1501402,PA,Belém,yes,-48.4878256875,-1.459845,Belem,,Belém,Metropolitana de Belém
+1501402,PA,Belém,true,-48.4878256875,-1.459845,Belem,,Belém,Metropolitana de Belém
 1501451,PA,Belterra,,-54.9426747393,-2.6490201695,Belterra,,Santarém,Baixo Amazonas
 1501501,PA,Benevides,,-48.2418364506,-1.361437515,Benevides,,Belém,Metropolitana de Belém
 1501576,PA,Bom Jesus do Tocantins,,-48.5990399591,-5.0473627043,Bom Jesus do Tocantins,,Paragominas,Sudeste Paraense
@@ -301,7 +301,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 1600238,AP,Ferreira Gomes,,-51.187429046,0.8539773931,Ferreira Gomes,,Macapá,Sul do Amapá
 1600253,AP,Itaubal,,-50.7001794374,0.6006532883,Itaubal,,Macapá,Sul do Amapá
 1600279,AP,Laranjal do Jari,,-52.5390207369,-0.8556645,Laranjal do Jari,,Mazagão,Sul do Amapá
-1600303,AP,Macapá,yes,-51.057405457,0.03895101,Macapa,,Macapá,Sul do Amapá
+1600303,AP,Macapá,true,-51.057405457,0.03895101,Macapa,,Macapá,Sul do Amapá
 1600402,AP,Mazagão,,-51.2860768561,-0.1243963288,Mazagao,,Mazagão,Sul do Amapá
 1600501,AP,Oiapoque,,-51.8305525553,3.8511307326,Oiapoque,,Oiapoque,Norte do Amapá
 1600535,AP,Porto Grande,,-51.414448823,0.7125547018,Porto Grande,,Macapá,Sul do Amapá
@@ -441,7 +441,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 1720903,TO,Taguatinga,,-46.4387317009,-12.3961417387,Taguatinga,,Dianópolis,Oriental do Tocantins
 1720937,TO,Taipas do Tocantins,,-46.9845717959,-12.1928372091,Taipas do Tocantins,,Dianópolis,Oriental do Tocantins
 1720978,TO,Talismã,,-49.0911184339,-12.7875384069,Talisma,,Gurupi,Ocidental do Tocantins
-1721000,TO,Palmas,yes,-48.3510437082,-10.1632533268,Palmas,,Porto Nacional,Oriental do Tocantins
+1721000,TO,Palmas,true,-48.3510437082,-10.1632533268,Palmas,,Porto Nacional,Oriental do Tocantins
 1721109,TO,Tocantínia,,-48.3758796714,-9.558147734,Tocantinia,,Porto Nacional,Oriental do Tocantins
 1721208,TO,Tocantinópolis,,-47.4274129287,-6.325634376,Tocantinopolis,,Bico do Papagaio,Ocidental do Tocantins
 1721257,TO,Tupirama,,-48.2066848031,-8.9805695494,Tupirama,,Miracema do Tocantins,Ocidental do Tocantins
@@ -633,7 +633,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 2111102,MA,São João dos Patos,,-43.7029101658,-6.4982081521,Sao Joao dos Patos,,Chapadas do Alto Itapecuru,Leste Maranhense
 2111201,MA,São José de Ribamar,,-44.0575481151,-2.55585852,Sao Jose de Ribamar,,Aglomeração Urbana de São Luís,Norte Maranhense
 2111250,MA,São José dos Basílios,,-44.5824465176,-5.0486872452,Sao Jose dos Basilios,,Presidente Dutra,Centro Maranhense
-2111300,MA,São Luís,yes,-44.2979185642,-2.5318859851,Sao Luis,,Aglomeração Urbana de São Luís,Norte Maranhense
+2111300,MA,São Luís,true,-44.2979185642,-2.5318859851,Sao Luis,,Aglomeração Urbana de São Luís,Norte Maranhense
 2111409,MA,São Luís Gonzaga do Maranhão,,-44.6627084964,-4.3739184906,Sao Luis Gonzaga do Maranhao,,Médio Mearim,Centro Maranhense
 2111508,MA,São Mateus do Maranhão,,-44.4685628111,-4.0345505101,Sao Mateus do Maranhao,,Médio Mearim,Centro Maranhense
 2111532,MA,São Pedro da Água Branca,,-48.4236235936,-5.0889109974,Sao Pedro da Agua Branca,,Imperatriz,Oeste Maranhense
@@ -880,7 +880,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 2210938,PI,Sussuapara,,-41.3922677309,-7.0170105888,Sussuapara,,Picos,Sudeste Piauiense
 2210953,PI,Tamboril do Piauí,,-42.9096888302,-8.4004317801,Tamboril do Piaui,,São Raimundo Nonato,Sudoeste Piauiense
 2210979,PI,Tanque do Piauí,,-42.2839013405,-6.5963534674,Tanque do Piaui,,Picos,Sudeste Piauiense
-2211001,PI,Teresina,yes,-42.8052704582,-5.0863419523,Teresina,,Teresina,Centro-Norte Piauiense
+2211001,PI,Teresina,true,-42.8052704582,-5.0863419523,Teresina,,Teresina,Centro-Norte Piauiense
 2211100,PI,União,,-42.862929716,-4.5860181591,Uniao,,Teresina,Centro-Norte Piauiense
 2211209,PI,Uruçuí,,-44.5602559239,-7.2295033446,Urucui,,Alto Parnaíba Piauiense,Sudoeste Piauiense
 2211308,PI,Valença do Piauí,,-41.7405359913,-6.3981960227,Valenca do Piaui,,Valença do Piauí,Centro-Norte Piauiense
@@ -947,7 +947,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 2304285,CE,Eusébio,,-38.4451218386,-3.8869728867,Eusebio,,Fortaleza,Metropolitana de Fortaleza
 2304301,CE,Farias Brito,,-39.5708350212,-6.9271099806,Farias Brito,,Caririaçu,Sul Cearense
 2304350,CE,Forquilha,,-40.2587689981,-3.7989577431,Forquilha,,Sobral,Noroeste Cearense
-2304400,CE,Fortaleza,yes,-38.589927555,-3.723805035,Fortaleza,,Fortaleza,Metropolitana de Fortaleza
+2304400,CE,Fortaleza,true,-38.589927555,-3.723805035,Fortaleza,,Fortaleza,Metropolitana de Fortaleza
 2304459,CE,Fortim,,-37.798975486,-4.4498049174,Fortim,,Litoral de Aracati,Jaguaribe
 2304509,CE,Frecheirinha,,-40.8214052012,-3.7606119315,Frecheirinha,,Coreaú,Noroeste Cearense
 2304608,CE,General Sampaio,,-39.4535299504,-4.0510412747,General Sampaio,,Médio Curu,Norte Cearense
@@ -1161,7 +1161,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 2407807,RN,Monte Alegre,,-35.3320992693,-6.0678766241,Monte Alegre,,Agreste Potiguar,Agreste Potiguar
 2407906,RN,Monte das Gameleiras,,-35.7866071235,-6.4394660165,Monte das Gameleiras,,Borborema Potiguar,Agreste Potiguar
 2408003,RN,Mossoró,,-37.3568741367,-5.1938012347,Mossoro,,Mossoró,Oeste Potiguar
-2408102,RN,Natal,yes,-35.2522547281,-5.7508985376,Natal,,Natal,Leste Potiguar
+2408102,RN,Natal,true,-35.2522547281,-5.7508985376,Natal,,Natal,Leste Potiguar
 2408201,RN,Nísia Floresta,,-35.2113095645,-6.0907141459,Nisia Floresta,,Macaíba,Leste Potiguar
 2408300,RN,Nova Cruz,,-35.4323003946,-6.480064792,Nova Cruz,,Agreste Potiguar,Agreste Potiguar
 2408409,RN,Olho-d'Água do Borges,,-37.7118209786,-5.9592583875,Olho-d'Agua do Borges,,Umarizal,Oeste Potiguar
@@ -1335,7 +1335,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 2507200,PB,Itatuba,,-35.62816125,-7.374957755,Itatuba,,Itabaiana,Agreste Paraibano
 2507309,PB,Jacaraú,,-35.2942824484,-6.6129685867,Jacarau,,Litoral Norte,Mata Paraibana
 2507408,PB,Jericó,,-37.8086413774,-6.5561949909,Jerico,,Catolé do Rocha,Sertão Paraibano
-2507507,PB,João Pessoa,yes,-34.8733848135,-7.14938202,Joao Pessoa,,João Pessoa,Mata Paraibana
+2507507,PB,João Pessoa,true,-34.8733848135,-7.14938202,Joao Pessoa,,João Pessoa,Mata Paraibana
 2507606,PB,Juarez Távora,,-35.5911781067,-7.1663446273,Juarez Tavora,,Itabaiana,Agreste Paraibano
 2507705,PB,Juazeirinho,,-36.5707010055,-7.0653683106,Juazeirinho,,Seridó Oriental Paraibano,Borborema
 2507804,PB,Junco do Seridó,,-36.7164412261,-6.9933376489,Junco do Serido,,Seridó Ocidental Paraibano,Borborema
@@ -1594,7 +1594,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 2611408,PE,Primavera,,-35.3539433949,-8.3313760861,Primavera,,Mata Meridional Pernambucana,Mata Pernambucana
 2611507,PE,Quipapá,,-36.01198953,-8.8278850221,Quipapa,,Mata Meridional Pernambucana,Mata Pernambucana
 2611533,PE,Quixaba,,-37.8464456195,-7.7181264101,Quixaba,,Pajeú,Sertão Pernambucano
-2611606,PE,Recife,yes,-34.8889419446,-8.0627624831,Recife,,Recife,Metropolitana de Recife
+2611606,PE,Recife,true,-34.8889419446,-8.0627624831,Recife,,Recife,Metropolitana de Recife
 2611705,PE,Riacho das Almas,,-35.8608749475,-8.1270327806,Riacho das Almas,,Vale do Ipojuca,Agreste Pernambucano
 2611804,PE,Ribeirão,,-35.3761308237,-8.51111604,Ribeirao,,Mata Meridional Pernambucana,Mata Pernambucana
 2611903,PE,Rio Formoso,,-35.1554328172,-8.6621710853,Rio Formoso,,Mata Meridional Pernambucana,Mata Pernambucana
@@ -1694,7 +1694,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 2704005,AL,Junqueiro,,-36.4715218222,-9.9316103897,Junqueiro,,São Miguel Dos Campos,Leste Alagoano
 2704104,AL,Lagoa da Canoa,,-36.73578926,-9.8308756565,Lagoa da Canoa,,Arapiraca,Agreste Alagoano
 2704203,AL,Limoeiro de Anadia,,-36.5038970865,-9.7386131678,Limoeiro de Anadia,,Arapiraca,Agreste Alagoano
-2704302,AL,Maceió,yes,-35.7016299135,-9.6608221516,Maceio,,Maceió,Leste Alagoano
+2704302,AL,Maceió,true,-35.7016299135,-9.6608221516,Maceio,,Maceió,Leste Alagoano
 2704401,AL,Major Isidoro,,-36.9847996142,-9.5266440679,Major Isidoro,,Batalha,Sertão Alagoano
 2704500,AL,Maragogi,,-35.2230154091,-9.0154564858,Maragogi,,Litoral Norte Alagoano,Leste Alagoano
 2704609,AL,Maravilha,,-37.356635422,-9.2339970634,Maravilha,,Santana do Ipanema,Sertão Alagoano
@@ -1752,7 +1752,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 2709400,AL,Viçosa,,-36.2483932029,-9.3770543545,Vicosa,,Serrana Dos Quilombos,Leste Alagoano
 2800100,SE,Amparo de São Francisco,,-36.9274836892,-10.1339710339,Amparo de Sao Francisco,,Propriá,Leste Sergipano
 2800209,SE,Aquidabã,,-37.0221808561,-10.2925180922,Aquidaba,,Nossa Senhora Das Dores,Agreste Sergipano
-2800308,SE,Aracaju,yes,-37.0482126395,-10.9072157979,Aracaju,,Aracaju,Leste Sergipano
+2800308,SE,Aracaju,true,-37.0482126395,-10.9072157979,Aracaju,,Aracaju,Leste Sergipano
 2800407,SE,Arauá,,-37.6123374341,-11.2645047799,Araua,,Boquim,Leste Sergipano
 2800506,SE,Areia Branca,,-37.3133626004,-10.7581922508,Areia Branca,,Agreste de Itabaiana,Agreste Sergipano
 2800605,SE,Barra dos Coqueiros,,-37.0412415493,-10.9067992471,Barra dos Coqueiros,,Aracaju,Leste Sergipano
@@ -2160,7 +2160,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 2927101,BA,Rodelas,,-38.7723090007,-8.8449965336,Rodelas,,Paulo Afonso,Vale São-Franciscano da Bahia
 2927200,BA,Ruy Barbosa,,-40.5003712306,-12.2893169588,Ruy Barbosa,,Itaberaba,Centro Norte Baiano
 2927309,BA,Salinas da Margarida,,-38.7579439509,-12.8779970546,Salinas da Margarida,,Santo Antônio de Jesus,Metropolitana de Salvador
-2927408,BA,Salvador,yes,-38.488061484,-13.0147719115,Salvador,,Salvador,Metropolitana de Salvador
+2927408,BA,Salvador,true,-38.488061484,-13.0147719115,Salvador,,Salvador,Metropolitana de Salvador
 2927507,BA,Santa Bárbara,,-38.9661390064,-11.9569028341,Santa Barbara,,Feira de Santana,Centro Norte Baiano
 2927606,BA,Santa Brígida,,-38.1278183663,-9.7318909595,Santa Brigida,,Jeremoabo,Nordeste Baiano
 2927705,BA,Santa Cruz Cabrália,,-39.0131825841,-16.3380965838,Santa Cruz Cabralia,,Porto Seguro,Sul Baiano
@@ -2307,7 +2307,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 3105905,MG,Barroso,,-43.9753811243,-21.176286999,Barroso,,Barbacena,Campo Das Vertentes
 3106002,MG,Bela Vista de Minas,,-43.0969322664,-19.825846764,Bela Vista de Minas,,Itabira,Metropolitana de Belo Horizonte
 3106101,MG,Belmiro Braga,,-43.4157207679,-21.950131302,Belmiro Braga,,Juiz de Fora,Zona da Mata
-3106200,MG,Belo Horizonte,yes,-43.9264531735,-19.9375242938,Belo Horizonte,,Belo Horizonte,Metropolitana de Belo Horizonte
+3106200,MG,Belo Horizonte,true,-43.9264531735,-19.9375242938,Belo Horizonte,,Belo Horizonte,Metropolitana de Belo Horizonte
 3106309,MG,Belo Oriente,,-42.4872826002,-19.2246449994,Belo Oriente,,Ipatinga,Vale do Rio Doce
 3106408,MG,Belo Vale,,-44.0285276542,-20.4066578718,Belo Vale,,Itaguara,Metropolitana de Belo Horizonte
 3106507,MG,Berilo,,-42.4613537743,-16.9503017553,Berilo,,Capelinha,Jequitinhonha
@@ -3172,7 +3172,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 3205150,ES,Vila Pavão,,-40.6024114108,-18.6208034523,Vila Pavao,,Nova Venécia,Noroeste Espírito-Santense
 3205176,ES,Vila Valério,,-40.3905897774,-18.9936174389,Vila Valerio,,Nova Venécia,Noroeste Espírito-Santense
 3205200,ES,Vila Velha,,-40.2939566369,-20.3383741042,Vila Velha,,Vitória,Central Espírito-Santense
-3205309,ES,Vitória,yes,-40.3222087267,-20.3201537929,Vitoria,,Vitória,Central Espírito-Santense
+3205309,ES,Vitória,true,-40.3222087267,-20.3201537929,Vitoria,,Vitória,Central Espírito-Santense
 3300100,RJ,Angra dos Reis,,-44.3196272623,-23.0091159353,Angra dos Reis,,Baía da Ilha Grande,Sul Fluminense
 3300159,RJ,Aperibé,,-42.1049166541,-21.6194217698,Aperibe,,Santo Antônio de Pádua,Noroeste Fluminense
 3300209,RJ,Araruama,,-42.3410960232,-22.8774383874,Araruama,,Lagos,Baixadas
@@ -3240,7 +3240,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 3304409,RJ,Rio Claro,,-44.1394056377,-22.731726834,Rio Claro,,Vale do Paraíba Fluminense,Sul Fluminense
 3304508,RJ,Rio das Flores,,-43.5764329481,-22.1718622438,Rio das Flores,,Barra do Piraí,Sul Fluminense
 3304524,RJ,Rio das Ostras,,-41.9369671272,-22.5239411858,Rio das Ostras,,Bacia de São João,Baixadas
-3304557,RJ,Rio de Janeiro,yes,-43.227875125,-22.8766521182,Rio de Janeiro,,Rio de Janeiro,Metropolitana do Rio de Janeiro
+3304557,RJ,Rio de Janeiro,true,-43.227875125,-22.8766521182,Rio de Janeiro,,Rio de Janeiro,Metropolitana do Rio de Janeiro
 3304607,RJ,Santa Maria Madalena,,-42.0144449928,-21.9660944707,Santa Maria Madalena,,Santa Maria Madalena,Centro Fluminense
 3304706,RJ,Santo Antônio de Pádua,,-42.1779115575,-21.5359771209,Santo Antonio de Padua,,Santo Antônio de Pádua,Noroeste Fluminense
 3304755,RJ,São Francisco de Itabapoana,,-41.1177197286,-21.4801381323,Sao Francisco de Itabapoana,,Campos Dos Goytacazes,Norte Fluminense
@@ -3827,7 +3827,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 3550001,SP,São Luís do Paraitinga,,-45.3095445048,-23.2218715102,Sao Luis do Paraitinga,,Paraibuna/Paraitinga,Vale do Paraíba Paulista
 3550100,SP,São Manuel,,-48.5687632813,-22.736459985,Sao Manuel,,Botucatu,Bauru
 3550209,SP,São Miguel Arcanjo,,-47.9955891464,-23.87949,Sao Miguel Arcanjo,,Piedade,Macro Metropolitana Paulista
-3550308,SP,São Paulo,yes,-46.5703831821,-23.5673865,Sao Paulo,,São Paulo,Metropolitana de São Paulo
+3550308,SP,São Paulo,true,-46.5703831821,-23.5673865,Sao Paulo,,São Paulo,Metropolitana de São Paulo
 3550407,SP,São Pedro,,-47.9140329971,-22.548888,Sao Pedro,,Piracicaba,Piracicaba
 3550506,SP,São Pedro do Turvo,,-49.7414761629,-22.7512564292,Sao Pedro do Turvo,,Ourinhos,Assis
 3550605,SP,São Roque,,-47.1354230127,-23.530359,Sao Roque,,Sorocaba,Macro Metropolitana Paulista
@@ -4003,7 +4003,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 4106704,PR,Cruzeiro do Sul,,-52.1639776695,-22.9651754195,Cruzeiro do Sul,,Paranavaí,Noroeste Paranaense
 4106803,PR,Cruz Machado,,-51.3477095246,-26.0172688782,Cruz Machado,,União da Vitória,Sudeste Paranaense
 4106852,PR,Cruzmaltina,,-51.444246649,-23.9933276019,Cruzmaltina,,Faxinal,Norte Central Paranaense
-4106902,PR,Curitiba,yes,-49.2718478851,-25.432956,Curitiba,,Curitiba,Metropolitana de Curitiba
+4106902,PR,Curitiba,true,-49.2718478851,-25.432956,Curitiba,,Curitiba,Metropolitana de Curitiba
 4107009,PR,Curiúva,,-50.4594055245,-24.0358255893,Curiuva,,Ibaiti,Norte Pioneiro Paranaense
 4107108,PR,Diamante do Norte,,-52.8641112387,-22.6572061502,Diamante do Norte,,Paranavaí,Noroeste Paranaense
 4107124,PR,Diamante do Sul,,-52.6881907613,-25.0351919283,Diamante do Sul,,Cascavel,Oeste Paranaense
@@ -4396,7 +4396,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 4205209,SC,Erval Velho,,-51.4434329044,-27.2738954846,Erval Velho,,Joaçaba,Oeste Catarinense
 4205308,SC,Faxinal dos Guedes,,-52.2714153987,-26.8597867214,Faxinal dos Guedes,,Xanxerê,Oeste Catarinense
 4205357,SC,Flor do Sertão,,-53.3448914355,-26.7794323288,Flor do Sertao,,Chapecó,Oeste Catarinense
-4205407,SC,Florianópolis,yes,-48.5476373782,-27.5877955486,Florianopolis,,Florianópolis,Grande Florianópolis
+4205407,SC,Florianópolis,true,-48.5476373782,-27.5877955486,Florianopolis,,Florianópolis,Grande Florianópolis
 4205431,SC,Formosa do Sul,,-52.7934500253,-26.6485233783,Formosa do Sul,,Chapecó,Oeste Catarinense
 4205456,SC,Forquilhinha,,-49.4688610534,-28.7424153509,Forquilhinha,,Criciúma,Sul Catarinense
 4205506,SC,Fraiburgo,,-50.9250792352,-27.0234469627,Fraiburgo,,Joaçaba,Oeste Catarinense
@@ -4926,7 +4926,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 4314779,RS,Pontão,,-52.6753994466,-28.0618408394,Pontao,,Passo Fundo,Noroeste Rio-Grandense
 4314787,RS,Ponte Preta,,-52.4902319212,-27.6570399701,Ponte Preta,,Erechim,Noroeste Rio-Grandense
 4314803,RS,Portão,,-51.2301496442,-29.6962586011,Portao,,Montenegro,Metropolitana de Porto Alegre
-4314902,RS,Porto Alegre,yes,-51.2286604637,-30.0300367748,Porto Alegre,,Porto Alegre,Metropolitana de Porto Alegre
+4314902,RS,Porto Alegre,true,-51.2286604637,-30.0300367748,Porto Alegre,,Porto Alegre,Metropolitana de Porto Alegre
 4315008,RS,Porto Lucena,,-55.0115620453,-27.851375116,Porto Lucena,,Santa Rosa,Noroeste Rio-Grandense
 4315057,RS,Porto Mauá,,-54.6719518915,-27.5786353601,Porto Maua,,Santa Rosa,Noroeste Rio-Grandense
 4315073,RS,Porto Vera Cruz,,-54.899031824,-27.7343739194,Porto Vera Cruz,,Santa Rosa,Noroeste Rio-Grandense
@@ -5117,7 +5117,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 5002308,MS,Brasilândia,,-52.0362967949,-21.247118144,Brasilandia,,Três Lagoas,Leste de Mato Grosso do Sul
 5002407,MS,Caarapó,,-54.8269701014,-22.6365822194,Caarapo,,Dourados,Sudoeste de Mato Grosso do Sul
 5002605,MS,Camapuã,,-54.0433094864,-19.5352597987,Camapua,,Alto Taquari,Centro Norte de Mato Grosso do Sul
-5002704,MS,Campo Grande,yes,-54.6157435665,-20.4580299879,Campo Grande,,Campo Grande,Centro Norte de Mato Grosso do Sul
+5002704,MS,Campo Grande,true,-54.6157435665,-20.4580299879,Campo Grande,,Campo Grande,Centro Norte de Mato Grosso do Sul
 5002803,MS,Caracol,,-57.0259387644,-22.0127382892,Caracol,,Bodoquena,Sudoeste de Mato Grosso do Sul
 5002902,MS,Cassilândia,,-51.7315768884,-19.1094073708,Cassilandia,,Cassilândia,Leste de Mato Grosso do Sul
 5002951,MS,Chapadão do Sul,,-52.626355707,-18.797773122,Chapadao do Sul,,Cassilândia,Leste de Mato Grosso do Sul
@@ -5213,7 +5213,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 5103353,MT,Confresa,,-51.5710336179,-10.640730577,Confresa,,Norte Araguaia,Nordeste Mato-Grossense
 5103361,MT,Conquista D'Oeste,,-59.5450742073,-14.536272815,Conquista D'Oeste,,Alto Guaporé,Sudoeste Mato-Grossense
 5103379,MT,Cotriguaçu,,-58.6068949711,-9.8862538715,Cotriguacu,,Aripuanã,Norte Mato-Grossense
-5103403,MT,Cuiabá,yes,-56.0732520382,-15.5699890131,Cuiaba,,Cuiabá,Centro-Sul Mato-Grossense
+5103403,MT,Cuiabá,true,-56.0732520382,-15.5699890131,Cuiaba,,Cuiabá,Centro-Sul Mato-Grossense
 5103437,MT,Curvelândia,,-57.9171149787,-15.6093061709,Curvelandia,,Alto Pantanal,Centro-Sul Mato-Grossense
 5103452,MT,Denise,,-57.0537772728,-14.7338159183,Denise,,Tangará da Serra,Sudoeste Mato-Grossense
 5103502,MT,Diamantino,,-56.4335660815,-14.4013229622,Diamantino,,Parecis,Norte Mato-Grossense
@@ -5411,7 +5411,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 5208400,GO,Goianápolis,,-49.017342179,-16.5006821667,Goianapolis,,Goiânia,Centro Goiano
 5208509,GO,Goiandira,,-48.0884713741,-18.1326246744,Goiandira,,Catalão,Sul Goiano
 5208608,GO,Goianésia,,-49.1158101508,-15.3222887525,Goianesia,,Ceres,Centro Goiano
-5208707,GO,Goiânia,yes,-49.2558142758,-16.6733097738,Goiania,,Goiânia,Centro Goiano
+5208707,GO,Goiânia,true,-49.2558142758,-16.6733097738,Goiania,,Goiânia,Centro Goiano
 5208806,GO,Goianira,,-49.4287772736,-16.5031915592,Goianira,,Goiânia,Centro Goiano
 5208905,GO,Goiás,,-50.1413841443,-15.9357427011,Goias,,Rio Vermelho,Noroeste Goiano
 5209101,GO,Goiatuba,,-49.3666434696,-18.0106332404,Goiatuba,,Meia Ponte,Sul Goiano
@@ -5563,4 +5563,4 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 5222054,GO,Vicentinópolis,,-49.8072390139,-17.7326623803,Vicentinopolis,,Meia Ponte,Sul Goiano
 5222203,GO,Vila Boa,,-47.0573608537,-15.0348887907,Vila Boa,,Entorno de Brasília,Leste Goiano
 5222302,GO,Vila Propício,,-48.8824220765,-15.4546348168,Vila Propicio,,Entorno de Brasília,Leste Goiano
-5300108,DF,Brasília,yes,-47.887905478,-15.7940873619,Brasilia,,Brasília,Distrito Federal
+5300108,DF,Brasília,true,-47.887905478,-15.7940873619,Brasilia,,Brasília,Distrito Federal
