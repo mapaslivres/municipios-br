@@ -223,6 +223,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 1504505,PA,Melgaço,,-50.7174646977,-1.8034466986,Melgaco,,Portel,Marajó
 1504604,PA,Mocajuba,,-49.5090234613,-2.5828729733,Mocajuba,,Cametá,Nordeste Paraense
 1504703,PA,Moju,,-48.7671991274,-1.885889,Moju,,Tomé-Açu,Nordeste Paraense
+1504752,PA,Mojuí dos Campos,,-54.64326888,-2.68245777,Mojui dos Campos,,Santarém,Baixo Amazonas
 1504802,PA,Monte Alegre,,-54.0733747256,-2.003328,Monte Alegre,,Santarém,Baixo Amazonas
 1504901,PA,Muaná,,-49.2168324425,-1.5300262084,Muana,,Arari,Marajó
 1504950,PA,Nova Esperança do Piriá,,-46.9620928837,-2.267625989,Nova Esperanca do Piria,,Guamá,Nordeste Paraense
@@ -4338,6 +4339,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 4202008,SC,Balneário Camboriú,,-48.634617477,-26.9918186053,Balneario Camboriu,,Itajaí,Vale do Itajaí
 4202057,SC,Balneário Barra do Sul,,-48.606645876,-26.4564295671,Balneario Barra do Sul,,Joinville,Norte Catarinense
 4202073,SC,Balneário Gaivota,,-49.5908937824,-29.1645212685,Balneario Gaivota,,Araranguá,Sul Catarinense
+4220000,SC,Balneário Rincão,,-49.23611111,-28.83444444,Balneario Rincao,,Criciúma,Sul Catarinense
 4202081,SC,Bandeirante,,-53.6410495866,-26.7689379013,Bandeirante,,São Miguel D'oeste,Oeste Catarinense
 4202099,SC,Barra Bonita,,-53.4413025406,-26.6522935999,Barra Bonita,,São Miguel D'oeste,Oeste Catarinense
 4202107,SC,Barra Velha,,-48.6838642743,-26.6343614083,Barra Velha,,Itajaí,Vale do Itajaí
@@ -4501,6 +4503,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 4212403,SC,Pedras Grandes,,-49.1864875474,-28.4372176497,Pedras Grandes,,Tubarão,Sul Catarinense
 4212502,SC,Penha,,-48.6475729113,-26.7688610927,Penha,,Itajaí,Vale do Itajaí
 4212601,SC,Peritiba,,-51.9098146671,-27.3773092815,Peritiba,,Concórdia,Oeste Catarinense
+4212650,SC,Pescaria Brava,,-48.886735,-28.396980,Pescaria Brava,,Tubarão,Sul Catarinense 
 4212700,SC,Petrolândia,,-49.6948686231,-27.528126833,Petrolandia,,Ituporanga,Vale do Itajaí
 4212809,SC,Balneário Piçarras,,-48.675051354,-26.7691705385,Balneario Picarras,,Itajaí,Vale do Itajaí
 4212908,SC,Pinhalzinho,,-52.9822532451,-26.8488143342,Pinhalzinho,,Chapecó,Oeste Catarinense
@@ -4919,6 +4922,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 4314472,RS,Pinhal Grande,,-53.3386383371,-29.3353601289,Pinhal Grande,,Santiago,Centro Ocidental Rio-Grandense
 4314498,RS,Pinheirinho do Vale,,-53.6195609569,-27.2097627893,Pinheirinho do Vale,,Frederico Westphalen,Noroeste Rio-Grandense
 4314506,RS,Pinheiro Machado,,-53.3846199683,-31.5805926687,Pinheiro Machado,,Serras do Sudeste,Sudeste Rio-Grandense
+4314548,RS,Pinto Bandeira,,-51.450291,-29.097505,Pinto Bandeira,,Caxias do Sul,Nordeste Rio-Grandense
 4314555,RS,Pirapó,,-55.2003099472,-28.0453158376,Pirapo,,Santo Ângelo,Noroeste Rio-Grandense
 4314605,RS,Piratini,,-53.104734454,-31.4441124734,Piratini,,Serras do Sudeste,Sudeste Rio-Grandense
 4314704,RS,Planalto,,-53.0588808131,-27.3314638755,Planalto,,Frederico Westphalen,Noroeste Rio-Grandense
@@ -5155,6 +5159,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 5006002,MS,Nova Alvorada do Sul,,-54.3828036001,-21.4666342525,Nova Alvorada do Sul,,Dourados,Sudoeste de Mato Grosso do Sul
 5006200,MS,Nova Andradina,,-53.3515738149,-22.2487593128,Nova Andradina,,Nova Andradina,Leste de Mato Grosso do Sul
 5006259,MS,Novo Horizonte do Sul,,-53.860886557,-22.6549531056,Novo Horizonte do Sul,,Iguatemi,Sudoeste de Mato Grosso do Sul
+5006275,MS,Paraíso das Águas,,-53.0115833333,-19.0216477777, Paraiso das Aguas,,Cassilândia,Leste de Mato Grosso do Sul
 5006309,MS,Paranaíba,,-51.1887077084,-19.6773717332,Paranaiba,,Paranaíba,Leste de Mato Grosso do Sul
 5006358,MS,Paranhos,,-55.4330304574,-23.8968696615,Paranhos,,Iguatemi,Sudoeste de Mato Grosso do Sul
 5006408,MS,Pedro Gomes,,-54.5524458292,-18.1018562343,Pedro Gomes,,Alto Taquari,Centro Norte de Mato Grosso do Sul
