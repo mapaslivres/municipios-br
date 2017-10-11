@@ -1,49 +1,21 @@
-Dados básicos sobre municipalidades brasileiras, em formato aberto.
+>  Dados em formato aberto sobre localidades brasileiras para uso em visualizações de dados, interfaces de entrada e sanitização de bases. As tabelas contém nomes com e sem acentos, códigos de identificação (IBGE, OpenStreetMap, Wikidata, ISO), fuso-horário, imagens de bandeiras e outras informações normalizadas.
 
-# Descrição dos dados
+# Tabelas disponíveis
 
-## Cidades
+- [Estados](data/states.csv)
+- [Cidades](data/cities.csv)
+- [Distritos](data/districts.csv)
+- [Sub-distritos](data/subdistricts.csv)
+- [Localidades](data/localities.csv)
 
-A tabela cidades.csv contém as seguintes informações:
+# Contribua
 
-* `ibge_id`: código do IBGE para a cidade;
-* `uf`: sigla do estado;
-* `name`: nome da cidade, com acentos e maiúsculas;
-* `capital`: se a cidade é uma capital, tem valor `true`;
-* `lon` e `lat`: coordenadas do centro geográfico ou administrativo da cidade, obtidas no OpenStreetMap;
-* `no_accents`: nome da cidade, sem acentos;
-* `alternative_names`: nomes alternativos;
-* `microregion` e `mesoregion`: microregião da cidade, segundo o IBGE.
+Caso identifique um erro ou dados faltantes, abra um [issue](issues) ou [pull request](https://help.github.com/articles/about-pull-requests).
 
-## Distritos
+Conheça a [lista de contribuidores](graphs/contributors).
 
-A tabela distritos.csv lista a divisão das cidades em distritos, segundo definição do IBGE, e contém os seguintes campos:
+# Licença
 
-* name: nome do distrito;
-* ibge_id: código IBGE do distrito;
-* ibge_city_id: código IBGE da cidade que contém o distrito.
+Os dados deste repositório estão licenciados sob a [Open Database License (ODbL-1.0)](LICENSE), que permite o uso livre dos dados e requer redistribuição sob a mesma licença.
 
-## Sub-distritos
-
-A tabela subdistritos.csv lista a divisão das cidades em subdistritos, segundo definição do IBGE, e contém os seguintes campos:
-
-* name: nome do subdistrito;
-* ibge_id: código IBGE do subdistrito;
-* ibge_district_id: código IBGE do distrito que contém o subdistrito;
-* ibge_city_id: código IBGE da cidade que contém o subdistrito.
-
-## Localidades
-
-A tabela localidades.csv lista a divisão das cidades em localidades, segundo definição do IBGE, e contém os seguintes campos:
-
-* name: nome da localidade;
-* ibge_id: código IBGE da localidade;
-* ibge_city_id: código IBGE da cidade que contém a localidade.
-
-# Fontes
-
-* OpenStreetMap
-* IBGE 
-
-# License
-[Open Database License 1.0](opendatacommons.org/licenses/odbl)
+Consulte a [página oficial da ODbL-1.0](https://opendatacommons.org/licenses/odbl/) ou este este [FAQ](http://wiki.openstreetmap.org/wiki/Legal_FAQ/CC-BY-SA_Archive#What.27s_this_about_a_licence_change.3F) para saber mais sobre as condições de uso.
