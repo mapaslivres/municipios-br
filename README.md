@@ -20,7 +20,7 @@ A maneira mais fácil de contribuir é editando as cópias abertas disponíveis 
 
 O mantenedor será avisado automaticamente das edições. Também é possível enviar comentários e correções via [issues](issues) ou [pull requests](https://help.github.com/articles/about-pull-requests).
 
-Conheça a [lista de contribuidores](graphs/contributors).
+Conheça a [lista de contribuidores](https://github.com/mapaslivres/localidades/graphs/contributors).
 
 # Licença
 
