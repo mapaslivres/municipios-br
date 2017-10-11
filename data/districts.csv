@@ -1,4 +1,4 @@
-ibge_id,ibge_city_id,name
+ibge_code,ibge_city_code,name
 110001505,1100015,Alta Floresta d'Oeste
 110001515,1100015,Filadélfia d'Oeste
 110001520,1100015,Izidolândia

@@ -1,4 +1,4 @@
-ibge_id,name,ibge_city_id,ibge_district_id
+ibge_code,name,ibge_city_code,ibge_district_code
 11002050506,Zona 01,1100205,110020505
 11002050507,Zona 02,1100205,110020505
 11002050508,Zona 03,1100205,110020505

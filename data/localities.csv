@@ -1,4 +1,4 @@
-ibge_city_id,ibge_id,name
+ibge_city_code,ibge_code,name
 1100015,110001505001,Centro
 1100015,110001505002,Liberdade
 1100015,110001505003,Cidade Alta

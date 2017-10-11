@@ -1,4 +1,4 @@
-ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoregion
+ibge_code,state_code,name,is_capital,lon,lat,no_accents,alternative_names,microregion,mesoregion
 1100015,RO,Alta Floresta D'Oeste,,-61.9998238963,-11.9355403048,Alta Floresta D'Oeste,,Cacoal,Leste Rondoniense
 1100023,RO,Ariquemes,,-63.033269278,-9.9084628666,Ariquemes,,Ariquemes,Leste Rondoniense
 1100031,RO,Cabixi,,-60.5443135812,-13.4997634597,Cabixi,,Colorado do Oeste,Leste Rondoniense
@@ -4503,7 +4503,7 @@ ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoreg
 4212403,SC,Pedras Grandes,,-49.1864875474,-28.4372176497,Pedras Grandes,,Tubarão,Sul Catarinense
 4212502,SC,Penha,,-48.6475729113,-26.7688610927,Penha,,Itajaí,Vale do Itajaí
 4212601,SC,Peritiba,,-51.9098146671,-27.3773092815,Peritiba,,Concórdia,Oeste Catarinense
-4212650,SC,Pescaria Brava,,-48.886735,-28.396980,Pescaria Brava,,Tubarão,Sul Catarinense 
+4212650,SC,Pescaria Brava,,-48.886735,-28.396980,Pescaria Brava,,Tubarão,Sul Catarinense
 4212700,SC,Petrolândia,,-49.6948686231,-27.528126833,Petrolandia,,Ituporanga,Vale do Itajaí
 4212809,SC,Balneário Piçarras,,-48.675051354,-26.7691705385,Balneario Picarras,,Itajaí,Vale do Itajaí
 4212908,SC,Pinhalzinho,,-52.9822532451,-26.8488143342,Pinhalzinho,,Chapecó,Oeste Catarinense
