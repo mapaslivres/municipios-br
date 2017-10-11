@@ -2,11 +2,11 @@
 
 # Tabelas disponíveis
 
-- Unidades federativas (estados e DF): [preview](data/states.csv), <a href="data/states.csv" target="_blank">download</a>
-- Municípios: [preview](data/cities.csv), <a href="data/cities.csv" target="_blank">download</a>
-- Distritos: [preview](data/districts.csv), <a href="data/districts.csv" target="_blank">download</a>
-- Sub-distritos: [preview](data/subdistricts.csv), <a href="data/subdistricts.csv" target="_blank">download</a>
-- Localidades: [preview](data/localities.csv), <a href="data/localities.csv" target="_blank">download</a>
+- Unidades federativas (estados e DF): [preview](data/states.csv), <a href="data/states.csv" download>download</a>
+- Municípios: [preview](data/cities.csv), <a href="https://github.com/mapaslivres/localidades/raw/master/data/cities.csv" download>download</a>
+- Distritos: [preview](data/districts.csv), <a href="https://github.com/mapaslivres/localidades/raw/master/data/districts.csv" download>download</a>
+- Sub-distritos: [preview](data/subdistricts.csv), <a href="https://github.com/mapaslivres/localidades/raw/master/data/subdistricts.csv" download>download</a>
+- Localidades: [preview](data/localities.csv), <a href="https://github.com/mapaslivres/localidades/raw/master/data/localities.csv" download>download</a>
 
 # Contribua
 
