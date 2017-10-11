@@ -2,20 +2,28 @@
 
 # Tabelas disponíveis
 
-- [Estados](data/states.csv)
-- [Cidades](data/cities.csv)
-- [Distritos](data/districts.csv)
-- [Sub-distritos](data/subdistricts.csv)
-- [Localidades](data/localities.csv)
+- Unidades federativas (estados e DF): [preview](data/states.csv), <a href="data/states.csv" target="_blank">download</a>
+- Municípios: [preview](data/cities.csv), <a href="data/cities.csv" target="_blank">download</a>
+- Distritos: [preview](data/districts.csv), <a href="data/districts.csv" target="_blank">download</a>
+- Sub-distritos: [preview](data/subdistricts.csv), <a href="data/subdistricts.csv" target="_blank">download</a>
+- Localidades: [preview](data/localities.csv), <a href="data/localities.csv" target="_blank">download</a>
 
 # Contribua
 
-Caso identifique um erro ou dados faltantes, abra um [issue](issues) ou [pull request](https://help.github.com/articles/about-pull-requests).
+A maneira mais fácil de contribuir é editando as cópias abertas disponíveis no Google Drive:
+
+- [Unidades Federativas](https://docs.google.com/spreadsheets/d/1nlPA0d50gipYFeT5OSQWgnE59_LkTiuTnZOJ8UZ_B_Y/edit?usp=sharing)
+- [Municípios](https://docs.google.com/spreadsheets/d/1zmHOD24AZ0T6jTUPh2-YEYo6dDO3bEaokm07fAywNaA/edit?usp=sharing)
+- [Distritos](https://docs.google.com/spreadsheets/d/1Q3r1IkS7yd2CbN2qPlZiH_-q84Qv10dO5JFq2HPlxsI/edit?usp=sharing)
+- [Sub-distritos](https://docs.google.com/spreadsheets/d/1XYBbe915oFyXEEOH6lgIuHPt_zzCwcxO47RZIDMt-bA/edit?usp=sharing)
+- [Localidades](https://docs.google.com/spreadsheets/d/1G77b3r_SGHC_Zuz91aNoQddMPdSfPDLCa6x8AjRlrM4/edit?usp=sharing)
+
+O mantenedor será avisado automaticamente das edições. Também é possível enviar comentários e correções via [issues](issues) ou [pull requests](https://help.github.com/articles/about-pull-requests).
 
 Conheça a [lista de contribuidores](graphs/contributors).
 
 # Licença
 
-Os dados deste repositório estão licenciados sob a [Open Database License (ODbL-1.0)](LICENSE), que permite o uso livre dos dados e requer redistribuição sob a mesma licença.
+Os dados estão licenciados sob a [Open Database License (ODbL-1.0)](LICENSE), que permite seu uso livre e requer redistribuição sob a mesma licença.
 
-Consulte a [página oficial da ODbL-1.0](https://opendatacommons.org/licenses/odbl/) ou este este [FAQ](http://wiki.openstreetmap.org/wiki/Legal_FAQ/CC-BY-SA_Archive#What.27s_this_about_a_licence_change.3F) para saber mais sobre as condições de uso.
+Consulte a [página oficial](https://opendatacommons.org/licenses/odbl/) da ODbL-1.0 ou este este [FAQ](http://wiki.openstreetmap.org/wiki/Legal_FAQ/CC-BY-SA_Archive#What.27s_this_about_a_licence_change.3F) para saber mais sobre as condições de uso.
