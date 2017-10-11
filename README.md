@@ -1,4 +1,4 @@
->  Dados em formato aberto sobre localidades brasileiras para uso em visualizações de dados, interfaces de entrada e sanitização de bases. As tabelas contém nomes com e sem acentos, códigos de identificação (IBGE, OpenStreetMap, Wikidata, ISO), fuso-horário, imagens de bandeiras e outras informações normalizadas.
+>  Dados em formato aberto sobre localidades brasileiras para uso em visualizações de dados, interfaces de entrada e sanitização de bases. As tabelas contém nomes com e sem acentos, coordenadas lat/lon, códigos de identificação (IBGE, OpenStreetMap, Wikidata, ISO), fuso-horário, imagens de bandeiras e outras informações normalizadas.
 
 # Tabelas disponíveis
 
