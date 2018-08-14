@@ -4607,7 +4607,7 @@ ibge_code,state_code,name,is_capital,lon,lat,no_accents,alternative_names,micror
 4220000,SC,Balneário Rincão,,-49.23611111,-28.83444444,Balneario Rincao,,Criciúma,Sul Catarinense
 4300034,RS,Aceguá,,-54.1647315364,-31.8640153043,Acegua,,Campanha Meridional,Sudoeste Rio-Grandense
 4300059,RS,Água Santa,,-52.0346327892,-28.1750547485,Agua Santa,,Passo Fundo,Noroeste Rio-Grandense
-4300109,RS,Agudo,,-53.2586916877,-29.6456633632,Agudo,,Restinga Seca,Centro Ocidental Rio-Grandense
+4300109,RS,Agudo,,-53.2586916877,-29.6456633632,Agudo,,Restinga Sêca,Centro Ocidental Rio-Grandense
 4300208,RS,Ajuricaba,,-53.77281889,-28.2377290067,Ajuricaba,,Ijuí,Noroeste Rio-Grandense
 4300307,RS,Alecrim,,-54.7670962217,-27.6610744578,Alecrim,,Santa Rosa,Noroeste Rio-Grandense
 4300406,RS,Alegrete,,-55.7958701453,-29.7820432091,Alegrete,,Campanha Ocidental,Sudoeste Rio-Grandense
@@ -4742,7 +4742,7 @@ ibge_code,state_code,name,is_capital,lon,lat,no_accents,alternative_names,micror
 4306502,RS,Dom Feliciano,,-52.1039335797,-30.7085984263,Dom Feliciano,,Camaquã,Metropolitana de Porto Alegre
 4306551,RS,Dom Pedro de Alcântara,,-49.8495499617,-29.3701870791,Dom Pedro de Alcantara,,Osório,Metropolitana de Porto Alegre
 4306601,RS,Dom Pedrito,,-54.6741301838,-30.9812670568,Dom Pedrito,,Campanha Meridional,Sudoeste Rio-Grandense
-4306700,RS,Dona Francisca,,-53.3623331808,-29.6248524913,Dona Francisca,,Restinga Seca,Centro Ocidental Rio-Grandense
+4306700,RS,Dona Francisca,,-53.3623331808,-29.6248524913,Dona Francisca,,Restinga Sêca,Centro Ocidental Rio-Grandense
 4306734,RS,Doutor Maurício Cardoso,,-54.3582679905,-27.5092126137,Doutor Mauricio Cardoso,,Três Passos,Noroeste Rio-Grandense
 4306759,RS,Doutor Ricardo,,-51.9849043921,-29.099031061,Doutor Ricardo,,Lajeado-Estrela,Centro Oriental Rio-Grandense
 4306767,RS,Eldorado do Sul,,-51.310418926,-29.9992925946,Eldorado do Sul,,Porto Alegre,Metropolitana de Porto Alegre
@@ -4768,14 +4768,14 @@ ibge_code,state_code,name,is_capital,lon,lat,no_accents,alternative_names,micror
 4307831,RS,Eugênio de Castro,,-54.1481126185,-28.5250597626,Eugenio de Castro,,Santo Ângelo,Noroeste Rio-Grandense
 4307864,RS,Fagundes Varela,,-51.6914487477,-28.8821343126,Fagundes Varela,,Caxias do Sul,Nordeste Rio-Grandense
 4307906,RS,Farroupilha,,-51.3483495738,-29.2236791868,Farroupilha,,Caxias do Sul,Nordeste Rio-Grandense
-4308003,RS,Faxinal do Soturno,,-53.4390648197,-29.5743295398,Faxinal do Soturno,,Restinga Seca,Centro Ocidental Rio-Grandense
+4308003,RS,Faxinal do Soturno,,-53.4390648197,-29.5743295398,Faxinal do Soturno,,Restinga Sêca,Centro Ocidental Rio-Grandense
 4308052,RS,Faxinalzinho,,-52.6705912422,-27.4254155069,Faxinalzinho,,Erechim,Noroeste Rio-Grandense
 4308078,RS,Fazenda Vilanova,,-51.8211830446,-29.5885745297,Fazenda Vilanova,,Lajeado-Estrela,Centro Oriental Rio-Grandense
 4308102,RS,Feliz,,-51.3101021354,-29.4539709262,Feliz,,Montenegro,Metropolitana de Porto Alegre
 4308201,RS,Flores da Cunha,,-51.1822205769,-29.0311421437,Flores da Cunha,,Caxias do Sul,Nordeste Rio-Grandense
 4308250,RS,Floriano Peixoto,,-52.0856070999,-27.8625092779,Floriano Peixoto,,Erechim,Noroeste Rio-Grandense
 4308300,RS,Fontoura Xavier,,-52.3449531838,-28.9821677892,Fontoura Xavier,,Soledade,Noroeste Rio-Grandense
-4308409,RS,Formigueiro,,-53.5002944149,-29.9976338154,Formigueiro,,Restinga Seca,Centro Ocidental Rio-Grandense
+4308409,RS,Formigueiro,,-53.5002944149,-29.9976338154,Formigueiro,,Restinga Sêca,Centro Ocidental Rio-Grandense
 4308433,RS,Forquetinha,,-52.0969170585,-29.3806337847,Forquetinha,,Lajeado-Estrela,Centro Oriental Rio-Grandense
 4308458,RS,Fortaleza dos Valos,,-53.2355232639,-28.787882971,Fortaleza dos Valos,,Cruz Alta,Noroeste Rio-Grandense
 4308508,RS,Frederico Westphalen,,-53.4007767389,-27.3588824124,Frederico Westphalen,,Frederico Westphalen,Noroeste Rio-Grandense
@@ -4821,7 +4821,7 @@ ibge_code,state_code,name,is_capital,lon,lat,no_accents,alternative_names,micror
 4310603,RS,Itaqui,,-56.557133497,-29.1286368991,Itaqui,,Campanha Ocidental,Sudoeste Rio-Grandense
 4310652,RS,Itati,,-50.1017822614,-29.5002484955,Itati,,Osório,Metropolitana de Porto Alegre
 4310702,RS,Itatiba do Sul,,-52.4524432547,-27.3832919401,Itatiba do Sul,,Erechim,Noroeste Rio-Grandense
-4310751,RS,Ivorá,,-53.5808856194,-29.5195344843,Ivora,,Restinga Seca,Centro Ocidental Rio-Grandense
+4310751,RS,Ivorá,,-53.5808856194,-29.5195344843,Ivora,,Restinga Sêca,Centro Ocidental Rio-Grandense
 4310801,RS,Ivoti,,-51.1595741943,-29.5941565229,Ivoti,,Gramado-Canela,Metropolitana de Porto Alegre
 4310850,RS,Jaboticaba,,-53.284389402,-27.6312223863,Jaboticaba,,Carazinho,Noroeste Rio-Grandense
 4310876,RS,Jacuizinho,,-53.0565506588,-29.0338163561,Jacuizinho,,Cruz Alta,Noroeste Rio-Grandense
@@ -4884,7 +4884,7 @@ ibge_code,state_code,name,is_capital,lon,lat,no_accents,alternative_names,micror
 4313037,RS,Nova Esperança do Sul,,-54.8358729019,-29.4045957086,Nova Esperanca do Sul,,Santa Maria,Centro Ocidental Rio-Grandense
 4313060,RS,Nova Hartz,,-50.9037934307,-29.585747533,Nova Hartz,,Porto Alegre,Metropolitana de Porto Alegre
 4313086,RS,Nova Pádua,,-51.3068246422,-29.0300464453,Nova Padua,,Caxias do Sul,Nordeste Rio-Grandense
-4313102,RS,Nova Palma,,-53.4706351109,-29.473025738,Nova Palma,,Restinga Seca,Centro Ocidental Rio-Grandense
+4313102,RS,Nova Palma,,-53.4706351109,-29.473025738,Nova Palma,,Restinga Sêca,Centro Ocidental Rio-Grandense
 4313201,RS,Nova Petrópolis,,-51.106953924,-29.3762088694,Nova Petropolis,,Gramado-Canela,Metropolitana de Porto Alegre
 4313300,RS,Nova Prata,,-51.608995692,-28.7839447132,Nova Prata,,Guaporé,Nordeste Rio-Grandense
 4313334,RS,Nova Ramada,,-53.7069373379,-28.0826448724,Nova Ramada,,Ijuí,Noroeste Rio-Grandense
@@ -4946,7 +4946,7 @@ ibge_code,state_code,name,is_capital,lon,lat,no_accents,alternative_names,micror
 4315354,RS,Quinze de Novembro,,-53.0967220568,-28.7423613499,Quinze de Novembro,,Cruz Alta,Noroeste Rio-Grandense
 4315404,RS,Redentora,,-53.641933694,-27.6615398827,Redentora,,Três Passos,Noroeste Rio-Grandense
 4315453,RS,Relvado,,-52.0729485543,-29.1122786661,Relvado,,Lajeado-Estrela,Centro Oriental Rio-Grandense
-4315503,RS,Restinga Sêca,,-53.3705685765,-29.8139485367,Restinga Seca,,Restinga Seca,Centro Ocidental Rio-Grandense
+4315503,RS,Restinga Sêca,,-53.3705685765,-29.8139485367,Restinga Seca,,Restinga Sêca,Centro Ocidental Rio-Grandense
 4315552,RS,Rio dos Índios,,-52.8400578928,-27.2983975952,Rio dos Indios,,Frederico Westphalen,Noroeste Rio-Grandense
 4315602,RS,Rio Grande,,-52.0867696991,-32.0504457927,Rio Grande,,Litoral Lagunar,Sudeste Rio-Grandense
 4315701,RS,Rio Pardo,,-52.3790182512,-29.9856258787,Rio Pardo,,Cachoeira do Sul,Centro Oriental Rio-Grandense
@@ -4993,7 +4993,7 @@ ibge_code,state_code,name,is_capital,lon,lat,no_accents,alternative_names,micror
 4318309,RS,São Gabriel,,-54.3204778581,-30.3367600549,Sao Gabriel,,Campanha Central,Sudoeste Rio-Grandense
 4318408,RS,São Jerônimo,,-51.7281775032,-29.9594386648,Sao Jeronimo,,São Jerônimo,Metropolitana de Porto Alegre
 4318424,RS,São João da Urtiga,,-51.8258385476,-27.8266899655,Sao Joao da Urtiga,,Sananduva,Noroeste Rio-Grandense
-4318432,RS,São João do Polêsine,,-53.4463504348,-29.6146764164,Sao Joao do Polesine,,Restinga Seca,Centro Ocidental Rio-Grandense
+4318432,RS,São João do Polêsine,,-53.4463504348,-29.6146764164,Sao Joao do Polesine,,Restinga Sêca,Centro Ocidental Rio-Grandense
 4318440,RS,São Jorge,,-51.7029685893,-28.498080971,Sao Jorge,,Guaporé,Nordeste Rio-Grandense
 4318457,RS,São José das Missões,,-53.118775269,-27.7781833181,Sao Jose das Missoes,,Carazinho,Noroeste Rio-Grandense
 4318465,RS,São José do Herval,,-52.2930164741,-29.0414470213,Sao Jose do Herval,,Soledade,Noroeste Rio-Grandense
@@ -5038,7 +5038,7 @@ ibge_code,state_code,name,is_capital,lon,lat,no_accents,alternative_names,micror
 4320552,RS,Sertão Santana,,-51.604249916,-30.4654278903,Sertao Santana,,Camaquã,Metropolitana de Porto Alegre
 4320578,RS,Sete de Setembro,,-54.4636861823,-28.1304163234,Sete de Setembro,,Cerro Largo,Noroeste Rio-Grandense
 4320602,RS,Severiano de Almeida,,-52.1206562961,-27.4327929836,Severiano de Almeida,,Erechim,Noroeste Rio-Grandense
-4320651,RS,Silveira Martins,,-53.5852374736,-29.6452500585,Silveira Martins,,Restinga Seca,Centro Ocidental Rio-Grandense
+4320651,RS,Silveira Martins,,-53.5852374736,-29.6452500585,Silveira Martins,,Restinga Sêca,Centro Ocidental Rio-Grandense
 4320677,RS,Sinimbu,,-52.5216363086,-29.529068157,Sinimbu,,Santa Cruz do Sul,Centro Oriental Rio-Grandense
 4320701,RS,Sobradinho,,-53.0251679436,-29.4147731341,Sobradinho,,Santa Cruz do Sul,Centro Oriental Rio-Grandense
 4320800,RS,Soledade,,-52.5098661712,-28.8277379537,Soledade,,Soledade,Noroeste Rio-Grandense
