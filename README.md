@@ -1,8 +1,8 @@
 >  Dados em formato aberto sobre localidades brasileiras para uso em visualizações de dados, interfaces de entrada e sanitização de bases. As tabelas contém nomes com e sem acentos, coordenadas lat/lon, códigos de identificação (IBGE, OpenStreetMap, Wikidata, ISO), fuso-horário, imagens de bandeiras e outras informações normalizadas.
 
-# Tabelas disponíveis
+# Arquivos disponíveis
 
-- Unidades federativas (estados e DF): [preview](data/states.csv), <a href="https://github.com/mapaslivres/localidades/raw/master/data/states.csv" target="_blank">download</a>
+- Estados e Distrito Federal: [preview](data/states.csv), <a href="https://github.com/mapaslivres/localidades/raw/master/data/states.csv" target="_blank">download</a>
 - Municípios: [preview](data/cities.csv), <a href="https://github.com/mapaslivres/localidades/raw/master/data/cities.csv" target="_blank">download</a>
 - Distritos: [preview](data/districts.csv), <a href="https://github.com/mapaslivres/localidades/raw/master/data/districts.csv" target="_blank">download</a>
 - Sub-distritos: [preview](data/subdistricts.csv), <a href="https://github.com/mapaslivres/localidades/raw/master/data/subdistricts.csv" target="_blank">download</a>
@@ -10,15 +10,7 @@
 
 # Contribua
 
-A maneira mais fácil de contribuir é editando as cópias abertas disponíveis no Google Drive:
-
-- [Unidades Federativas](https://docs.google.com/spreadsheets/d/1nlPA0d50gipYFeT5OSQWgnE59_LkTiuTnZOJ8UZ_B_Y/edit?usp=sharing)
-- [Municípios](https://docs.google.com/spreadsheets/d/1zmHOD24AZ0T6jTUPh2-YEYo6dDO3bEaokm07fAywNaA/edit?usp=sharing)
-- [Distritos](https://docs.google.com/spreadsheets/d/1Q3r1IkS7yd2CbN2qPlZiH_-q84Qv10dO5JFq2HPlxsI/edit?usp=sharing)
-- [Sub-distritos](https://docs.google.com/spreadsheets/d/1XYBbe915oFyXEEOH6lgIuHPt_zzCwcxO47RZIDMt-bA/edit?usp=sharing)
-- [Localidades](https://docs.google.com/spreadsheets/d/1G77b3r_SGHC_Zuz91aNoQddMPdSfPDLCa6x8AjRlrM4/edit?usp=sharing)
-
-O mantenedor será avisado automaticamente das edições. Também é possível enviar comentários e correções via [issues](issues) ou [pull requests](https://help.github.com/articles/about-pull-requests).
+Preferencialmente, crie uma [issue](https://github.com/mapaslivres/localidades/issues/new) ou um [pull request](https://help.github.com/articles/creating-a-pull-request/), ou envie um e-mail a [@vgeorge](github.com/vgeorge).
 
 Conheça a [lista de contribuidores](https://github.com/mapaslivres/localidades/graphs/contributors).
 
