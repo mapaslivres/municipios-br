@@ -10,7 +10,7 @@
 
 # Contribua
 
-Preferencialmente, crie uma [issue](https://github.com/mapaslivres/localidades/issues/new) ou um [pull request](https://help.github.com/articles/creating-a-pull-request/), ou envie um e-mail a [@vgeorge](github.com/vgeorge).
+Preferencialmente, crie uma [issue](https://github.com/mapaslivres/localidades/issues/new) ou um [pull request](https://help.github.com/articles/creating-a-pull-request/), ou envie um e-mail a [@vgeorge](https://github.com/vgeorge).
 
 Conheça a [lista de contribuidores](https://github.com/mapaslivres/localidades/graphs/contributors).
 
