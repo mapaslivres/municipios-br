@@ -4339,7 +4339,6 @@ ibge_code,state_code,name,is_capital,lon,lat,no_accents,alternative_names,micror
 4202008,SC,Balneário Camboriú,,-48.634617477,-26.9918186053,Balneario Camboriu,,Itajaí,Vale do Itajaí
 4202057,SC,Balneário Barra do Sul,,-48.606645876,-26.4564295671,Balneario Barra do Sul,,Joinville,Norte Catarinense
 4202073,SC,Balneário Gaivota,,-49.5908937824,-29.1645212685,Balneario Gaivota,,Araranguá,Sul Catarinense
-4220000,SC,Balneário Rincão,,-49.23611111,-28.83444444,Balneario Rincao,,Criciúma,Sul Catarinense
 4202081,SC,Bandeirante,,-53.6410495866,-26.7689379013,Bandeirante,,São Miguel D'oeste,Oeste Catarinense
 4202099,SC,Barra Bonita,,-53.4413025406,-26.6522935999,Barra Bonita,,São Miguel D'oeste,Oeste Catarinense
 4202107,SC,Barra Velha,,-48.6838642743,-26.6343614083,Barra Velha,,Itajaí,Vale do Itajaí
@@ -4605,6 +4604,7 @@ ibge_code,state_code,name,is_capital,lon,lat,no_accents,alternative_names,micror
 4219606,SC,Xavantina,,-52.3428505099,-27.0702501471,Xavantina,,Concórdia,Oeste Catarinense
 4219705,SC,Xaxim,,-52.5349325183,-26.9637194992,Xaxim,,Xanxerê,Oeste Catarinense
 4219853,SC,Zortéa,,-51.5495663068,-27.4502514117,Zortea,,Curitibanos,Serrana
+4220000,SC,Balneário Rincão,,-49.23611111,-28.83444444,Balneario Rincao,,Criciúma,Sul Catarinense
 4300034,RS,Aceguá,,-54.1647315364,-31.8640153043,Acegua,,Campanha Meridional,Sudoeste Rio-Grandense
 4300059,RS,Água Santa,,-52.0346327892,-28.1750547485,Agua Santa,,Passo Fundo,Noroeste Rio-Grandense
 4300109,RS,Agudo,,-53.2586916877,-29.6456633632,Agudo,,Restinga Seca,Centro Ocidental Rio-Grandense
