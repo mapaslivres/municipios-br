@@ -1360,7 +1360,7 @@ ibge_code,state_code,osm_id,wikidata_id,name,is_capital,wikipedia_pt,lon,lat,no_
 2509305,PB,301433,Q727109,Mataraca,,pt:Mataraca,-35.0485576738,-6.6005186544,Mataraca,,Litoral Norte,Mata Paraibana
 2509339,PB,301456,Q2011935,Matinhas,,pt:Matinhas,-35.7709374162,-7.1211683437,Matinhas,,Brejo Paraibano,Agreste Paraibano
 2509370,PB,301294,Q2078731,Mato Grosso,,pt:Mato Grosso (Paraíba),-37.7115726982,-6.5426334912,Mato Grosso,,Catolé do Rocha,Sertão Paraibano
-2509396,PB,301480,Q2009368,Maturéia,,pt:Matureia,-37.3504338851,-7.2659300019,Matureia,,Serra do Teixeira,Sertão Paraibano
+2509396,PB,301480,Q2009368,Matureia,,pt:Matureia,-37.3504338851,-7.2659300019,Matureia,,Serra do Teixeira,Sertão Paraibano
 2509404,PB,301451,Q764440,Mogeiro,,pt:Mogeiro,-35.482424602,-7.3094805323,Mogeiro,,Itabaiana,Agreste Paraibano
 2509503,PB,301367,Q1808648,Montadas,,pt:Montadas,-35.9582754293,-7.0890963385,Montadas,,Esperança,Agreste Paraibano
 2509602,PB,301262,Q2010356,Monte Horebe,,pt:Monte Horebe,-38.5836574944,-7.2095264023,Monte Horebe,,Cajazeiras,Sertão Paraibano
@@ -2320,7 +2320,7 @@ ibge_code,state_code,osm_id,wikidata_id,name,is_capital,wikipedia_pt,lon,lat,no_
 3107000,MG,315266,Q1791946,Biquinhas,,pt:Biquinhas,-45.504651716,-18.7847516602,Biquinhas,,Três Marias,Central Mineira
 3107109,MG,314825,Q1805369,Boa Esperança,,,-45.5644089308,-21.0905310792,Boa Esperanca,,Varginha,Sul/Sudoeste de Minas
 3107208,MG,314859,Q1756950,Bocaina de Minas,,pt:Bocaina de Minas,-44.3973057605,-22.1696084676,Bocaina de Minas,,Andrelândia,Sul/Sudoeste de Minas
-3107307,MG,314677,Q1756928,Bocaiúva,,pt:Bocaiuva,-43.8144435712,-17.1121047332,Bocaiuva,,Bocaiúva,Norte de Minas
+3107307,MG,314677,Q1756928,Bocaiuva,,pt:Bocaiuva,-43.8144435712,-17.1121047332,Bocaiuva,,Bocaiúva,Norte de Minas
 3107406,MG,314732,Q891713,Bom Despacho,,pt:Bom Despacho,-45.2541151986,-19.7375963339,Bom Despacho,,Bom Despacho,Central Mineira
 3107505,MG,314795,Q1791774,Bom Jardim de Minas,,pt:Bom Jardim de Minas,-44.189374456,-21.9458997849,Bom Jardim de Minas,,Andrelândia,Sul/Sudoeste de Minas
 3107604,MG,314767,Q1793211,Bom Jesus da Penha,,pt:Bom Jesus da Penha,-46.5235436139,-21.0172693112,Bom Jesus da Penha,,Passos,Sul/Sudoeste de Minas
@@ -3712,7 +3712,7 @@ ibge_code,state_code,osm_id,wikidata_id,name,is_capital,wikipedia_pt,lon,lat,no_
 3539707,SP,298326,,Platina,,,-50.2089345358,-22.6334572583,Platina,,Assis,Assis
 3539806,SP,298340,,Poá,,,-46.3462203887,-23.5286265677,Poa,,Moji Das Cruzes,Metropolitana de São Paulo
 3539905,SP,298518,,Poloni,,,-49.8138949067,-20.7858577506,Poloni,,Nhandeara,São José do Rio Preto
-3540002,SP,298505,,Pompéia,,,-50.1760280549,-22.1061456541,Pompeia,,Marília,Marília
+3540002,SP,298505,,Pompeia,,,-50.1760280549,-22.1061456541,Pompeia,,Marília,Marília
 3540101,SP,298453,,Pongaí,,,-49.3608700749,-21.7361764725,Pongai,,Bauru,Bauru
 3540200,SP,298029,,Pontal,,,-48.0378373025,-21.02571,Pontal,,Ribeirão Preto,Ribeirão Preto
 3540259,SP,298461,,Pontalinda,,,-50.5246020157,-20.4408338429,Pontalinda,,Jales,São José do Rio Preto
