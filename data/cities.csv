@@ -449,223 +449,223 @@ ibge_code,state_code,osm_id,wikidata_id,name,is_capital,wikipedia_pt,lon,lat,no_
 1721307,TO,336808,Q1801621,Tupiratins,,pt:Tupiratins,-48.1229957409,-8.395529997,Tupiratins,,Miracema do Tocantins,Ocidental do Tocantins
 1722081,TO,336809,Q1798710,Wanderlândia,,pt:Wanderlândia,-47.95626773,-6.850125517,Wanderlandia,,Araguaína,Ocidental do Tocantins
 1722107,TO,336818,Q635920,Xambioá,,pt:Xambioá,-48.53160107,-6.41188502,Xambioa,,Araguaína,Ocidental do Tocantins
-2100055,MA,332883,,Açailândia,,,-47.5066645931,-4.9513770002,Acailandia,,Imperatriz,Oeste Maranhense
-2100105,MA,332900,,Afonso Cunha,,,-43.320869004,-4.1350154769,Afonso Cunha,,Coelho Neto,Leste Maranhense
-2100154,MA,332936,,Água Doce do Maranhão,,,-42.1155512017,-2.8402782791,Agua Doce do Maranhao,,Baixo Parnaíba Maranhense,Leste Maranhense
-2100204,MA,332985,,Alcântara,,,-44.4170125373,-2.4032765251,Alcantara,,Litoral Ocidental Maranhense,Norte Maranhense
-2100303,MA,332823,,Aldeias Altas,,,-43.4687348529,-4.6307794952,Aldeias Altas,,Coelho Neto,Leste Maranhense
-2100402,MA,332830,,Altamira do Maranhão,,,-45.4646758312,-4.1622692669,Altamira do Maranhao,,Pindaré,Oeste Maranhense
-2100436,MA,332864,,Alto Alegre do Maranhão,,,-44.4482474945,-4.207227,Alto Alegre do Maranhao,,Codó,Leste Maranhense
-2100477,MA,332962,,Alto Alegre do Pindaré,,,-45.8420796162,-3.6651703745,Alto Alegre do Pindare,,Pindaré,Oeste Maranhense
-2100501,MA,332819,,Alto Parnaíba,,,-45.9273440133,-9.1083659322,Alto Parnaiba,,Gerais de Balsas,Sul Maranhense
-2100550,MA,332774,,Amapá do Maranhão,,,-46.0091799004,-1.6809214951,Amapa do Maranhao,,Gurupi,Oeste Maranhense
-2100600,MA,332886,,Amarante do Maranhão,,,-46.7506375455,-5.5576620002,Amarante do Maranhao,,Imperatriz,Oeste Maranhense
-2100709,MA,332973,,Anajatuba,,,-44.6206700278,-3.2575548421,Anajatuba,,Baixada Maranhense,Norte Maranhense
-2100808,MA,332959,,Anapurus,,,-43.1057925097,-3.6670346623,Anapurus,,Chapadinha,Leste Maranhense
-2100832,MA,332873,,Apicum-Açu,,,-45.0766520734,-1.5305915778,Apicum-Acu,,Litoral Ocidental Maranhense,Norte Maranhense
-2100873,MA,332834,,Araguanã,,,-45.6687944761,-2.9491256233,Araguana,,Pindaré,Oeste Maranhense
-2100907,MA,332920,,Araioses,,,-41.8991394499,-2.8892558464,Araioses,,Baixo Parnaíba Maranhense,Leste Maranhense
-2100956,MA,332945,,Arame,,,-46.0136362778,-4.886081505,Arame,,Alto Mearim e Grajaú,Centro Maranhense
-2101004,MA,332865,,Arari,,,-44.7788346547,-3.4591709701,Arari,,Baixada Maranhense,Norte Maranhense
-2101103,MA,332803,,Axixá,,,-44.0545858091,-2.8377968371,Axixa,,Rosário,Norte Maranhense
-2101202,MA,332958,,Bacabal,,,-44.7815559641,-4.2315246298,Bacabal,,Médio Mearim,Centro Maranhense
-2101251,MA,332988,,Bacabeira,,,-44.3154229866,-2.9858247788,Bacabeira,,Rosário,Norte Maranhense
-2101301,MA,332907,,Bacuri,,,-45.1373489396,-1.7240463185,Bacuri,,Litoral Ocidental Maranhense,Norte Maranhense
-2101350,MA,332935,,Bacurituba,,,-44.7357420062,-2.7108719765,Bacurituba,,Litoral Ocidental Maranhense,Norte Maranhense
-2101400,MA,332875,,Balsas,,,-46.0389926733,-7.5311699902,Balsas,,Gerais de Balsas,Sul Maranhense
-2101509,MA,332932,,Barão de Grajaú,,,-43.0264526994,-6.7589552056,Barao de Grajau,,Chapadas do Alto Itapecuru,Leste Maranhense
-2101608,MA,332984,,Barra do Corda,,,-45.2390110161,-5.5083395,Barra do Corda,,Alto Mearim e Grajaú,Centro Maranhense
-2101707,MA,332880,,Barreirinhas,,,-42.8278025132,-2.7500859488,Barreirinhas,,Lençóis Maranhenses,Norte Maranhense
-2101731,MA,332872,,Belágua,,,-43.5100616427,-3.1567722275,Belagua,,Chapadinha,Leste Maranhense
-2101772,MA,332848,,Bela Vista do Maranhão,,,-45.2482458782,-3.7377332499,Bela Vista do Maranhao,,Baixada Maranhense,Norte Maranhense
-2101806,MA,332827,,Benedito Leite,,,-44.559856799,-7.2187997954,Benedito Leite,,Chapadas Das Mangabeiras,Sul Maranhense
-2101905,MA,332798,,Bequimão,,,-44.7857301569,-2.4620629951,Bequimao,,Litoral Ocidental Maranhense,Norte Maranhense
-2101939,MA,332980,,Bernardo do Mearim,,,-44.7643231035,-4.6302874908,Bernardo do Mearim,,Médio Mearim,Centro Maranhense
-2101970,MA,332974,,Boa Vista do Gurupi,,,-46.2987100525,-1.7932961358,Boa Vista do Gurupi,,Gurupi,Oeste Maranhense
-2102002,MA,332916,,Bom Jardim,,,-45.6018893891,-3.5441609779,Bom Jardim,,Pindaré,Oeste Maranhense
-2102036,MA,332942,,Bom Jesus das Selvas,,,-46.8532412231,-4.4899683531,Bom Jesus das Selvas,,Pindaré,Oeste Maranhense
-2102077,MA,332966,,Bom Lugar,,,-45.0311078563,-4.3755096015,Bom Lugar,,Médio Mearim,Centro Maranhense
-2102101,MA,332972,,Brejo,,,-42.7508478268,-3.679178,Brejo,,Chapadinha,Leste Maranhense
-2102150,MA,332791,,Brejo de Areia,,,-45.5820952718,-4.3306298975,Brejo de Areia,,Pindaré,Oeste Maranhense
-2102200,MA,332779,,Buriti,,,-42.9251061778,-3.9455715,Buriti,,Chapadinha,Leste Maranhense
-2102309,MA,332867,,Buriti Bravo,,,-43.8356215415,-5.8352881321,Buriti Bravo,,Caxias,Leste Maranhense
-2102325,MA,332852,,Buriticupu,,,-46.4514953191,-4.3259477263,Buriticupu,,Pindaré,Oeste Maranhense
-2102358,MA,332888,,Buritirana,,,-47.0172250932,-5.5889151417,Buritirana,,Imperatriz,Oeste Maranhense
-2102374,MA,332951,,Cachoeira Grande,,,-44.0596850158,-2.9319210391,Cachoeira Grande,,Rosário,Norte Maranhense
-2102408,MA,332956,,Cajapió,,,-44.6733771646,-2.8828822032,Cajapio,,Litoral Ocidental Maranhense,Norte Maranhense
-2102507,MA,332804,,Cajari,,,-45.007965335,-3.3238688309,Cajari,,Baixada Maranhense,Norte Maranhense
-2102556,MA,332826,,Campestre do Maranhão,,,-47.3676328633,-6.1647166458,Campestre do Maranhao,,Porto Franco,Sul Maranhense
-2102606,MA,332981,,Cândido Mendes,,,-45.7372683656,-1.4538891085,Candido Mendes,,Gurupi,Oeste Maranhense
-2102705,MA,332943,,Cantanhede,,,-44.3818161358,-3.6283643119,Cantanhede,,Itapecuru Mirim,Norte Maranhense
-2102754,MA,332815,,Capinzal do Norte,,,-44.330436252,-4.7212453888,Capinzal do Norte,,Codó,Leste Maranhense
-2102804,MA,332955,,Carolina,,,-47.4700918028,-7.3307830052,Carolina,,Porto Franco,Sul Maranhense
-2102903,MA,332842,,Carutapera,,,-46.0231508346,-1.200602,Carutapera,,Gurupi,Oeste Maranhense
-2103000,MA,332983,,Caxias,,,-43.3585394285,-4.8616749902,Caxias,,Caxias,Leste Maranhense
-2103109,MA,332878,,Cedral,,,-44.5307895278,-1.9979159256,Cedral,,Litoral Ocidental Maranhense,Norte Maranhense
-2103125,MA,332922,,Central do Maranhão,,,-44.8318437025,-2.1913139076,Central do Maranhao,,Litoral Ocidental Maranhense,Norte Maranhense
-2103158,MA,332845,,Centro do Guilherme,,,-46.0399601132,-2.4569850818,Centro do Guilherme,,Gurupi,Oeste Maranhense
-2103174,MA,332910,,Centro Novo do Maranhão,,,-46.128408955,-2.1442916986,Centro Novo do Maranhao,,Gurupi,Oeste Maranhense
-2103208,MA,332847,,Chapadinha,,,-43.3611207818,-3.74002452,Chapadinha,,Chapadinha,Leste Maranhense
-2103257,MA,332786,,Cidelândia,,,-47.7842327757,-5.1774210472,Cidelandia,,Imperatriz,Oeste Maranhense
-2103307,MA,332990,,Codó,,,-43.886080235,-4.4513375001,Codo,,Codó,Leste Maranhense
-2103406,MA,332979,,Coelho Neto,,,-43.0140136155,-4.2547375001,Coelho Neto,,Coelho Neto,Leste Maranhense
-2103505,MA,332929,,Colinas,,,-44.2497802305,-6.0273655202,Colinas,,Chapadas do Alto Itapecuru,Leste Maranhense
-2103554,MA,332891,,Conceição do Lago-Açu,,,-44.9030159052,-3.8411184579,Conceicao do Lago-Acu,,Baixada Maranhense,Norte Maranhense
-2103604,MA,332856,,Coroatá,,,-44.1255992015,-4.128976,Coroata,,Codó,Leste Maranhense
-2103703,MA,332838,,Cururupu,,,-44.867761617,-1.8255207812,Cururupu,,Litoral Ocidental Maranhense,Norte Maranhense
-2103752,MA,332817,,Davinópolis,,,-47.4049963875,-5.5344562161,Davinopolis,,Imperatriz,Oeste Maranhense
-2103802,MA,332776,,Dom Pedro,,,-44.440009911,-5.0384476352,Dom Pedro,,Presidente Dutra,Centro Maranhense
-2103901,MA,332773,,Duque Bacelar,,,-42.9441802036,-4.1478190971,Duque Bacelar,,Coelho Neto,Leste Maranhense
-2104008,MA,332820,,Esperantinópolis,,,-44.886068699,-4.8703008975,Esperantinopolis,,Médio Mearim,Centro Maranhense
-2104057,MA,332861,,Estreito,,,-47.4478829861,-6.5680849802,Estreito,,Porto Franco,Sul Maranhense
-2104073,MA,332839,,Feira Nova do Maranhão,,,-46.687355216,-6.9631355406,Feira Nova do Maranhao,,Gerais de Balsas,Sul Maranhense
-2104081,MA,332971,,Fernando Falcão,,,-44.9107074022,-6.1549784629,Fernando Falcao,,Alto Mearim e Grajaú,Centro Maranhense
-2104099,MA,332941,,Formosa da Serra Negra,,,-46.1863570069,-6.4353041056,Formosa da Serra Negra,,Alto Mearim e Grajaú,Centro Maranhense
-2104107,MA,332809,,Fortaleza dos Nogueiras,,,-46.185557542,-6.9659260875,Fortaleza dos Nogueiras,,Chapadas Das Mangabeiras,Sul Maranhense
-2104206,MA,332802,,Fortuna,,,-44.1606284272,-5.7362241325,Fortuna,,Presidente Dutra,Centro Maranhense
-2104305,MA,332899,,Godofredo Viana,,,-45.7717548081,-1.4098001867,Godofredo Viana,,Gurupi,Oeste Maranhense
-2104404,MA,332885,,Gonçalves Dias,,,-44.3059065359,-5.1439555695,Goncalves Dias,,Presidente Dutra,Centro Maranhense
-2104503,MA,332876,,Governador Archer,,,-44.2757565261,-5.0253878239,Governador Archer,,Presidente Dutra,Centro Maranhense
-2104552,MA,332957,,Governador Edison Lobão,,,-47.368935839,-5.7474117385,Governador Edison Lobao,,Imperatriz,Oeste Maranhense
-2104602,MA,332772,,Governador Eugênio Barros,,,-44.246962646,-5.3224910015,Governador Eugenio Barros,,Presidente Dutra,Centro Maranhense
-2104628,MA,332780,,Governador Luiz Rocha,,,-44.0708873355,-5.4728646849,Governador Luiz Rocha,,Presidente Dutra,Centro Maranhense
-2104651,MA,332799,,Governador Newton Bello,,,-45.674501797,-3.4297047199,Governador Newton Bello,,Pindaré,Oeste Maranhense
-2104677,MA,332828,,Governador Nunes Freire,,,-45.8814811328,-2.13496236,Governador Nunes Freire,,Gurupi,Oeste Maranhense
-2104701,MA,332837,,Graça Aranha,,,-44.3357912599,-5.4048212131,Graca Aranha,,Presidente Dutra,Centro Maranhense
-2104800,MA,332843,,Grajaú,,,-46.142395636,-5.8185484313,Grajau,,Alto Mearim e Grajaú,Centro Maranhense
-2104909,MA,332858,,Guimarães,,,-44.5977464563,-2.1350771584,Guimaraes,,Litoral Ocidental Maranhense,Norte Maranhense
-2105005,MA,332893,,Humberto de Campos,,,-43.4650921443,-2.5912239723,Humberto de Campos,,Lençóis Maranhenses,Norte Maranhense
-2105104,MA,332912,,Icatu,,,-44.0658484686,-2.7748278631,Icatu,,Rosário,Norte Maranhense
-2105153,MA,332949,,Igarapé do Meio,,,-45.1833277022,-3.6367085219,Igarape do Meio,,Baixada Maranhense,Norte Maranhense
-2105203,MA,332953,,Igarapé Grande,,,-44.8674033459,-4.6608538062,Igarape Grande,,Médio Mearim,Centro Maranhense
+2100055,MA,332883,,Açailândia,,pt:Açailândia,-47.5066645931,-4.9513770002,Acailandia,,Imperatriz,Oeste Maranhense
+2100105,MA,332900,,Afonso Cunha,,pt:Afonso Cunha,-43.320869004,-4.1350154769,Afonso Cunha,,Coelho Neto,Leste Maranhense
+2100154,MA,332936,,Água Doce do Maranhão,,pt:Água Doce do Maranhão,-42.1155512017,-2.8402782791,Agua Doce do Maranhao,,Baixo Parnaíba Maranhense,Leste Maranhense
+2100204,MA,332985,,Alcântara,,pt:Alcântara (Maranhão),-44.4170125373,-2.4032765251,Alcantara,,Litoral Ocidental Maranhense,Norte Maranhense
+2100303,MA,332823,,Aldeias Altas,,pt:Aldeias Altas,-43.4687348529,-4.6307794952,Aldeias Altas,,Coelho Neto,Leste Maranhense
+2100402,MA,332830,,Altamira do Maranhão,,pt:Altamira do Maranhão,-45.4646758312,-4.1622692669,Altamira do Maranhao,,Pindaré,Oeste Maranhense
+2100436,MA,332864,,Alto Alegre do Maranhão,,pt:Alto Alegre do Maranhão,-44.4482474945,-4.207227,Alto Alegre do Maranhao,,Codó,Leste Maranhense
+2100477,MA,332962,,Alto Alegre do Pindaré,,pt:Alto Alegre do Pindaré,-45.8420796162,-3.6651703745,Alto Alegre do Pindare,,Pindaré,Oeste Maranhense
+2100501,MA,332819,,Alto Parnaíba,,pt:Alto Parnaíba,-45.9273440133,-9.1083659322,Alto Parnaiba,,Gerais de Balsas,Sul Maranhense
+2100550,MA,332774,,Amapá do Maranhão,,pt:Amapá do Maranhão,-46.0091799004,-1.6809214951,Amapa do Maranhao,,Gurupi,Oeste Maranhense
+2100600,MA,332886,,Amarante do Maranhão,,pt:Amarante do Maranhão,-46.7506375455,-5.5576620002,Amarante do Maranhao,,Imperatriz,Oeste Maranhense
+2100709,MA,332973,,Anajatuba,,pt:Anajatuba,-44.6206700278,-3.2575548421,Anajatuba,,Baixada Maranhense,Norte Maranhense
+2100808,MA,332959,,Anapurus,,pt:Anapurus,-43.1057925097,-3.6670346623,Anapurus,,Chapadinha,Leste Maranhense
+2100832,MA,332873,,Apicum-Açu,,pt:Apicum-Açu,-45.0766520734,-1.5305915778,Apicum-Acu,,Litoral Ocidental Maranhense,Norte Maranhense
+2100873,MA,332834,,Araguanã,,pt:Araguanã (Maranhão),-45.6687944761,-2.9491256233,Araguana,,Pindaré,Oeste Maranhense
+2100907,MA,332920,,Araioses,,pt:Araioses,-41.8991394499,-2.8892558464,Araioses,,Baixo Parnaíba Maranhense,Leste Maranhense
+2100956,MA,332945,,Arame,,pt:Arame (Maranhão),-46.0136362778,-4.886081505,Arame,,Alto Mearim e Grajaú,Centro Maranhense
+2101004,MA,332865,,Arari,,pt:Arari,-44.7788346547,-3.4591709701,Arari,,Baixada Maranhense,Norte Maranhense
+2101103,MA,332803,,Axixá,,pt:Axixá,-44.0545858091,-2.8377968371,Axixa,,Rosário,Norte Maranhense
+2101202,MA,332958,,Bacabal,,pt:Bacabal,-44.7815559641,-4.2315246298,Bacabal,,Médio Mearim,Centro Maranhense
+2101251,MA,332988,,Bacabeira,,pt:Bacabeira,-44.3154229866,-2.9858247788,Bacabeira,,Rosário,Norte Maranhense
+2101301,MA,332907,,Bacuri,,pt:Bacuri (Maranhão),-45.1373489396,-1.7240463185,Bacuri,,Litoral Ocidental Maranhense,Norte Maranhense
+2101350,MA,332935,,Bacurituba,,pt:Bacurituba,-44.7357420062,-2.7108719765,Bacurituba,,Litoral Ocidental Maranhense,Norte Maranhense
+2101400,MA,332875,,Balsas,,pt:Balsas,-46.0389926733,-7.5311699902,Balsas,,Gerais de Balsas,Sul Maranhense
+2101509,MA,332932,,Barão de Grajaú,,pt:Barão de Grajaú,-43.0264526994,-6.7589552056,Barao de Grajau,,Chapadas do Alto Itapecuru,Leste Maranhense
+2101608,MA,332984,,Barra do Corda,,pt:Barra do Corda,-45.2390110161,-5.5083395,Barra do Corda,,Alto Mearim e Grajaú,Centro Maranhense
+2101707,MA,332880,,Barreirinhas,,pt:Barreirinhas,-42.8278025132,-2.7500859488,Barreirinhas,,Lençóis Maranhenses,Norte Maranhense
+2101731,MA,332872,,Belágua,,pt:Belágua,-43.5100616427,-3.1567722275,Belagua,,Chapadinha,Leste Maranhense
+2101772,MA,332848,,Bela Vista do Maranhão,,pt:Bela Vista do Maranhão,-45.2482458782,-3.7377332499,Bela Vista do Maranhao,,Baixada Maranhense,Norte Maranhense
+2101806,MA,332827,,Benedito Leite,,pt:Benedito Leite,-44.559856799,-7.2187997954,Benedito Leite,,Chapadas Das Mangabeiras,Sul Maranhense
+2101905,MA,332798,,Bequimão,,pt:Bequimão,-44.7857301569,-2.4620629951,Bequimao,,Litoral Ocidental Maranhense,Norte Maranhense
+2101939,MA,332980,,Bernardo do Mearim,,pt:Bernardo do Mearim,-44.7643231035,-4.6302874908,Bernardo do Mearim,,Médio Mearim,Centro Maranhense
+2101970,MA,332974,,Boa Vista do Gurupi,,pt:Boa Vista do Gurupi,-46.2987100525,-1.7932961358,Boa Vista do Gurupi,,Gurupi,Oeste Maranhense
+2102002,MA,332916,,Bom Jardim,,pt:Bom Jardim (Maranhão),-45.6018893891,-3.5441609779,Bom Jardim,,Pindaré,Oeste Maranhense
+2102036,MA,332942,,Bom Jesus das Selvas,,pt:Bom Jesus das Selvas,-46.8532412231,-4.4899683531,Bom Jesus das Selvas,,Pindaré,Oeste Maranhense
+2102077,MA,332966,,Bom Lugar,,pt:Bom Lugar,-45.0311078563,-4.3755096015,Bom Lugar,,Médio Mearim,Centro Maranhense
+2102101,MA,332972,,Brejo,,pt:Brejo (Maranhão),-42.7508478268,-3.679178,Brejo,,Chapadinha,Leste Maranhense
+2102150,MA,332791,,Brejo de Areia,,pt:Brejo de Areia,-45.5820952718,-4.3306298975,Brejo de Areia,,Pindaré,Oeste Maranhense
+2102200,MA,332779,,Buriti,,pt:Buriti (Maranhão),-42.9251061778,-3.9455715,Buriti,,Chapadinha,Leste Maranhense
+2102309,MA,332867,,Buriti Bravo,,pt:Buriti Bravo,-43.8356215415,-5.8352881321,Buriti Bravo,,Caxias,Leste Maranhense
+2102325,MA,332852,,Buriticupu,,pt:Buriticupu,-46.4514953191,-4.3259477263,Buriticupu,,Pindaré,Oeste Maranhense
+2102358,MA,332888,,Buritirana,,pt:Buritirana,-47.0172250932,-5.5889151417,Buritirana,,Imperatriz,Oeste Maranhense
+2102374,MA,332951,,Cachoeira Grande,,pt:Cachoeira Grande,-44.0596850158,-2.9319210391,Cachoeira Grande,,Rosário,Norte Maranhense
+2102408,MA,332956,,Cajapió,,pt:Cajapió,-44.6733771646,-2.8828822032,Cajapio,,Litoral Ocidental Maranhense,Norte Maranhense
+2102507,MA,332804,,Cajari,,pt:Cajari,-45.007965335,-3.3238688309,Cajari,,Baixada Maranhense,Norte Maranhense
+2102556,MA,332826,,Campestre do Maranhão,,pt:Campestre do Maranhão,-47.3676328633,-6.1647166458,Campestre do Maranhao,,Porto Franco,Sul Maranhense
+2102606,MA,332981,,Cândido Mendes,,pt:Cândido Mendes,-45.7372683656,-1.4538891085,Candido Mendes,,Gurupi,Oeste Maranhense
+2102705,MA,332943,,Cantanhede,,pt:Cantanhede (Maranhão),-44.3818161358,-3.6283643119,Cantanhede,,Itapecuru Mirim,Norte Maranhense
+2102754,MA,332815,,Capinzal do Norte,,pt:Capinzal do Norte,-44.330436252,-4.7212453888,Capinzal do Norte,,Codó,Leste Maranhense
+2102804,MA,332955,,Carolina,,pt:Carolina (Maranhão),-47.4700918028,-7.3307830052,Carolina,,Porto Franco,Sul Maranhense
+2102903,MA,332842,,Carutapera,,pt:Carutapera,-46.0231508346,-1.200602,Carutapera,,Gurupi,Oeste Maranhense
+2103000,MA,332983,,Caxias,,pt:Caxias (Maranhão),-43.3585394285,-4.8616749902,Caxias,,Caxias,Leste Maranhense
+2103109,MA,332878,,Cedral,,pt:Cedral (Maranhão),-44.5307895278,-1.9979159256,Cedral,,Litoral Ocidental Maranhense,Norte Maranhense
+2103125,MA,332922,,Central do Maranhão,,pt:Central do Maranhão,-44.8318437025,-2.1913139076,Central do Maranhao,,Litoral Ocidental Maranhense,Norte Maranhense
+2103158,MA,332845,,Centro do Guilherme,,pt:Centro do Guilherme,-46.0399601132,-2.4569850818,Centro do Guilherme,,Gurupi,Oeste Maranhense
+2103174,MA,332910,,Centro Novo do Maranhão,,pt:Centro Novo do Maranhão,-46.128408955,-2.1442916986,Centro Novo do Maranhao,,Gurupi,Oeste Maranhense
+2103208,MA,332847,,Chapadinha,,pt:Chapadinha,-43.3611207818,-3.74002452,Chapadinha,,Chapadinha,Leste Maranhense
+2103257,MA,332786,,Cidelândia,,pt:Cidelândia,-47.7842327757,-5.1774210472,Cidelandia,,Imperatriz,Oeste Maranhense
+2103307,MA,332990,,Codó,,pt:Codó,-43.886080235,-4.4513375001,Codo,,Codó,Leste Maranhense
+2103406,MA,332979,,Coelho Neto,,pt:Coelho Neto (Maranhão),-43.0140136155,-4.2547375001,Coelho Neto,,Coelho Neto,Leste Maranhense
+2103505,MA,332929,,Colinas,,pt:Colinas (Maranhão),-44.2497802305,-6.0273655202,Colinas,,Chapadas do Alto Itapecuru,Leste Maranhense
+2103554,MA,332891,,Conceição do Lago-Açu,,pt:Conceição do Lago-Açu,-44.9030159052,-3.8411184579,Conceicao do Lago-Acu,,Baixada Maranhense,Norte Maranhense
+2103604,MA,332856,,Coroatá,,pt:Coroatá,-44.1255992015,-4.128976,Coroata,,Codó,Leste Maranhense
+2103703,MA,332838,,Cururupu,,pt:Cururupu,-44.867761617,-1.8255207812,Cururupu,,Litoral Ocidental Maranhense,Norte Maranhense
+2103752,MA,332817,,Davinópolis,,pt:Davinópolis (Maranhão),-47.4049963875,-5.5344562161,Davinopolis,,Imperatriz,Oeste Maranhense
+2103802,MA,332776,,Dom Pedro,,pt:Dom Pedro (Maranhão),-44.440009911,-5.0384476352,Dom Pedro,,Presidente Dutra,Centro Maranhense
+2103901,MA,332773,,Duque Bacelar,,pt:Duque Bacelar,-42.9441802036,-4.1478190971,Duque Bacelar,,Coelho Neto,Leste Maranhense
+2104008,MA,332820,,Esperantinópolis,,pt:Esperantinópolis,-44.886068699,-4.8703008975,Esperantinopolis,,Médio Mearim,Centro Maranhense
+2104057,MA,332861,,Estreito,,pt:Estreito (Maranhão),-47.4478829861,-6.5680849802,Estreito,,Porto Franco,Sul Maranhense
+2104073,MA,332839,,Feira Nova do Maranhão,,pt:Feira Nova do Maranhão,-46.687355216,-6.9631355406,Feira Nova do Maranhao,,Gerais de Balsas,Sul Maranhense
+2104081,MA,332971,,Fernando Falcão,,pt:Fernando Falcão,-44.9107074022,-6.1549784629,Fernando Falcao,,Alto Mearim e Grajaú,Centro Maranhense
+2104099,MA,332941,,Formosa da Serra Negra,,pt:Formosa da Serra Negra,-46.1863570069,-6.4353041056,Formosa da Serra Negra,,Alto Mearim e Grajaú,Centro Maranhense
+2104107,MA,332809,,Fortaleza dos Nogueiras,,pt:Fortaleza dos Nogueiras,-46.185557542,-6.9659260875,Fortaleza dos Nogueiras,,Chapadas Das Mangabeiras,Sul Maranhense
+2104206,MA,332802,,Fortuna,,pt:Fortuna (Maranhão),-44.1606284272,-5.7362241325,Fortuna,,Presidente Dutra,Centro Maranhense
+2104305,MA,332899,,Godofredo Viana,,pt:Godofredo Viana,-45.7717548081,-1.4098001867,Godofredo Viana,,Gurupi,Oeste Maranhense
+2104404,MA,332885,,Gonçalves Dias,,pt:Gonçalves Dias (Maranhão),-44.3059065359,-5.1439555695,Goncalves Dias,,Presidente Dutra,Centro Maranhense
+2104503,MA,332876,,Governador Archer,,pt:Governador Archer,-44.2757565261,-5.0253878239,Governador Archer,,Presidente Dutra,Centro Maranhense
+2104552,MA,332957,,Governador Edison Lobão,,pt:Governador Edison Lobão,-47.368935839,-5.7474117385,Governador Edison Lobao,,Imperatriz,Oeste Maranhense
+2104602,MA,332772,,Governador Eugênio Barros,,pt:Governador Eugênio Barros,-44.246962646,-5.3224910015,Governador Eugenio Barros,,Presidente Dutra,Centro Maranhense
+2104628,MA,332780,,Governador Luiz Rocha,,pt:Governador Luiz Rocha,-44.0708873355,-5.4728646849,Governador Luiz Rocha,,Presidente Dutra,Centro Maranhense
+2104651,MA,332799,,Governador Newton Bello,,pt:Governador Newton Bello,-45.674501797,-3.4297047199,Governador Newton Bello,,Pindaré,Oeste Maranhense
+2104677,MA,332828,,Governador Nunes Freire,,pt:Governador Nunes Freire,-45.8814811328,-2.13496236,Governador Nunes Freire,,Gurupi,Oeste Maranhense
+2104701,MA,332837,,Graça Aranha,,pt:Graça Aranha (Maranhão),-44.3357912599,-5.4048212131,Graca Aranha,,Presidente Dutra,Centro Maranhense
+2104800,MA,332843,,Grajaú,,pt:Grajaú (Maranhão),-46.142395636,-5.8185484313,Grajau,,Alto Mearim e Grajaú,Centro Maranhense
+2104909,MA,332858,,Guimarães,,pt:Guimarães (Maranhão),-44.5977464563,-2.1350771584,Guimaraes,,Litoral Ocidental Maranhense,Norte Maranhense
+2105005,MA,332893,,Humberto de Campos,,pt:Humberto de Campos (Maranhão),-43.4650921443,-2.5912239723,Humberto de Campos,,Lençóis Maranhenses,Norte Maranhense
+2105104,MA,332912,,Icatu,,pt:Icatu,-44.0658484686,-2.7748278631,Icatu,,Rosário,Norte Maranhense
+2105153,MA,332949,,Igarapé do Meio,,pt:Igarapé do Meio,-45.1833277022,-3.6367085219,Igarape do Meio,,Baixada Maranhense,Norte Maranhense
+2105203,MA,332953,,Igarapé Grande,,pt:Igarapé Grande,-44.8674033459,-4.6608538062,Igarape Grande,,Médio Mearim,Centro Maranhense
 2105302,MA,332989,Q504755,Imperatriz,,pt:Imperatriz (Maranhão),-47.4798108058,-5.5265240252,Imperatriz,,Imperatriz,Oeste Maranhense
-2105351,MA,332805,,Itaipava do Grajaú,,,-45.7926825035,-5.1445822618,Itaipava do Grajau,,Alto Mearim e Grajaú,Centro Maranhense
-2105401,MA,332816,,Itapecuru Mirim,,,-44.3542633904,-3.3990454801,Itapecuru Mirim,,Itapecuru Mirim,Norte Maranhense
-2105427,MA,332895,,Itinga do Maranhão,,,-47.5279099638,-4.4550039984,Itinga do Maranhao,,Imperatriz,Oeste Maranhense
-2105450,MA,332890,,Jatobá,,,-44.2199147698,-5.8196669368,Jatoba,,Chapadas do Alto Itapecuru,Leste Maranhense
-2105476,MA,332889,,Jenipapo dos Vieiras,,,-45.6333791074,-5.3694249264,Jenipapo dos Vieiras,,Alto Mearim e Grajaú,Centro Maranhense
-2105500,MA,332919,,João Lisboa,,,-47.4050361498,-5.4536629416,Joao Lisboa,,Imperatriz,Oeste Maranhense
-2105609,MA,332939,,Joselândia,,,-44.6991525645,-4.9726933289,Joselandia,,Alto Mearim e Grajaú,Centro Maranhense
-2105658,MA,332986,,Junco do Maranhão,,,-46.0707260732,-1.8746095975,Junco do Maranhao,,Gurupi,Oeste Maranhense
-2105708,MA,332851,,Lago da Pedra,,,-45.1258913559,-4.564744515,Lago da Pedra,,Pindaré,Oeste Maranhense
-2105807,MA,332863,,Lago do Junco,,,-45.0513443921,-4.6076432177,Lago do Junco,,Médio Mearim,Centro Maranhense
-2105906,MA,332835,,Lago Verde,,,-44.937635232,-4.0387112953,Lago Verde,,Médio Mearim,Centro Maranhense
-2105922,MA,332813,,Lagoa do Mato,,,-43.5275591166,-6.0452772966,Lagoa do Mato,,Chapadas do Alto Itapecuru,Leste Maranhense
-2105948,MA,332811,,Lago dos Rodrigues,,,-44.9764423256,-4.6123757769,Lago dos Rodrigues,,Médio Mearim,Centro Maranhense
-2105963,MA,332829,,Lagoa Grande do Maranhão,,,-45.3906142794,-4.9931237371,Lagoa Grande do Maranhao,,Pindaré,Oeste Maranhense
-2105989,MA,332987,,Lajeado Novo,,,-47.0324475171,-6.1916092267,Lajeado Novo,,Imperatriz,Oeste Maranhense
-2106003,MA,332952,,Lima Campos,,,-44.4693403292,-4.5170459872,Lima Campos,,Médio Mearim,Centro Maranhense
-2106102,MA,332887,,Loreto,,,-45.1392416375,-7.0944541654,Loreto,,Chapadas Das Mangabeiras,Sul Maranhense
-2106201,MA,332857,,Luís Domingues,,,-45.8953319921,-1.3254602444,Luis Domingues,,Gurupi,Oeste Maranhense
-2106300,MA,332860,,Magalhães de Almeida,,,-42.2015066914,-3.3966676742,Magalhaes de Almeida,,Baixo Parnaíba Maranhense,Leste Maranhense
-2106326,MA,332862,,Maracaçumé,,,-45.9586390372,-2.0561645495,Maracacume,,Gurupi,Oeste Maranhense
-2106359,MA,332846,,Marajá do Sena,,,-45.4572376526,-4.6203133241,Maraja do Sena,,Pindaré,Oeste Maranhense
-2106375,MA,332836,,Maranhãozinho,,,-45.8556114549,-2.2356169921,Maranhaozinho,,Gurupi,Oeste Maranhense
-2106409,MA,332832,,Mata Roma,,,-43.1203894236,-3.6190455099,Mata Roma,,Chapadinha,Leste Maranhense
-2106508,MA,332797,,Matinha,,,-45.0364289401,-3.09840003,Matinha,,Baixada Maranhense,Norte Maranhense
-2106607,MA,332777,,Matões,,,-43.2012082829,-5.5224650194,Matoes,,Caxias,Leste Maranhense
-2106631,MA,332963,,Matões do Norte,,,-44.5502445069,-3.6275187802,Matoes do Norte,,Itapecuru Mirim,Norte Maranhense
-2106672,MA,332975,,Milagres do Maranhão,,,-42.6107528325,-3.5822066414,Milagres do Maranhao,,Chapadinha,Leste Maranhense
-2106706,MA,332913,,Mirador,,,-44.3626097939,-6.3775656954,Mirador,,Chapadas do Alto Itapecuru,Leste Maranhense
-2106755,MA,332894,,Miranda do Norte,,,-44.5842756917,-3.5626447744,Miranda do Norte,,Itapecuru Mirim,Norte Maranhense
-2106805,MA,332897,,Mirinzal,,,-44.7857559865,-2.0642241916,Mirinzal,,Litoral Ocidental Maranhense,Norte Maranhense
-2106904,MA,332831,,Monção,,,-45.2475846706,-3.49393248,Moncao,,Baixada Maranhense,Norte Maranhense
-2107001,MA,332854,,Montes Altos,,,-47.070439508,-5.8285625042,Montes Altos,,Imperatriz,Oeste Maranhense
-2107100,MA,332874,,Morros,,,-44.0445445432,-2.8614789531,Morros,,Rosário,Norte Maranhense
-2107209,MA,332794,,Nina Rodrigues,,,-43.9044847603,-3.4624642894,Nina Rodrigues,,Itapecuru Mirim,Norte Maranhense
-2107258,MA,332822,,Nova Colinas,,,-46.2593252229,-7.1205660036,Nova Colinas,,Chapadas Das Mangabeiras,Sul Maranhense
-2107308,MA,332810,,Nova Iorque,,,-44.0486267271,-6.7332033058,Nova Iorque,,Chapadas do Alto Itapecuru,Leste Maranhense
-2107357,MA,332947,,Nova Olinda do Maranhão,,,-45.7045360408,-2.7998865441,Nova Olinda do Maranhao,,Pindaré,Oeste Maranhense
-2107407,MA,332961,,Olho d'Água das Cunhãs,,,-45.1195796205,-4.1372759298,Olho d'Agua das Cunhas,,Médio Mearim,Centro Maranhense
-2107456,MA,332976,,Olinda Nova do Maranhão,,,-45.0032353745,-2.9974776154,Olinda Nova do Maranhao,,Baixada Maranhense,Norte Maranhense
-2107506,MA,332881,,Paço do Lumiar,,,-44.0986923548,-2.528063,Paco do Lumiar,,Aglomeração Urbana de São Luís,Norte Maranhense
-2107605,MA,332909,,Palmeirândia,,,-44.9044638923,-2.6477742783,Palmeirandia,,Baixada Maranhense,Norte Maranhense
-2107704,MA,332927,,Paraibano,,,-43.9857620488,-6.4318254141,Paraibano,,Chapadas do Alto Itapecuru,Leste Maranhense
-2107803,MA,332933,,Parnarama,,,-43.0904013535,-5.6844671764,Parnarama,,Caxias,Leste Maranhense
-2107902,MA,332931,,Passagem Franca,,,-43.7817452259,-6.1739944256,Passagem Franca,,Chapadas do Alto Itapecuru,Leste Maranhense
-2108009,MA,332840,,Pastos Bons,,,-44.0886025134,-6.6040277321,Pastos Bons,,Chapadas do Alto Itapecuru,Leste Maranhense
-2108058,MA,332869,,Paulino Neves,,,-42.5454239809,-2.7182059898,Paulino Neves,,Lençóis Maranhenses,Norte Maranhense
-2108108,MA,332868,,Paulo Ramos,,,-45.2399800047,-4.4479567659,Paulo Ramos,,Pindaré,Oeste Maranhense
-2108207,MA,332787,,Pedreiras,,,-44.6037348763,-4.5693506881,Pedreiras,,Médio Mearim,Centro Maranhense
-2108256,MA,332944,,Pedro do Rosário,,,-45.3464537341,-2.9681146727,Pedro do Rosario,,Baixada Maranhense,Norte Maranhense
-2108306,MA,332946,,Penalva,,,-45.1764616888,-3.2932333178,Penalva,,Baixada Maranhense,Norte Maranhense
-2108405,MA,332964,,Peri Mirim,,,-44.8502907001,-2.5730546485,Peri Mirim,,Baixada Maranhense,Norte Maranhense
-2108454,MA,332965,,Peritoró,,,-44.3258535239,-4.3702251177,Peritoro,,Codó,Leste Maranhense
-2108504,MA,332896,,Pindaré-Mirim,,,-45.3468679178,-3.6055005749,Pindare-Mirim,,Pindaré,Oeste Maranhense
-2108603,MA,332882,,Pinheiro,,,-45.0839266013,-2.5227405,Pinheiro,,Baixada Maranhense,Norte Maranhense
-2108702,MA,332921,,Pio XII,,,-45.1699603887,-3.8875875301,Pio XII,,Médio Mearim,Centro Maranhense
-2108801,MA,332928,,Pirapemas,,,-44.2282808838,-3.7253290661,Pirapemas,,Itapecuru Mirim,Norte Maranhense
-2108900,MA,332925,,Poção de Pedras,,,-44.9515514003,-4.7500252112,Pocao de Pedras,,Médio Mearim,Centro Maranhense
-2109007,MA,332911,,Porto Franco,,,-47.3821649019,-6.3541818639,Porto Franco,,Porto Franco,Sul Maranhense
-2109056,MA,332884,,Porto Rico do Maranhão,,,-44.5837478896,-1.8572232148,Porto Rico do Maranhao,,Litoral Ocidental Maranhense,Norte Maranhense
-2109106,MA,332970,,Presidente Dutra,,,-44.4929188624,-5.2823742578,Presidente Dutra,,Presidente Dutra,Centro Maranhense
-2109205,MA,332954,,Presidente Juscelino,,,-44.0767794214,-2.9282292461,Presidente Juscelino,,Rosário,Norte Maranhense
-2109239,MA,332940,,Presidente Médici,,,-45.8207086476,-2.3836640465,Presidente Medici,,Pindaré,Oeste Maranhense
-2109270,MA,332818,,Presidente Sarney,,,-45.3713022606,-2.5955305599,Presidente Sarney,,Baixada Maranhense,Norte Maranhense
-2109304,MA,332821,,Presidente Vargas,,,-44.0334018673,-3.4020115222,Presidente Vargas,,Itapecuru Mirim,Norte Maranhense
-2109403,MA,332785,,Primeira Cruz,,,-43.4424433047,-2.510583172,Primeira Cruz,,Lençóis Maranhenses,Norte Maranhense
-2109452,MA,332859,,Raposa,,,-44.1025161642,-2.4150749026,Raposa,,Aglomeração Urbana de São Luís,Norte Maranhense
-2109502,MA,332833,,Riachão,,,-46.6233501429,-7.3645650002,Riachao,,Gerais de Balsas,Sul Maranhense
-2109551,MA,332908,,Ribamar Fiquene,,,-47.3834777871,-5.9338228588,Ribamar Fiquene,,Imperatriz,Oeste Maranhense
-2109601,MA,332918,,Rosário,,,-44.2475185953,-2.941543035,Rosario,,Rosário,Norte Maranhense
-2109700,MA,332879,,Sambaíba,,,-45.344203198,-7.1383508975,Sambaiba,,Chapadas Das Mangabeiras,Sul Maranhense
-2109759,MA,332902,,Santa Filomena do Maranhão,,,-44.5637140401,-5.4997668067,Santa Filomena do Maranhao,,Alto Mearim e Grajaú,Centro Maranhense
-2109809,MA,332960,,Santa Helena,,,-45.3051611932,-2.2345325089,Santa Helena,,Baixada Maranhense,Norte Maranhense
-2109908,MA,332808,,Santa Inês,,,-45.3782724523,-3.65857452,Santa Ines,,Pindaré,Oeste Maranhense
-2110005,MA,332812,,Santa Luzia,,,-45.6650117249,-3.968391465,Santa Luzia,,Pindaré,Oeste Maranhense
-2110039,MA,332814,,Santa Luzia do Paruá,,,-45.7764615616,-2.5461614748,Santa Luzia do Parua,,Pindaré,Oeste Maranhense
-2110104,MA,332825,,Santa Quitéria do Maranhão,,,-42.5628730097,-3.4984849951,Santa Quiteria do Maranhao,,Baixo Parnaíba Maranhense,Leste Maranhense
-2110203,MA,332824,,Santa Rita,,,-44.3199480819,-3.1341167657,Santa Rita,,Rosário,Norte Maranhense
-2110237,MA,332781,,Santana do Maranhão,,,-42.4007677572,-3.1130683428,Santana do Maranhao,,Baixo Parnaíba Maranhense,Leste Maranhense
-2110278,MA,332788,,Santo Amaro do Maranhão,,,-43.2552849422,-2.502721199,Santo Amaro do Maranhao,,Lençóis Maranhenses,Norte Maranhense
-2110302,MA,332775,,Santo Antônio dos Lopes,,,-44.3614474338,-4.8738195756,Santo Antonio dos Lopes,,Médio Mearim,Centro Maranhense
-2110401,MA,332778,,São Benedito do Rio Preto,,,-43.5299918702,-3.3327660037,Sao Benedito do Rio Preto,,Chapadinha,Leste Maranhense
-2110500,MA,332807,,São Bento,,,-44.8283451799,-2.6970075,Sao Bento,,Baixada Maranhense,Norte Maranhense
-2110609,MA,332806,,São Bernardo,,,-42.4230096609,-3.3654365101,Sao Bernardo,,Baixo Parnaíba Maranhense,Leste Maranhense
-2110658,MA,332800,,São Domingos do Azeitão,,,-44.6504239103,-6.8044250098,Sao Domingos do Azeitao,,Chapadas Das Mangabeiras,Sul Maranhense
-2110708,MA,332850,,São Domingos do Maranhão,,,-44.3928792569,-5.5656420002,Sao Domingos do Maranhao,,Presidente Dutra,Centro Maranhense
-2110807,MA,332855,,São Félix de Balsas,,,-44.8114476615,-7.0846851542,Sao Felix de Balsas,,Chapadas Das Mangabeiras,Sul Maranhense
-2110856,MA,332853,,São Francisco do Brejão,,,-47.3911373986,-5.1302007872,Sao Francisco do Brejao,,Imperatriz,Oeste Maranhense
-2110906,MA,332849,,São Francisco do Maranhão,,,-42.8653217276,-6.2527979167,Sao Francisco do Maranhao,,Chapadas do Alto Itapecuru,Leste Maranhense
-2111003,MA,332870,,São João Batista,,,-44.8117618531,-2.9533329125,Sao Joao Batista,,Baixada Maranhense,Norte Maranhense
-2111029,MA,332871,,São João do Carú,,,-46.2549254827,-3.5608034069,Sao Joao do Caru,,Pindaré,Oeste Maranhense
-2111052,MA,332841,,São João do Paraíso,,,-47.0506104205,-6.4662222864,Sao Joao do Paraiso,,Porto Franco,Sul Maranhense
-2111078,MA,332844,,São João do Soter,,,-43.8181817951,-5.1157392644,Sao Joao do Soter,,Caxias,Leste Maranhense
-2111102,MA,332892,,São João dos Patos,,,-43.7029101658,-6.4982081521,Sao Joao dos Patos,,Chapadas do Alto Itapecuru,Leste Maranhense
+2105351,MA,332805,,Itaipava do Grajaú,,pt:Itaipava do Grajaú,-45.7926825035,-5.1445822618,Itaipava do Grajau,,Alto Mearim e Grajaú,Centro Maranhense
+2105401,MA,332816,,Itapecuru Mirim,,pt:Itapecuru Mirim,-44.3542633904,-3.3990454801,Itapecuru Mirim,,Itapecuru Mirim,Norte Maranhense
+2105427,MA,332895,,Itinga do Maranhão,,pt:Itinga do Maranhão,-47.5279099638,-4.4550039984,Itinga do Maranhao,,Imperatriz,Oeste Maranhense
+2105450,MA,332890,,Jatobá,,pt:Jatobá (Maranhão),-44.2199147698,-5.8196669368,Jatoba,,Chapadas do Alto Itapecuru,Leste Maranhense
+2105476,MA,332889,,Jenipapo dos Vieiras,,pt:Jenipapo dos Vieiras,-45.6333791074,-5.3694249264,Jenipapo dos Vieiras,,Alto Mearim e Grajaú,Centro Maranhense
+2105500,MA,332919,,João Lisboa,,pt:João Lisboa,-47.4050361498,-5.4536629416,Joao Lisboa,,Imperatriz,Oeste Maranhense
+2105609,MA,332939,,Joselândia,,pt:Joselândia,-44.6991525645,-4.9726933289,Joselandia,,Alto Mearim e Grajaú,Centro Maranhense
+2105658,MA,332986,,Junco do Maranhão,,pt:Junco do Maranhão,-46.0707260732,-1.8746095975,Junco do Maranhao,,Gurupi,Oeste Maranhense
+2105708,MA,332851,,Lago da Pedra,,pt:Lago da Pedra,-45.1258913559,-4.564744515,Lago da Pedra,,Pindaré,Oeste Maranhense
+2105807,MA,332863,,Lago do Junco,,pt:Lago do Junco,-45.0513443921,-4.6076432177,Lago do Junco,,Médio Mearim,Centro Maranhense
+2105906,MA,332835,,Lago Verde,,pt:Lago Verde,-44.937635232,-4.0387112953,Lago Verde,,Médio Mearim,Centro Maranhense
+2105922,MA,332813,,Lagoa do Mato,,pt:Lagoa do Mato,-43.5275591166,-6.0452772966,Lagoa do Mato,,Chapadas do Alto Itapecuru,Leste Maranhense
+2105948,MA,332811,,Lago dos Rodrigues,,pt:Lago dos Rodrigues,-44.9764423256,-4.6123757769,Lago dos Rodrigues,,Médio Mearim,Centro Maranhense
+2105963,MA,332829,,Lagoa Grande do Maranhão,,pt:Lagoa Grande do Maranhão,-45.3906142794,-4.9931237371,Lagoa Grande do Maranhao,,Pindaré,Oeste Maranhense
+2105989,MA,332987,,Lajeado Novo,,pt:Lajeado Novo,-47.0324475171,-6.1916092267,Lajeado Novo,,Imperatriz,Oeste Maranhense
+2106003,MA,332952,,Lima Campos,,pt:Lima Campos,-44.4693403292,-4.5170459872,Lima Campos,,Médio Mearim,Centro Maranhense
+2106102,MA,332887,,Loreto,,pt:Loreto (Maranhão),-45.1392416375,-7.0944541654,Loreto,,Chapadas Das Mangabeiras,Sul Maranhense
+2106201,MA,332857,,Luís Domingues,,pt:Luís Domingues,-45.8953319921,-1.3254602444,Luis Domingues,,Gurupi,Oeste Maranhense
+2106300,MA,332860,,Magalhães de Almeida,,pt:Magalhães de Almeida,-42.2015066914,-3.3966676742,Magalhaes de Almeida,,Baixo Parnaíba Maranhense,Leste Maranhense
+2106326,MA,332862,,Maracaçumé,,pt:Maracaçumé,-45.9586390372,-2.0561645495,Maracacume,,Gurupi,Oeste Maranhense
+2106359,MA,332846,,Marajá do Sena,,pt:Marajá do Sena,-45.4572376526,-4.6203133241,Maraja do Sena,,Pindaré,Oeste Maranhense
+2106375,MA,332836,,Maranhãozinho,,pt:Maranhãozinho,-45.8556114549,-2.2356169921,Maranhaozinho,,Gurupi,Oeste Maranhense
+2106409,MA,332832,,Mata Roma,,pt:Mata Roma,-43.1203894236,-3.6190455099,Mata Roma,,Chapadinha,Leste Maranhense
+2106508,MA,332797,,Matinha,,pt:Matinha,-45.0364289401,-3.09840003,Matinha,,Baixada Maranhense,Norte Maranhense
+2106607,MA,332777,,Matões,,pt:Matões,-43.2012082829,-5.5224650194,Matoes,,Caxias,Leste Maranhense
+2106631,MA,332963,,Matões do Norte,,pt:Matões do Norte,-44.5502445069,-3.6275187802,Matoes do Norte,,Itapecuru Mirim,Norte Maranhense
+2106672,MA,332975,,Milagres do Maranhão,,pt:Milagres do Maranhão,-42.6107528325,-3.5822066414,Milagres do Maranhao,,Chapadinha,Leste Maranhense
+2106706,MA,332913,,Mirador,,pt:Mirador (Maranhão),-44.3626097939,-6.3775656954,Mirador,,Chapadas do Alto Itapecuru,Leste Maranhense
+2106755,MA,332894,,Miranda do Norte,,pt:Miranda do Norte,-44.5842756917,-3.5626447744,Miranda do Norte,,Itapecuru Mirim,Norte Maranhense
+2106805,MA,332897,,Mirinzal,,pt:Mirinzal,-44.7857559865,-2.0642241916,Mirinzal,,Litoral Ocidental Maranhense,Norte Maranhense
+2106904,MA,332831,,Monção,,pt:Monção (Maranhão),-45.2475846706,-3.49393248,Moncao,,Baixada Maranhense,Norte Maranhense
+2107001,MA,332854,,Montes Altos,,pt:Montes Altos,-47.070439508,-5.8285625042,Montes Altos,,Imperatriz,Oeste Maranhense
+2107100,MA,332874,,Morros,,pt:Morros (Maranhão),-44.0445445432,-2.8614789531,Morros,,Rosário,Norte Maranhense
+2107209,MA,332794,,Nina Rodrigues,,pt:Nina Rodrigues (Maranhão),-43.9044847603,-3.4624642894,Nina Rodrigues,,Itapecuru Mirim,Norte Maranhense
+2107258,MA,332822,,Nova Colinas,,pt:Nova Colinas,-46.2593252229,-7.1205660036,Nova Colinas,,Chapadas Das Mangabeiras,Sul Maranhense
+2107308,MA,332810,,Nova Iorque,,pt:Nova Iorque (Maranhão),-44.0486267271,-6.7332033058,Nova Iorque,,Chapadas do Alto Itapecuru,Leste Maranhense
+2107357,MA,332947,,Nova Olinda do Maranhão,,pt:Nova Olinda do Maranhão,-45.7045360408,-2.7998865441,Nova Olinda do Maranhao,,Pindaré,Oeste Maranhense
+2107407,MA,332961,,Olho d'Água das Cunhãs,,pt:Olho d'Água das Cunhãs,-45.1195796205,-4.1372759298,Olho d'Agua das Cunhas,,Médio Mearim,Centro Maranhense
+2107456,MA,332976,,Olinda Nova do Maranhão,,pt:Olinda Nova do Maranhão,-45.0032353745,-2.9974776154,Olinda Nova do Maranhao,,Baixada Maranhense,Norte Maranhense
+2107506,MA,332881,,Paço do Lumiar,,pt:Paço do Lumiar,-44.0986923548,-2.528063,Paco do Lumiar,,Aglomeração Urbana de São Luís,Norte Maranhense
+2107605,MA,332909,,Palmeirândia,,pt:Palmeirândia,-44.9044638923,-2.6477742783,Palmeirandia,,Baixada Maranhense,Norte Maranhense
+2107704,MA,332927,,Paraibano,,pt:Paraibano (Maranhão),-43.9857620488,-6.4318254141,Paraibano,,Chapadas do Alto Itapecuru,Leste Maranhense
+2107803,MA,332933,,Parnarama,,pt:Parnarama,-43.0904013535,-5.6844671764,Parnarama,,Caxias,Leste Maranhense
+2107902,MA,332931,,Passagem Franca,,pt:Passagem Franca,-43.7817452259,-6.1739944256,Passagem Franca,,Chapadas do Alto Itapecuru,Leste Maranhense
+2108009,MA,332840,,Pastos Bons,,pt:Pastos Bons,-44.0886025134,-6.6040277321,Pastos Bons,,Chapadas do Alto Itapecuru,Leste Maranhense
+2108058,MA,332869,,Paulino Neves,,pt:Paulino Neves,-42.5454239809,-2.7182059898,Paulino Neves,,Lençóis Maranhenses,Norte Maranhense
+2108108,MA,332868,,Paulo Ramos,,pt:Paulo Ramos (Maranhão),-45.2399800047,-4.4479567659,Paulo Ramos,,Pindaré,Oeste Maranhense
+2108207,MA,332787,,Pedreiras,,pt:Pedreiras (Maranhão),-44.6037348763,-4.5693506881,Pedreiras,,Médio Mearim,Centro Maranhense
+2108256,MA,332944,,Pedro do Rosário,,pt:Pedro do Rosário,-45.3464537341,-2.9681146727,Pedro do Rosario,,Baixada Maranhense,Norte Maranhense
+2108306,MA,332946,,Penalva,,pt:Penalva (Maranhão),-45.1764616888,-3.2932333178,Penalva,,Baixada Maranhense,Norte Maranhense
+2108405,MA,332964,,Peri Mirim,,pt:Peri Mirim,-44.8502907001,-2.5730546485,Peri Mirim,,Baixada Maranhense,Norte Maranhense
+2108454,MA,332965,,Peritoró,,pt:Peritoró,-44.3258535239,-4.3702251177,Peritoro,,Codó,Leste Maranhense
+2108504,MA,332896,,Pindaré-Mirim,,pt:Pindaré-Mirim,-45.3468679178,-3.6055005749,Pindare-Mirim,,Pindaré,Oeste Maranhense
+2108603,MA,332882,,Pinheiro,,pt:Pinheiro (Maranhão),-45.0839266013,-2.5227405,Pinheiro,,Baixada Maranhense,Norte Maranhense
+2108702,MA,332921,,Pio XII,,pt:Pio XII (Maranhão),-45.1699603887,-3.8875875301,Pio XII,,Médio Mearim,Centro Maranhense
+2108801,MA,332928,,Pirapemas,,pt:Pirapemas,-44.2282808838,-3.7253290661,Pirapemas,,Itapecuru Mirim,Norte Maranhense
+2108900,MA,332925,,Poção de Pedras,,pt:Poção de Pedras,-44.9515514003,-4.7500252112,Pocao de Pedras,,Médio Mearim,Centro Maranhense
+2109007,MA,332911,,Porto Franco,,pt:Porto Franco,-47.3821649019,-6.3541818639,Porto Franco,,Porto Franco,Sul Maranhense
+2109056,MA,332884,,Porto Rico do Maranhão,,pt:Porto Rico do Maranhão,-44.5837478896,-1.8572232148,Porto Rico do Maranhao,,Litoral Ocidental Maranhense,Norte Maranhense
+2109106,MA,332970,,Presidente Dutra,,pt:Presidente Dutra (Maranhão),-44.4929188624,-5.2823742578,Presidente Dutra,,Presidente Dutra,Centro Maranhense
+2109205,MA,332954,,Presidente Juscelino,,pt:Presidente Juscelino (Maranhão),-44.0767794214,-2.9282292461,Presidente Juscelino,,Rosário,Norte Maranhense
+2109239,MA,332940,,Presidente Médici,,pt:Presidente Médici (Maranhão),-45.8207086476,-2.3836640465,Presidente Medici,,Pindaré,Oeste Maranhense
+2109270,MA,332818,,Presidente Sarney,,pt:Presidente Sarney (Maranhão),-45.3713022606,-2.5955305599,Presidente Sarney,,Baixada Maranhense,Norte Maranhense
+2109304,MA,332821,,Presidente Vargas,,pt:Presidente Vargas (Maranhão),-44.0334018673,-3.4020115222,Presidente Vargas,,Itapecuru Mirim,Norte Maranhense
+2109403,MA,332785,,Primeira Cruz,,pt:Primeira Cruz,-43.4424433047,-2.510583172,Primeira Cruz,,Lençóis Maranhenses,Norte Maranhense
+2109452,MA,332859,,Raposa,,pt:Raposa (Maranhão),-44.1025161642,-2.4150749026,Raposa,,Aglomeração Urbana de São Luís,Norte Maranhense
+2109502,MA,332833,,Riachão,,pt:Riachão (Maranhão),-46.6233501429,-7.3645650002,Riachao,,Gerais de Balsas,Sul Maranhense
+2109551,MA,332908,,Ribamar Fiquene,,pt:Ribamar Fiquene,-47.3834777871,-5.9338228588,Ribamar Fiquene,,Imperatriz,Oeste Maranhense
+2109601,MA,332918,,Rosário,,pt:Rosário (Maranhão),-44.2475185953,-2.941543035,Rosario,,Rosário,Norte Maranhense
+2109700,MA,332879,,Sambaíba,,pt:Sambaíba,-45.344203198,-7.1383508975,Sambaiba,,Chapadas Das Mangabeiras,Sul Maranhense
+2109759,MA,332902,,Santa Filomena do Maranhão,,pt:Santa Filomena do Maranhão,-44.5637140401,-5.4997668067,Santa Filomena do Maranhao,,Alto Mearim e Grajaú,Centro Maranhense
+2109809,MA,332960,,Santa Helena,,pt:Santa Helena (Maranhão),-45.3051611932,-2.2345325089,Santa Helena,,Baixada Maranhense,Norte Maranhense
+2109908,MA,332808,,Santa Inês,,pt:Santa Inês (Maranhão),-45.3782724523,-3.65857452,Santa Ines,,Pindaré,Oeste Maranhense
+2110005,MA,332812,,Santa Luzia,,pt:Santa Luzia (Maranhão),-45.6650117249,-3.968391465,Santa Luzia,,Pindaré,Oeste Maranhense
+2110039,MA,332814,,Santa Luzia do Paruá,,pt:Santa Luzia do Paruá,-45.7764615616,-2.5461614748,Santa Luzia do Parua,,Pindaré,Oeste Maranhense
+2110104,MA,332825,,Santa Quitéria do Maranhão,,pt:Santa Quitéria do Maranhão,-42.5628730097,-3.4984849951,Santa Quiteria do Maranhao,,Baixo Parnaíba Maranhense,Leste Maranhense
+2110203,MA,332824,,Santa Rita,,pt:Santa Rita (Maranhão),-44.3199480819,-3.1341167657,Santa Rita,,Rosário,Norte Maranhense
+2110237,MA,332781,,Santana do Maranhão,,pt:Santana do Maranhão,-42.4007677572,-3.1130683428,Santana do Maranhao,,Baixo Parnaíba Maranhense,Leste Maranhense
+2110278,MA,332788,,Santo Amaro do Maranhão,,pt:Santo Amaro do Maranhão,-43.2552849422,-2.502721199,Santo Amaro do Maranhao,,Lençóis Maranhenses,Norte Maranhense
+2110302,MA,332775,,Santo Antônio dos Lopes,,pt:Santo Antônio dos Lopes,-44.3614474338,-4.8738195756,Santo Antonio dos Lopes,,Médio Mearim,Centro Maranhense
+2110401,MA,332778,,São Benedito do Rio Preto,,pt:São Benedito do Rio Preto,-43.5299918702,-3.3327660037,Sao Benedito do Rio Preto,,Chapadinha,Leste Maranhense
+2110500,MA,332807,,São Bento,,pt:São Bento (Maranhão),-44.8283451799,-2.6970075,Sao Bento,,Baixada Maranhense,Norte Maranhense
+2110609,MA,332806,,São Bernardo,,pt:São Bernardo (Maranhão),-42.4230096609,-3.3654365101,Sao Bernardo,,Baixo Parnaíba Maranhense,Leste Maranhense
+2110658,MA,332800,,São Domingos do Azeitão,,pt:São Domingos do Azeitão,-44.6504239103,-6.8044250098,Sao Domingos do Azeitao,,Chapadas Das Mangabeiras,Sul Maranhense
+2110708,MA,332850,,São Domingos do Maranhão,,pt:São Domingos do Maranhão,-44.3928792569,-5.5656420002,Sao Domingos do Maranhao,,Presidente Dutra,Centro Maranhense
+2110807,MA,332855,,São Félix de Balsas,,pt:São Félix de Balsas,-44.8114476615,-7.0846851542,Sao Felix de Balsas,,Chapadas Das Mangabeiras,Sul Maranhense
+2110856,MA,332853,,São Francisco do Brejão,,pt:São Francisco do Brejão,-47.3911373986,-5.1302007872,Sao Francisco do Brejao,,Imperatriz,Oeste Maranhense
+2110906,MA,332849,,São Francisco do Maranhão,,pt:São Francisco do Maranhão,-42.8653217276,-6.2527979167,Sao Francisco do Maranhao,,Chapadas do Alto Itapecuru,Leste Maranhense
+2111003,MA,332870,,São João Batista,,pt:São João Batista (Maranhão),-44.8117618531,-2.9533329125,Sao Joao Batista,,Baixada Maranhense,Norte Maranhense
+2111029,MA,332871,,São João do Carú,,pt:São João do Carú,-46.2549254827,-3.5608034069,Sao Joao do Caru,,Pindaré,Oeste Maranhense
+2111052,MA,332841,,São João do Paraíso,,pt:São João do Paraíso (Maranhão),-47.0506104205,-6.4662222864,Sao Joao do Paraiso,,Porto Franco,Sul Maranhense
+2111078,MA,332844,,São João do Soter,,pt:São João do Soter,-43.8181817951,-5.1157392644,Sao Joao do Soter,,Caxias,Leste Maranhense
+2111102,MA,332892,,São João dos Patos,,pt:São João dos Patos,-43.7029101658,-6.4982081521,Sao Joao dos Patos,,Chapadas do Alto Itapecuru,Leste Maranhense
 2111201,MA,332877,Q1006367,São José de Ribamar,,pt:São José de Ribamar,-44.0575481151,-2.55585852,Sao Jose de Ribamar,,Aglomeração Urbana de São Luís,Norte Maranhense
-2111250,MA,332930,,São José dos Basílios,,,-44.5824465176,-5.0486872452,Sao Jose dos Basilios,,Presidente Dutra,Centro Maranhense
+2111250,MA,332930,,São José dos Basílios,,pt:São José dos Basílios,-44.5824465176,-5.0486872452,Sao Jose dos Basilios,,Presidente Dutra,Centro Maranhense
 2111300,MA,332923,Q28441,São Luís,true,pt:São Luís (Maranhão),-44.2979185642,-2.5318859851,Sao Luis,,Aglomeração Urbana de São Luís,Norte Maranhense
-2111409,MA,332934,,São Luís Gonzaga do Maranhão,,,-44.6627084964,-4.3739184906,Sao Luis Gonzaga do Maranhao,,Médio Mearim,Centro Maranhense
-2111508,MA,332937,,São Mateus do Maranhão,,,-44.4685628111,-4.0345505101,Sao Mateus do Maranhao,,Médio Mearim,Centro Maranhense
-2111532,MA,332938,,São Pedro da Água Branca,,,-48.4236235936,-5.0889109974,Sao Pedro da Agua Branca,,Imperatriz,Oeste Maranhense
-2111573,MA,332948,,São Pedro dos Crentes,,,-46.5325803474,-6.8285556408,Sao Pedro dos Crentes,,Porto Franco,Sul Maranhense
-2111607,MA,332950,,São Raimundo das Mangabeiras,,,-45.4848314302,-7.0269626572,Sao Raimundo das Mangabeiras,,Chapadas Das Mangabeiras,Sul Maranhense
-2111631,MA,332982,,São Raimundo do Doca Bezerra,,,-45.0841627903,-5.1031818449,Sao Raimundo do Doca Bezerra,,Médio Mearim,Centro Maranhense
-2111672,MA,332978,,São Roberto,,,-44.9919011593,-5.0173668824,Sao Roberto,,Médio Mearim,Centro Maranhense
-2111706,MA,332977,,São Vicente Ferrer,,,-44.8869045766,-2.8907310644,Sao Vicente Ferrer,,Baixada Maranhense,Norte Maranhense
-2111722,MA,332968,,Satubinha,,,-45.2336295762,-4.0357354948,Satubinha,,Médio Mearim,Centro Maranhense
-2111748,MA,332967,,Senador Alexandre Costa,,,-44.0563015064,-5.2610765444,Senador Alexandre Costa,,Presidente Dutra,Centro Maranhense
-2111763,MA,332969,,Senador La Rocque,,,-47.289191424,-5.4418324952,Senador La Rocque,,Imperatriz,Oeste Maranhense
-2111789,MA,332801,,Serrano do Maranhão,,,-45.1146408497,-1.8526455417,Serrano do Maranhao,,Litoral Ocidental Maranhense,Norte Maranhense
-2111805,MA,332792,,Sítio Novo,,,-46.6949833407,-5.8706298913,Sitio Novo,,Alto Mearim e Grajaú,Centro Maranhense
-2111904,MA,332793,,Sucupira do Norte,,,-44.1886027052,-6.4782844476,Sucupira do Norte,,Chapadas do Alto Itapecuru,Leste Maranhense
-2111953,MA,332795,,Sucupira do Riachão,,,-43.5458533208,-6.4201084051,Sucupira do Riachao,,Chapadas do Alto Itapecuru,Leste Maranhense
-2112001,MA,332796,,Tasso Fragoso,,,-45.7441235175,-8.4798310179,Tasso Fragoso,,Gerais de Balsas,Sul Maranhense
-2112100,MA,332784,,Timbiras,,,-43.9384339738,-4.253840505,Timbiras,,Codó,Leste Maranhense
-2112209,MA,332783,,Timon,,,-42.8337278989,-5.1006811101,Timon,,Caxias,Leste Maranhense
-2112233,MA,332782,,Trizidela do Vale,,,-44.6106851966,-4.5701268566,Trizidela do Vale,,Médio Mearim,Centro Maranhense
-2112274,MA,332790,,Tufilândia,,,-45.6339164757,-3.6764041184,Tufilandia,,Pindaré,Oeste Maranhense
-2112308,MA,332789,,Tuntum,,,-44.6490121517,-5.24965554,Tuntum,,Alto Mearim e Grajaú,Centro Maranhense
-2112407,MA,332901,,Turiaçu,,,-45.3691524172,-1.6690220477,Turiacu,,Gurupi,Oeste Maranhense
-2112456,MA,332898,,Turilândia,,,-45.306765312,-2.228833525,Turilandia,,Gurupi,Oeste Maranhense
-2112506,MA,332905,,Tutóia,,,-42.2768472077,-2.7635501969,Tutoia,,Lençóis Maranhenses,Norte Maranhense
-2112605,MA,332904,,Urbano Santos,,,-43.4042484724,-3.2084094996,Urbano Santos,,Chapadinha,Leste Maranhense
-2112704,MA,332903,,Vargem Grande,,,-43.9166644902,-3.5418960001,Vargem Grande,,Itapecuru Mirim,Norte Maranhense
-2112803,MA,332906,,Viana,,,-45.0013066953,-3.2145625131,Viana,,Baixada Maranhense,Norte Maranhense
-2112852,MA,332917,,Vila Nova dos Martírios,,,-48.1389264826,-5.1835115192,Vila Nova dos Martirios,,Imperatriz,Oeste Maranhense
-2112902,MA,332914,,Vitória do Mearim,,,-44.8695722406,-3.4820473645,Vitoria do Mearim,,Baixada Maranhense,Norte Maranhense
-2113009,MA,332915,,Vitorino Freire,,,-45.2441851432,-4.2911865001,Vitorino Freire,,Pindaré,Oeste Maranhense
-2114007,MA,332926,,Zé Doca,,,-45.6576978606,-3.2754805,Ze Doca,,Pindaré,Oeste Maranhense
+2111409,MA,332934,,São Luís Gonzaga do Maranhão,,pt:São Luís Gonzaga do Maranhão,-44.6627084964,-4.3739184906,Sao Luis Gonzaga do Maranhao,,Médio Mearim,Centro Maranhense
+2111508,MA,332937,,São Mateus do Maranhão,,pt:São Mateus do Maranhão,-44.4685628111,-4.0345505101,Sao Mateus do Maranhao,,Médio Mearim,Centro Maranhense
+2111532,MA,332938,,São Pedro da Água Branca,,pt:São Pedro da Água Branca,-48.4236235936,-5.0889109974,Sao Pedro da Agua Branca,,Imperatriz,Oeste Maranhense
+2111573,MA,332948,,São Pedro dos Crentes,,pt:São Pedro dos Crentes,-46.5325803474,-6.8285556408,Sao Pedro dos Crentes,,Porto Franco,Sul Maranhense
+2111607,MA,332950,,São Raimundo das Mangabeiras,,pt:São Raimundo das Mangabeiras,-45.4848314302,-7.0269626572,Sao Raimundo das Mangabeiras,,Chapadas Das Mangabeiras,Sul Maranhense
+2111631,MA,332982,,São Raimundo do Doca Bezerra,,pt:São Raimundo do Doca Bezerra,-45.0841627903,-5.1031818449,Sao Raimundo do Doca Bezerra,,Médio Mearim,Centro Maranhense
+2111672,MA,332978,,São Roberto,,pt:São Roberto (Maranhão),-44.9919011593,-5.0173668824,Sao Roberto,,Médio Mearim,Centro Maranhense
+2111706,MA,332977,,São Vicente Ferrer,,pt:São Vicente Ferrer (Maranhão),-44.8869045766,-2.8907310644,Sao Vicente Ferrer,,Baixada Maranhense,Norte Maranhense
+2111722,MA,332968,,Satubinha,,pt:Satubinha,-45.2336295762,-4.0357354948,Satubinha,,Médio Mearim,Centro Maranhense
+2111748,MA,332967,,Senador Alexandre Costa,,pt:Senador Alexandre Costa,-44.0563015064,-5.2610765444,Senador Alexandre Costa,,Presidente Dutra,Centro Maranhense
+2111763,MA,332969,,Senador La Rocque,,pt:Senador La Rocque,-47.289191424,-5.4418324952,Senador La Rocque,,Imperatriz,Oeste Maranhense
+2111789,MA,332801,,Serrano do Maranhão,,pt:Serrano do Maranhão,-45.1146408497,-1.8526455417,Serrano do Maranhao,,Litoral Ocidental Maranhense,Norte Maranhense
+2111805,MA,332792,,Sítio Novo,,pt:Sítio Novo (Maranhão),-46.6949833407,-5.8706298913,Sitio Novo,,Alto Mearim e Grajaú,Centro Maranhense
+2111904,MA,332793,,Sucupira do Norte,,pt:Sucupira do Norte,-44.1886027052,-6.4782844476,Sucupira do Norte,,Chapadas do Alto Itapecuru,Leste Maranhense
+2111953,MA,332795,,Sucupira do Riachão,,pt:Sucupira do Riachão,-43.5458533208,-6.4201084051,Sucupira do Riachao,,Chapadas do Alto Itapecuru,Leste Maranhense
+2112001,MA,332796,,Tasso Fragoso,,pt:Tasso Fragoso (Maranhão),-45.7441235175,-8.4798310179,Tasso Fragoso,,Gerais de Balsas,Sul Maranhense
+2112100,MA,332784,,Timbiras,,pt:Timbiras,-43.9384339738,-4.253840505,Timbiras,,Codó,Leste Maranhense
+2112209,MA,332783,,Timon,,pt:Timon,-42.8337278989,-5.1006811101,Timon,,Caxias,Leste Maranhense
+2112233,MA,332782,,Trizidela do Vale,,pt:Trizidela do Vale,-44.6106851966,-4.5701268566,Trizidela do Vale,,Médio Mearim,Centro Maranhense
+2112274,MA,332790,,Tufilândia,,pt:Tufilândia,-45.6339164757,-3.6764041184,Tufilandia,,Pindaré,Oeste Maranhense
+2112308,MA,332789,,Tuntum,,pt:Tuntum,-44.6490121517,-5.24965554,Tuntum,,Alto Mearim e Grajaú,Centro Maranhense
+2112407,MA,332901,,Turiaçu,,pt:Turiaçu,-45.3691524172,-1.6690220477,Turiacu,,Gurupi,Oeste Maranhense
+2112456,MA,332898,,Turilândia,,pt:Turilândia,-45.306765312,-2.228833525,Turilandia,,Gurupi,Oeste Maranhense
+2112506,MA,332905,,Tutóia,,pt:Tutóia,-42.2768472077,-2.7635501969,Tutoia,,Lençóis Maranhenses,Norte Maranhense
+2112605,MA,332904,,Urbano Santos,,pt:Urbano Santos,-43.4042484724,-3.2084094996,Urbano Santos,,Chapadinha,Leste Maranhense
+2112704,MA,332903,,Vargem Grande,,pt:Vargem Grande,-43.9166644902,-3.5418960001,Vargem Grande,,Itapecuru Mirim,Norte Maranhense
+2112803,MA,332906,,Viana,,pt:Viana (Maranhão),-45.0013066953,-3.2145625131,Viana,,Baixada Maranhense,Norte Maranhense
+2112852,MA,332917,,Vila Nova dos Martírios,,pt:Vila Nova dos Martírios,-48.1389264826,-5.1835115192,Vila Nova dos Martirios,,Imperatriz,Oeste Maranhense
+2112902,MA,332914,,Vitória do Mearim,,pt:Vitória do Mearim,-44.8695722406,-3.4820473645,Vitoria do Mearim,,Baixada Maranhense,Norte Maranhense
+2113009,MA,332915,,Vitorino Freire,,pt:Vitorino Freire,-45.2441851432,-4.2911865001,Vitorino Freire,,Pindaré,Oeste Maranhense
+2114007,MA,332926,,Zé Doca,,pt:Zé Doca,-45.6576978606,-3.2754805,Ze Doca,,Pindaré,Oeste Maranhense
 2200053,PI,302709,Q2066143,Acauã,,pt:Acauã (Piauí),-41.0836378172,-8.2207866629,Acaua,,Alto Médio Canindé,Sudeste Piauiense
 2200103,PI,302845,Q1936312,Agricolândia,,pt:Agricolândia,-42.6591831974,-5.7955019354,Agricolandia,,Médio Parnaíba Piauiense,Centro-Norte Piauiense
 2200202,PI,302769,Q578114,Água Branca,,pt:Água Branca (Piauí),-42.63513086,-5.8932663379,Agua Branca,,Médio Parnaíba Piauiense,Centro-Norte Piauiense
