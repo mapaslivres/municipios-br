@@ -2498,7 +2498,7 @@ ibge_code,state_code,osm_id,wikidata_id,name,is_capital,wikipedia_pt,lon,lat,no_
 3122603,MG,315230,Q1791176,Dom Joaquim,,pt:Dom Joaquim,-43.261348004,-18.9645501866,Dom Joaquim,,Conceição do Mato Dentro,Metropolitana de Belo Horizonte
 3122702,MG,315212,Q1756586,Dom Silvério,,pt:Dom Silvério,-42.970872967,-20.1622049297,Dom Silverio,,Ponte Nova,Zona da Mata
 3122801,MG,315205,Q1790610,Dom Viçoso,,pt:Dom Viçoso,-45.1591686739,-22.2536741087,Dom Vicoso,,Itajubá,Sul/Sudoeste de Minas
-3122900,MG,315193,Q1756805,Dona Euzébia,,pt:Dona Eusébia,-42.8069340638,-21.3238746965,Dona Euzebia,,Cataguases,Zona da Mata
+3122900,MG,315193,Q1756805,Dona Euzébia,,pt:Dona Eusébia,-42.8069340638,-21.3238746965,"Dona Euzebia, Dona Eusebia, Dona Eusébia",,Cataguases,Zona da Mata
 3123007,MG,315183,Q1790636,Dores de Campos,,pt:Dores de Campos,-44.0230465709,-21.10408756,Dores de Campos,,São João Del Rei,Campo Das Vertentes
 3123106,MG,315108,Q1790727,Dores de Guanhães,,pt:Dores de Guanhães,-42.9267218923,-19.0542617835,Dores de Guanhaes,,Guanhães,Vale do Rio Doce
 3123205,MG,314823,Q1757114,Dores do Indaiá,,pt:Dores do Indaiá,-45.6026558325,-19.4616294368,Dores do Indaia,,Bom Despacho,Central Mineira
