@@ -8,6 +8,7 @@
     name: Acre
     no_accents: Acre
     population_2017: 829619
+    population_2018: 869265
     gentilic: acriano
     gentilic_alternative: acreano
     macroregion: Norte
@@ -24,6 +25,7 @@
     name: Alagoas
     no_accents: Alagoas
     population_2017: 3375823
+    population_2018: 3322820
     gentilic: alagoano
     gentilic_alternative: 
     macroregion: Nordeste
@@ -40,6 +42,7 @@
     name: Amazonas
     no_accents: Amazonas
     population_2017: 4063614
+    population_2018: 4080611
     gentilic: amazonense
     gentilic_alternative: 
     macroregion: Norte
@@ -56,6 +59,7 @@
     name: Amapá
     no_accents: Amapa
     population_2017: 797722
+    population_2018: 829494
     gentilic: amapaense
     gentilic_alternative: 
     macroregion: Norte
@@ -72,6 +76,7 @@
     name: Bahia
     no_accents: Bahia
     population_2017: 15344447
+    population_2018: 14812617
     gentilic: baiano
     gentilic_alternative: 
     macroregion: Nordeste
@@ -88,6 +93,7 @@
     name: Ceará
     no_accents: Ceara
     population_2017: 9020460
+    population_2018: 9075649
     gentilic: cearense
     gentilic_alternative: 
     macroregion: Nordeste
@@ -104,6 +110,7 @@
     name: Distrito Federal
     no_accents: Distrito Federal
     population_2017: 3039444
+    population_2018: 2974703
     gentilic: brasiliense
     gentilic_alternative: 
     macroregion: Centro-Oeste
@@ -120,6 +127,7 @@
     name: Espírito Santo
     no_accents: Espirito Santo
     population_2017: 4016356
+    population_2018: 3972388
     gentilic: capixaba
     gentilic_alternative: espírito-santense
     macroregion: Sudeste
@@ -136,6 +144,7 @@
     name: Goiás
     no_accents: Goias
     population_2017: 6778772
+    population_2018: 6921161
     gentilic: goiano
     gentilic_alternative: 
     macroregion: Centro-Oeste
@@ -152,6 +161,7 @@
     name: Maranhão
     no_accents: Maranhao
     population_2017: 7000229
+    population_2018: 7035055
     gentilic: maranhense
     gentilic_alternative: 
     macroregion: Nordeste
@@ -168,6 +178,7 @@
     name: Minas Gerais
     no_accents: Minas Gerais
     population_2017: 21119536
+    population_2018: 21040662
     gentilic: mineiro
     gentilic_alternative: 
     macroregion: Sudeste
@@ -184,6 +195,7 @@
     name: Mato Grosso do Sul
     no_accents: Mato Grosso do Sul
     population_2017: 2713147
+    population_2018: 2748023
     gentilic: sul-mato-grossense
     gentilic_alternative: mato-grossense-do-sul
     macroregion: Centro-Oeste
@@ -200,6 +212,7 @@
     name: Mato Grosso
     no_accents: Mato Grosso
     population_2017: 3344544
+    population_2018: 3441998
     gentilic: mato-grossense
     gentilic_alternative: 
     macroregion: Centro-Oeste
@@ -216,6 +229,7 @@
     name: Pará
     no_accents: Para
     population_2017: 8366628
+    population_2018: 8513497
     gentilic: paraense
     gentilic_alternative: 
     macroregion: Norte
@@ -232,6 +246,7 @@
     name: Paraíba
     no_accents: Paraiba
     population_2017: 4025558
+    population_2018: 3996496
     gentilic: paraibano
     gentilic_alternative: 
     macroregion: Nordeste
@@ -248,6 +263,7 @@
     name: Pernambuco
     no_accents: Pernambuco
     population_2017: 9473266
+    population_2018: 9496294
     gentilic: pernambucano
     gentilic_alternative: 
     macroregion: Nordeste
@@ -264,6 +280,7 @@
     name: Piauí
     no_accents: Piaui
     population_2017: 3219257
+    population_2018: 3264531
     gentilic: piauiense
     gentilic_alternative: 
     macroregion: Nordeste
@@ -280,6 +297,7 @@
     name: Paraná
     no_accents: Parana
     population_2017: 11320892
+    population_2018: 11348937
     gentilic: paranaense
     gentilic_alternative: 
     macroregion: Sul
@@ -296,6 +314,7 @@
     name: Rio de Janeiro
     no_accents: Rio de Janeiro
     population_2017: 16718956
+    population_2018: 17159960
     gentilic: fluminense
     gentilic_alternative: 
     macroregion: Sudeste
@@ -312,6 +331,7 @@
     name: Rio Grande do Norte
     no_accents: Rio Grande do Norte
     population_2017: 3507003
+    population_2018: 3479010
     gentilic: potiguar
     gentilic_alternative: norte-rio-grandense
     macroregion: Nordeste
@@ -328,6 +348,7 @@
     name: Rondônia
     no_accents: Rondonia
     population_2017: 1805788
+    population_2018: 1757589
     gentilic: rondoniano
     gentilic_alternative: rondoniense
     macroregion: Norte
@@ -344,6 +365,7 @@
     name: Roraima
     no_accents: Roraima
     population_2017: 522636
+    population_2018: 576568
     gentilic: roraimense
     gentilic_alternative: 
     macroregion: Norte
@@ -360,6 +382,7 @@
     name: Rio Grande do Sul
     no_accents: Rio Grande do Sul
     population_2017: 11322895
+    population_2018: 11329605
     gentilic: gaúcho
     gentilic_alternative: sul-rio-grandense
     macroregion: Sul
@@ -376,6 +399,7 @@
     name: Santa Catarina
     no_accents: Santa Catarina
     population_2017: 7001161
+    population_2018: 7075494
     gentilic: catarinense
     gentilic_alternative: barriga-verde
     macroregion: Sul
@@ -392,6 +416,7 @@
     name: Sergipe
     no_accents: Sergipe
     population_2017: 2288116
+    population_2018: 2278308
     gentilic: sergipano
     gentilic_alternative: sergipense
     macroregion: Nordeste
@@ -408,6 +433,7 @@
     name: São Paulo
     no_accents: Sao Paulo
     population_2017: 45094866
+    population_2018: 45538936
     gentilic: paulista
     gentilic_alternative: 
     macroregion: Sudeste
@@ -424,6 +450,7 @@
     name: Tocantins
     no_accents: Tocantins
     population_2017: 1550194
+    population_2018: 1555229
     gentilic: tocantinense
     gentilic_alternative: 
     macroregion: Norte
