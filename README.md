@@ -1,16 +1,58 @@
->  Dados em formato aberto sobre localidades brasileiras para uso em visualizações de dados, interfaces de entrada e sanitização de bases. As tabelas contém nomes com e sem acentos, coordenadas lat/lon, códigos de identificação (IBGE, OpenStreetMap, Wikidata, ISO), fuso-horário, imagens de bandeiras e outras informações normalizadas.
+# Localidades do Brasil
 
-# Arquivos disponíveis
+Dados em formato aberto sobre localidades brasileiras para uso em visualizações de dados, interfaces de entrada e sanitização de bases. 
 
-- Estados e Distrito Federal: [preview](data/states.csv), <a href="https://github.com/mapaslivres/localidades/raw/master/data/states.csv" target="_blank">download</a>
-- Municípios: [preview](data/cities.csv), <a href="https://github.com/mapaslivres/localidades/raw/master/data/cities.csv" target="_blank">download</a>
-- Distritos: [preview](data/districts.csv), <a href="https://github.com/mapaslivres/localidades/raw/master/data/districts.csv" target="_blank">download</a>
-- Sub-distritos: [preview](data/subdistricts.csv), <a href="https://github.com/mapaslivres/localidades/raw/master/data/subdistricts.csv" target="_blank">download</a>
-- Localidades: [preview](data/localities.csv), <a href="https://github.com/mapaslivres/localidades/raw/master/data/localities.csv" target="_blank">download</a>
+## [Unidades federativas](data/states.csv)
+
+- Identificadores:
+  - Sigla oficial
+  - Código IBGE (e macroregião)
+  - Código ISO3166-2
+  - Relação do OpenStreetMap
+  - Identificador no Wikidata
+- Nome com e sem acento
+- Gentílico
+- População em 2017 e 2018
+- Website estatal
+- Fuso-horário
+- Imagem da bandeira no Commons
+
+## [Municípios](data/cities.csv)
+
+- Nome oficial, sem acento e grafias alternativas
+- Sigla do estado
+- Identificadores:
+  - Código micro e mesoregião do IBGE
+  - Relação do OpenStreetMap
+  - Identificador no Wikidata (parcial)
+  - Identificador na Wikipédia (parcial)
+- Coordenadas do centro administrativo
+- Capitais
+- População em 2017 e 2018
+
+## [Distritos](data/districts.csv)
+
+- Código IBGE
+- Nome
+
+## [Sub-distritos](data/subdistricts.csv)
+
+- Código IBGE
+- Nome
+
+## [Localidades](data/localities.csv)
+
+- Código IBGE
+- Nome
+
+# Fontes
+
+* [IBGE](www.ibge.gov.br)
+* [OpenStreetMap](https://www.openstreetmap.org/about)
 
 # Contribua
 
-Preferencialmente, crie uma [issue](https://github.com/mapaslivres/localidades/issues/new) ou um [pull request](https://help.github.com/articles/creating-a-pull-request/), ou envie um e-mail a [@vgeorge](https://github.com/vgeorge).
+Quer ajudar este repositório a ficar melhor? Envie dúvidas e sugestões via [issues](https://github.com/mapaslivres/localidades/issues/new) e [pull requests](https://help.github.com/articles/creating-a-pull-request/) ou entre em contato com o [mantenedor](https://github.com/vgeorge).
 
 Conheça a [lista de contribuidores](https://github.com/mapaslivres/localidades/graphs/contributors).
 
