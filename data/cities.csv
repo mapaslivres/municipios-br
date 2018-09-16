@@ -1,4 +1,4 @@
-ibge_code,state_code,osm_id,wikidata_id,name,is_capital,population_2017,population_2018,wikipedia_pt,lon,lat,no_accents,alternative_names,microregion,mesoregion
+ibge_code,state_code,osm_relation_id,wikidata_id,name,is_capital,population_2017,population_2018,wikipedia_pt,lon,lat,no_accents,alternative_names,microregion,mesoregion
 1100015,RO,325842,Q1761456,Alta Floresta d'Oeste,,25437,23167,pt:Alta Floresta d'Oeste,-61.9998238963,-11.9355403048,Alta Floresta d'Oeste,,Cacoal,Leste Rondoniense
 1100023,RO,325888,Q1646975,Ariquemes,,107345,106168,pt:Ariquemes,-63.033269278,-9.9084628666,Ariquemes,,Ariquemes,Leste Rondoniense
 1100031,RO,325882,Q940433,Cabixi,,6224,5438,pt:Cabixi,-60.5443135812,-13.4997634597,Cabixi,,Colorado do Oeste,Leste Rondoniense
