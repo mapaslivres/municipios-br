@@ -29,6 +29,7 @@ Dados em formato aberto sobre localidades brasileiras para uso em visualizaçõe
 - Coordenadas do centro administrativo
 - Capitais
 - População em 2017 e 2018
+- Website municipal (parcial)
 
 ## [Distritos](data/districts.csv)
 
