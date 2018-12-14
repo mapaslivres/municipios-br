@@ -22,7 +22,8 @@ Dados em formato aberto sobre localidades brasileiras para uso em visualizaçõe
 - Nome oficial, sem acento e grafias alternativas
 - Sigla do estado
 - Identificadores:
-  - Código micro e mesoregião do IBGE
+  - Código micro e mesorregião do IBGE
+  - Código região intermediária e imediata do IBGE
   - Relação do OpenStreetMap
   - Identificador no Wikidata (parcial)
   - Identificador na Wikipédia (parcial)
