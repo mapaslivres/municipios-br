@@ -31,6 +31,12 @@ Dados em formato aberto sobre localidades brasileiras para uso em visualizaçõe
 - Capitais
 - População em 2017 e 2018
 - Website municipal (parcial)
+  - Mato Grosso
+  - Pernambuco
+  - Rio de Janeiro
+  - Rio Grande do Sul
+  - São Paulo
+
 
 ## [Distritos](data/districts.csv)
 
