@@ -52,7 +52,13 @@ Dados em formato aberto sobre localidades brasileiras para uso em visualizaçõe
 
 # Contribua
 
-Quer ajudar este repositório a ficar melhor? Envie dúvidas e sugestões via [issues](https://github.com/mapaslivres/localidades/issues/new) e [pull requests](https://help.github.com/articles/creating-a-pull-request/) ou entre em contato com o [mantenedor](https://github.com/vgeorge).
+Algumas maneiras de contribuir com este repositório:
+
+- Abra uma [issue](https://github.com/mapaslivres/localidades/issues/new) com dúvidas e sugestões;
+- Envie alterações via [pull requests](https://github.com/mapaslivres/localidades/pulls);
+- Ajude a [melhorar do dados do Wikidata](https://beta.observablehq.com/@vgeorge/municipios-do-brasil-sem-pagina-oficial-no-wikidata).
+
+Ao enviar pull requests, mantenha o número de edições baixo para facilitar o processo de revisão.
 
 Conheça a [lista de contribuidores](https://github.com/mapaslivres/localidades/graphs/contributors).
 
