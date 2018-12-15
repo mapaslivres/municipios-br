@@ -25,7 +25,7 @@ Dados em formato aberto sobre localidades brasileiras para uso em visualizaçõe
   - Código micro e mesorregião do IBGE
   - Código região intermediária e imediata do IBGE
   - Relação do OpenStreetMap
-  - Identificador no Wikidata (parcial)
+  - Identificador no Wikidata
   - Identificador na Wikipédia (parcial)
 - Coordenadas do centro administrativo
 - Capitais
