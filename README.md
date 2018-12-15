@@ -26,7 +26,7 @@ Dados em formato aberto sobre localidades brasileiras para uso em visualizaçõe
   - Código região intermediária e imediata do IBGE
   - Relação do OpenStreetMap
   - Identificador no Wikidata
-  - Identificador na Wikipédia (parcial)
+  - Identificador na Wikipédia
 - Coordenadas do centro administrativo
 - Capitais
 - População em 2017 e 2018
