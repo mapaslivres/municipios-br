@@ -1464,191 +1464,191 @@ ibge_code,state_code,osm_relation_id,wikidata_id,name,is_capital,population_2017
 2517100,PB,301383,Q2065255,Várzea,,2820,2779,pt:Várzea (Paraíba),,-36.9927210043,-6.7708072468,Varzea,,Seridó Ocidental Paraibano,Borborema,250009,Patos,2503,Patos
 2517209,PB,301439,Q2009892,Vieirópolis,,5358,5323,pt:Vieirópolis,,-38.2778434981,-6.5457135517,Vieiropolis,,Sousa,Sertão Paraibano,250014,Sousa,2504,Sousa - Cajazeiras
 2517407,PB,301312,Q1808686,Zabelê,,2245,2225,pt:Zabelê (Paraíba),,-37.0935519729,-8.0768741972,Zabele,,Cariri Ocidental,Borborema,250007,Monteiro,2502,Campina Grande
-2600054,PE,303627,Q536569,Abreu e Lima,,99364,99622,pt:Abreu e Lima,,-34.8991305847,-7.90444899,Abreu e Lima,,Recife,Metropolitana de Recife,260001,Recife,2601,Recife
-2600104,PE,303749,Q1761348,Afogados da Ingazeira,,37017,37111,pt:Afogados da Ingazeira,,-37.6376860181,-7.7483275858,Afogados da Ingazeira,,Pajeú,Sertão Pernambucano,260014,Afogados da Ingazeira,2603,Serra Talhada
-2600203,PE,303647,Q2065815,Afrânio,,19411,19456,pt:Afrânio,,-41.0057973411,-8.5110912838,Afranio,,Petrolina,São Francisco Pernambucano,260015,Petrolina,2604,Petrolina
-2600302,PE,303594,Q1787629,Agrestina,,24644,24702,pt:Agrestina,,-35.9467768375,-8.455973,Agrestina,,Brejo Pernambucano,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2600401,PE,303730,Q1804038,Água Preta,,36371,36454,pt:Água Preta,,-35.5185573512,-8.7091225523,Agua Preta,,Mata Meridional Pernambucana,Mata Pernambucana,260003,Palmares,2601,Recife
-2600500,PE,303601,Q2013722,Águas Belas,,43087,43195,pt:Águas Belas (Pernambuco),,-37.1219571686,-9.1145895,Aguas Belas,,Vale do Ipanema,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
-2600609,PE,303674,Q938278,Alagoinha,,14517,14554,pt:Alagoinha (Pernambuco),,-36.7754560083,-8.466270523,Alagoinha,,Vale do Ipojuca,Agreste Pernambucano,260012,Belo Jardim – Pesqueira,2602,Caruaru
-2600708,PE,303655,Q2010570,Aliança,,38267,38375,pt:Aliança (Pernambuco),,-35.2285014971,-7.6047298085,Alianca,,Mata Setentrional Pernambucana,Mata Pernambucana,260002,Goiana – Timbaúba,2601,Recife
-2600807,PE,303680,Q1844246,Altinho,,22896,22959,pt:Altinho,,-36.0596997586,-8.4895925,Altinho,,Brejo Pernambucano,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2600906,PE,2696547,Q1839783,Amaraji,,22726,22788,pt:Amaraji,,-35.450772921,-8.378487,Amaraji,,Mata Meridional Pernambucana,Mata Pernambucana,260001,Recife,2601,Recife
-2601003,PE,303616,Q1987808,Angelim,,11045,11072,pt:Angelim,,-36.2848143555,-8.8903742079,Angelim,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
-2601052,PE,303613,Q2010873,Araçoiaba,,20268,20312,pt:Araçoiaba,,-35.0939665275,-7.7856418725,Aracoiaba,,Itamaracá,Metropolitana de Recife,260001,Recife,2601,Recife
-2601102,PE,303714,Q626344,Araripina,,83757,83964,pt:Araripina,,-40.502460575,-7.5781415,Araripina,,Araripina,Sertão Pernambucano,260016,Araripina,2604,Petrolina
-2601201,PE,303736,Q637902,Arcoverde,,73667,73844,pt:Arcoverde,,-37.0565055646,-8.4239405,Arcoverde,,Sertão do Moxotó,Sertão Pernambucano,260011,Arcoverde,2602,Caruaru
-2601300,PE,303652,Q1811106,Barra de Guabiraba,,14224,14257,pt:Barra de Guabiraba,,-35.6628188858,-8.4209350376,Barra de Guabiraba,,Brejo Pernambucano,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2601409,PE,303632,Q2102404,Barreiros,,42438,42552,pt:Barreiros (Pernambuco),,-35.1990859873,-8.8141379901,Barreiros,,Mata Meridional Pernambucana,Mata Pernambucana,260007,Barreiros - Sirinhaém,2601,Recife
-2601508,PE,303741,Q746519,Belém de Maria,,11992,12023,pt:Belém de Maria,,-35.8399240901,-8.6212019106,Belem de Maria,,Mata Meridional Pernambucana,Mata Pernambucana,260003,Palmares,2601,Recife
-2601607,PE,303631,Q1811159,Belém do São Francisco,,20670,20728,pt:Belém do São Francisco,,-38.965567,-8.7461845,Belem do Sao Francisco,,Itaparica,São Francisco Pernambucano,260017,Salgueiro,2604,Petrolina
-2601706,PE,303599,Q949079,Belo Jardim,,75986,76185,pt:Belo Jardim,,-36.420035083,-8.3352954394,Belo Jardim,,Vale do Ipojuca,Agreste Pernambucano,260012,Belo Jardim – Pesqueira,2602,Caruaru
-2601805,PE,303717,Q2065057,Betânia,,12637,12671,pt:Betânia (Pernambuco),,-38.0387381366,-8.2698407896,Betania,,Sertão do Moxotó,Sertão Pernambucano,260013,Serra Talhada,2603,Serra Talhada
-2601904,PE,303649,Q2011830,Bezerros,,60549,60714,pt:Bezerros,,-35.7544879459,-8.2353595,Bezerros,,Vale do Ipojuca,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2602001,PE,303737,Q524487,Bodocó,,37816,37909,pt:Bodocó,,-39.936163185,-7.779342627,Bodoco,,Araripina,Sertão Pernambucano,260016,Araripina,2604,Petrolina
-2602100,PE,303648,Q568749,Bom Conselho,,48214,48336,pt:Bom Conselho,,-36.6793143857,-9.1633829849,Bom Conselho,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
-2602209,PE,303757,Q2097751,Bom Jardim,,39025,39132,pt:Bom Jardim (Pernambuco),,-35.5871395023,-7.7995121807,Bom Jardim,,Médio Capibaribe,Agreste Pernambucano,260004,Limoeiro,2601,Recife
-2602308,PE,303640,Q2341964,Bonito,,38044,38152,pt:Bonito (Pernambuco),,-35.7285279259,-8.4722605,Bonito,,Brejo Pernambucano,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2602407,PE,303615,Q2065806,Brejão,,8973,8999,pt:Brejão,,-36.5646966593,-9.0272491507,Brejao,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
-2602506,PE,303686,Q682185,Brejinho,,7465,7486,pt:Brejinho (Pernambuco),,-37.287334554,-7.345671276,Brejinho,,Pajeú,Sertão Pernambucano,260014,Afogados da Ingazeira,2603,Serra Talhada
-2602605,PE,303617,Q1807223,Brejo da Madre de Deus,,50138,50249,pt:Brejo da Madre de Deus,,-36.3703914413,-8.1489565,Brejo da Madre de Deus,,Vale do Ipojuca,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2602704,PE,303685,Q2101554,Buenos Aires,,13085,13119,pt:Buenos Aires (Pernambuco),,-35.3295704142,-7.72437221,Buenos Aires,,Mata Setentrional Pernambucana,Mata Pernambucana,260006,Carpina,2601,Recife
-2602803,PE,303604,Q1809636,Buíque,,57696,57825,pt:Buíque,,-37.1569881148,-8.6220590407,Buique,,Vale do Ipanema,Agreste Pernambucano,260011,Arcoverde,2602,Caruaru
-2602902,PE,303752,Q1637538,Cabo de Santo Agostinho,,204653,205112,pt:Cabo de Santo Agostinho,,-35.0384889718,-8.2898642303,Cabo de Santo Agostinho,,Suape,Metropolitana de Recife,260001,Recife,2601,Recife
-2603009,PE,303608,Q2010855,Cabrobó,,33856,33934,pt:Cabrobó,,-39.309841338,-8.5151054833,Cabrobo,,Petrolina,São Francisco Pernambucano,260017,Salgueiro,2604,Petrolina
-2603108,PE,303754,Q2099535,Cachoeirinha,,20209,20258,pt:Cachoeirinha (Pernambuco),,-36.2359914118,-8.486831073,Cachoeirinha,,Vale do Ipojuca,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2603207,PE,303719,Q1008259,Caetés,,28500,28570,pt:Caetés (Pernambuco),,-36.6248040076,-8.7755948448,Caetes,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
-2603306,PE,303738,Q2088907,Calçado,,11055,11089,pt:Calçado (Pernambuco),,-36.3332880795,-8.7383779437,Calcado,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
-2603405,PE,303589,Q2010836,Calumbi,,5736,5753,pt:Calumbi,,-38.1537459243,-7.9384273267,Calumbi,,Pajeú,Sertão Pernambucano,260013,Serra Talhada,2603,Serra Talhada
-2603454,PE,303695,Q1761143,Camaragibe,,156361,156736,pt:Camaragibe,,-34.9957213564,-8.0205217675,Camaragibe,,Recife,Metropolitana de Recife,260001,Recife,2601,Recife
-2603504,PE,303644,Q1811052,Camocim de São Félix,,18583,18627,pt:Camocim de São Félix,,-35.7651947266,-8.3621380401,Camocim de Sao Felix,,Brejo Pernambucano,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2603603,PE,303663,Q1814461,Camutanga,,8493,8530,pt:Camutanga,,-35.2827906438,-7.4070824199,Camutanga,,Mata Setentrional Pernambucana,Mata Pernambucana,260002,Goiana – Timbaúba,2601,Recife
-2603702,PE,303676,Q2064820,Canhotinho,,24762,24835,pt:Canhotinho,,-36.1935748781,-8.8838705622,Canhotinho,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
-2603801,PE,303706,Q2064882,Capoeiras,,19991,20048,pt:Capoeiras,,-36.6237980173,-8.7361426797,Capoeiras,,Vale do Ipojuca,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
-2603900,PE,303734,Q2064956,Carnaíba,,19440,19491,pt:Carnaíba,,-37.7933989026,-7.8030582189,Carnaiba,,Pajeú,Sertão Pernambucano,260014,Afogados da Ingazeira,2603,Serra Talhada
-2603926,PE,303584,Q682035,Carnaubeira da Penha,,12805,12836,pt:Carnaubeira da Penha,,-38.7434219469,-8.3206079647,Carnaubeira da Penha,,Itaparica,São Francisco Pernambucano,260013,Serra Talhada,2603,Serra Talhada
-2604007,PE,303593,Q1993877,Carpina,,82685,82872,pt:Carpina,,-35.2580606059,-7.8468867164,Carpina,,Mata Setentrional Pernambucana,Mata Pernambucana,260006,Carpina,2601,Recife
-2604106,PE,303670,Q622830,Caruaru,,356128,356872,pt:Caruaru,,-35.9670733601,-8.285898,Caruaru,,Vale do Ipojuca,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2604155,PE,303701,Q923741,Casinhas,,14274,14313,pt:Casinhas,,-35.7253231034,-7.7432065679,Casinhas,,Alto Capibaribe,Agreste Pernambucano,260008,Surubim,2601,Recife
-2604205,PE,303607,Q2011032,Catende,,42343,42434,pt:Catende,,-35.7216666573,-8.6703075,Catende,,Mata Meridional Pernambucana,Mata Pernambucana,260003,Palmares,2601,Recife
-2604304,PE,303724,Q716874,Cedro,,11695,11722,pt:Cedro (Pernambuco),,-39.2371382153,-7.7174692333,Cedro,,Salgueiro,Sertão Pernambucano,260017,Salgueiro,2604,Petrolina
-2604403,PE,303746,Q1811142,Chã de Alegria,,13396,13428,pt:Chã de Alegria,,-35.2137267362,-7.9979007802,Cha de Alegria,,Vitória de Santo Antão,Mata Pernambucana,260005,Vitória de Santo Antão,2601,Recife
-2604502,PE,303662,Q2010970,Chã Grande,,21525,21579,pt:Chã Grande,,-35.4647408125,-8.2401127765,Cha Grande,,Vitória de Santo Antão,Mata Pernambucana,260009,Caruaru,2602,Caruaru
-2604601,PE,303668,Q507095,Condado,,26186,26249,pt:Condado (Pernambuco),,-35.1041184907,-7.589382255,Condado,,Mata Setentrional Pernambucana,Mata Pernambucana,260002,Goiana – Timbaúba,2601,Recife
-2604700,PE,303759,Q776802,Correntes,,18098,18144,pt:Correntes,,-36.3297018953,-9.1286655015,Correntes,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
-2604809,PE,303739,Q2064746,Cortês,,12560,12596,pt:Cortês,,-35.5415869,-8.4751512173,Cortes,,Mata Meridional Pernambucana,Mata Pernambucana,260001,Recife,2601,Recife
-2604908,PE,303636,Q2089188,Cumaru,,11559,11635,pt:Cumaru (Pernambuco),,-35.6946989631,-8.0150324429,Cumaru,,Médio Capibaribe,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2605004,PE,303641,Q1916653,Cupira,,23977,24041,pt:Cupira,,-35.9502573664,-8.6112826602,Cupira,,Brejo Pernambucano,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2605103,PE,303703,Q2013538,Custódia,,36753,36841,pt:Custódia,,-37.6410965907,-8.089002,Custodia,,Sertão do Moxotó,Sertão Pernambucano,260011,Arcoverde,2602,Caruaru
-2605152,PE,303744,Q1811064,Dormentes,,18692,18734,pt:Dormentes,,-40.7707358131,-8.4486569865,Dormentes,,Petrolina,São Francisco Pernambucano,260015,Petrolina,2604,Petrolina
-2605202,PE,303590,Q2102479,Escada,,68281,68448,pt:Escada (Pernambuco),,-35.2361574244,-8.36252199,Escada,,Mata Meridional Pernambucana,Mata Pernambucana,260001,Recife,2601,Recife
-2605301,PE,303710,Q2064727,Exu,,31790,31885,pt:Exu (Pernambuco),,-39.7227283393,-7.516307,Exu,,Araripina,Sertão Pernambucano,260016,Araripina,2604,Petrolina
-2605400,PE,303605,Q1869240,Feira Nova,,21958,22013,pt:Feira Nova (Pernambuco),,-35.3905979865,-7.9487277422,Feira Nova,,Médio Capibaribe,Agreste Pernambucano,260004,Limoeiro,2601,Recife
-2605459,PE,303650,Q175057,Fernando de Noronha,,3016,3021,pt:Fernando de Noronha,,-32.4351863281,-3.8520214008,Fernando de Noronha,,Fernando de Noronha,Metropolitana de Recife,260001,Recife,2601,Recife
-2605509,PE,303720,Q2078233,Ferreiros,,12057,14365,pt:Ferreiros (Pernambuco),,-35.2440702124,-7.4454942053,Ferreiros,,Mata Setentrional Pernambucana,Mata Pernambucana,260002,Goiana – Timbaúba,2601,Recife
-2605608,PE,303681,Q2105990,Flores,,22567,22631,pt:Flores (Pernambuco),,-37.9714561138,-7.8617144749,Flores,,Pajeú,Sertão Pernambucano,260013,Serra Talhada,2603,Serra Talhada
-2605707,PE,303704,Q2464842,Floresta,,32483,32556,pt:Floresta (Pernambuco),,-38.571239342,-8.6008265,Floresta,,Itaparica,São Francisco Pernambucano,260013,Serra Talhada,2603,Serra Talhada
-2605806,PE,303721,Q2011848,Frei Miguelinho,,15328,15366,pt:Frei Miguelinho,,-35.9231276419,-7.9444582474,Frei Miguelinho,,Alto Capibaribe,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2605905,PE,303713,Q2064836,Gameleira,,30709,30780,pt:Gameleira (Pernambuco),,-35.3866107835,-8.5838357705,Gameleira,,Mata Meridional Pernambucana,Mata Pernambucana,260003,Palmares,2601,Recife
-2606002,PE,303628,Q771575,Garanhuns,,138642,138983,pt:Garanhuns,,-36.4930502821,-8.88890553,Garanhuns,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
-2606101,PE,303732,Q1804101,Glória do Goitá,,30425,30504,pt:Glória do Goitá,,-35.2923223923,-7.9996084721,Gloria do Goita,,Vitória de Santo Antão,Mata Pernambucana,260005,Vitória de Santo Antão,2601,Recife
-2606200,PE,303726,Q1767210,Goiana,,79249,79455,pt:Goiana,,-34.9983762972,-7.5592318549,Goiana,,Mata Setentrional Pernambucana,Mata Pernambucana,260002,Goiana – Timbaúba,2601,Recife
-2606309,PE,303639,Q2102421,Granito,,7417,7435,pt:Granito (Pernambuco),,-39.6192863432,-7.7092532823,Granito,,Araripina,Sertão Pernambucano,260016,Araripina,2604,Petrolina
-2606408,PE,303597,Q535373,Gravatá,,83241,83437,pt:Gravatá (Pernambuco),,-35.5714923938,-8.2059995,Gravata,,Vale do Ipojuca,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2606507,PE,303731,Q2011836,Iati,,19100,19152,pt:Iati,,-36.8472759684,-9.0457092509,Iati,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
-2606606,PE,303618,Q1804109,Ibimirim,,28985,29055,pt:Ibimirim,,-37.6900466897,-8.5387622082,Ibimirim,,Sertão do Moxotó,Sertão Pernambucano,260011,Arcoverde,2602,Caruaru
-2606705,PE,303747,Q1849689,Ibirajuba,,7735,7756,pt:Ibirajuba,,-36.1804630924,-8.5805349356,Ibirajuba,,Brejo Pernambucano,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2606804,PE,303682,Q1787619,Igarassu,,115398,115640,pt:Igarassu,,-34.9105833876,-7.82837199,Igarassu,,Itamaracá,Metropolitana de Recife,260001,Recife,2601,Recife
-2606903,PE,303693,Q2010845,Iguaracy,,12175,12209,pt:Iguaracy,,-37.5188211185,-7.8447743013,Iguaracy,,Pajeú,Sertão Pernambucano,260014,Afogados da Ingazeira,2603,Serra Talhada
-2607000,PE,303579,Q2309727,Inajá,,22801,22840,pt:Inajá (Pernambuco),,-37.8244851112,-8.9020460789,Inaja,,Sertão do Moxotó,Sertão Pernambucano,260011,Arcoverde,2602,Caruaru
-2607109,PE,303753,Q2010935,Ingazeira,,4542,4554,pt:Ingazeira,,-37.4576704744,-7.6777971945,Ingazeira,,Pajeú,Sertão Pernambucano,260014,Afogados da Ingazeira,2603,Serra Talhada
-2607208,PE,303577,Q1796462,Ipojuca,,94533,94709,pt:Ipojuca,,-35.0634719379,-8.3969865,Ipojuca,,Suape,Metropolitana de Recife,260001,Recife,2601,Recife
-2607307,PE,303675,Q743369,Ipubi,,30447,30512,pt:Ipubi,,-40.1502087502,-7.6497045,Ipubi,,Araripina,Sertão Pernambucano,260016,Araripina,2604,Petrolina
-2607406,PE,303619,Q1804119,Itacuruba,,4858,4869,pt:Itacuruba,,-38.6863416893,-8.7245150648,Itacuruba,,Itaparica,São Francisco Pernambucano,260017,Salgueiro,2604,Petrolina
-2607505,PE,303756,Q2011784,Itaíba,,26314,26390,pt:Itaíba,,-37.4189484589,-8.9400544004,Itaiba,,Vale do Ipanema,Agreste Pernambucano,260011,Arcoverde,2602,Caruaru
-2607604,PE,303716,Q587114,Ilha de Itamaracá,,25789,25836,pt:Ilha de Itamaracá,,-34.823950567,-7.7465733177,Ilha de Itamaraca,,Itamaracá,Metropolitana de Recife,260001,Recife,2601,Recife
-2607653,PE,303576,Q2433604,Itambé,,36320,36422,pt:Itambé (Pernambuco),,-35.1106273574,-7.40926386,Itambe,,Mata Setentrional Pernambucana,Mata Pernambucana,260002,Goiana – Timbaúba,2601,Recife
-2607703,PE,303660,Q2010880,Itapetim,,13638,13680,pt:Itapetim,,-37.188439311,-7.3784285284,Itapetim,,Pajeú,Sertão Pernambucano,260014,Afogados da Ingazeira,2603,Serra Talhada
-2607752,PE,303677,Q1804093,Itapissuma,,26338,26397,pt:Itapissuma,,-34.8892710487,-7.7740347647,Itapissuma,,Itamaracá,Metropolitana de Recife,260001,Recife,2601,Recife
-2607802,PE,303661,Q2010908,Itaquitinga,,16859,16903,pt:Itaquitinga,,-35.1026145695,-7.6663936085,Itaquitinga,,Mata Setentrional Pernambucana,Mata Pernambucana,260002,Goiana – Timbaúba,2601,Recife
-2607901,PE,303709,Q271393,Jaboatão dos Guararapes,,695956,697636,pt:Jaboatão dos Guararapes,,-34.9211734673,-8.1653914674,Jaboatao dos Guararapes,,Recife,Metropolitana de Recife,260001,Recife,2601,Recife
-2607950,PE,303653,Q2011203,Jaqueira,,11634,11668,pt:Jaqueira (Pernambuco),,-35.7973952138,-8.727969878,Jaqueira,,Mata Meridional Pernambucana,Mata Pernambucana,260003,Palmares,2601,Recife
-2608008,PE,303758,Q2064753,Jataúba,,17026,17070,pt:Jataúba,,-36.4988285484,-7.9872577772,Jatauba,,Vale do Ipojuca,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2608057,PE,303664,Q2472554,Jatobá,,14703,14740,pt:Jatobá (Pernambuco),,-38.2750376624,-9.1850699925,Jatoba,,Itaparica,São Francisco Pernambucano,260013,Serra Talhada,2603,Serra Talhada
-2608107,PE,303625,Q786899,João Alfredo,,33485,33563,pt:João Alfredo,,-35.591502369,-7.860188727,Joao Alfredo,,Médio Capibaribe,Agreste Pernambucano,260004,Limoeiro,2601,Recife
-2608206,PE,303586,Q1401082,Joaquim Nabuco,,15989,16036,pt:Joaquim Nabuco (Pernambuco),,-35.5292418262,-8.6268982995,Joaquim Nabuco,,Mata Meridional Pernambucana,Mata Pernambucana,260003,Palmares,2601,Recife
-2608255,PE,303673,Q1852062,Jucati,,11334,11361,pt:Jucati,,-36.4903865237,-8.7070289644,Jucati,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
-2608305,PE,303651,Q2013547,Jupi,,14712,14747,pt:Jupi,,-36.4117337385,-8.7060968528,Jupi,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
-2608404,PE,303690,Q2104639,Jurema,,15284,15323,pt:Jurema (Pernambuco),,-36.1359544906,-8.719667174,Jurema,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
-2608453,PE,303692,Q2010890,Lagoa do Carro,,17847,17886,pt:Lagoa do Carro,,-35.3126019234,-7.8442324952,Lagoa do Carro,,Mata Setentrional Pernambucana,Mata Pernambucana,260006,Carpina,2601,Recife
-2608503,PE,303696,Q1887813,Lagoa de Itaenga,,21338,21397,pt:Lagoa de Itaenga,,-35.2928036525,-7.9323781785,Lagoa de Itaenga,,Mata Setentrional Pernambucana,Mata Pernambucana,260006,Carpina,2601,Recife
-2608602,PE,303743,Q2013643,Lagoa do Ouro,,13033,13065,pt:Lagoa do Ouro,,-36.4643169318,-9.1241718379,Lagoa do Ouro,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
-2608701,PE,303751,Q2013715,Lagoa dos Gatos,,16218,16262,pt:Lagoa dos Gatos,,-35.9071210443,-8.6492548646,Lagoa dos Gatos,,Brejo Pernambucano,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2608750,PE,303646,Q2103088,Lagoa Grande,,25294,25349,pt:Lagoa Grande (Pernambuco),,-40.2707251265,-8.995051485,Lagoa Grande,,Petrolina,São Francisco Pernambucano,260015,Petrolina,2604,Petrolina
-2608800,PE,303606,Q2078213,Lajedo,,39888,39982,pt:Lajedo (Pernambuco),,-36.3214966175,-8.6628568658,Lajedo,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
-2608909,PE,303588,Q2064902,Limoeiro,,56140,56302,pt:Limoeiro (Pernambuco),,-35.455261051,-7.880198,Limoeiro,,Médio Capibaribe,Agreste Pernambucano,260004,Limoeiro,2601,Recife
-2609006,PE,303659,Q2077831,Macaparana,,25214,25278,pt:Macaparana,,-35.4498749787,-7.5556806987,Macaparana,,Mata Setentrional Pernambucana,Mata Pernambucana,260002,Goiana – Timbaúba,2601,Recife
-2609105,PE,303687,Q2064965,Machados,,15820,15851,pt:Machados,,-35.5141405623,-7.6885724856,Machados,,Médio Capibaribe,Agreste Pernambucano,260004,Limoeiro,2601,Recife
-2609154,PE,303740,Q1895257,Manari,,21047,21085,pt:Manari,,-37.6268229455,-8.9601081446,Manari,,Sertão do Moxotó,Sertão Pernambucano,260011,Arcoverde,2602,Caruaru
-2609204,PE,303580,Q2011013,Maraial,,11433,11473,pt:Maraial,,-35.8141175725,-8.7830776013,Maraial,,Mata Meridional Pernambucana,Mata Pernambucana,260003,Palmares,2601,Recife
-2609303,PE,303658,Q2011780,Mirandiba,,15270,15308,pt:Mirandiba,,-38.7345645823,-8.1202438022,Mirandiba,,Salgueiro,Sertão Pernambucano,260013,Serra Talhada,2603,Serra Talhada
-2609402,PE,303700,Q2012258,Moreno,,62119,62263,pt:Moreno,,-35.0948690999,-8.11869453,Moreno,,Recife,Metropolitana de Recife,260001,Recife,2601,Recife
-2609501,PE,303587,Q1811182,Nazaré da Mata,,32280,32366,pt:Nazaré da Mata,,-35.2213386962,-7.737688,Nazare da Mata,,Mata Setentrional Pernambucana,Mata Pernambucana,260006,Carpina,2601,Recife
-2609600,PE,2185940,Q28301,Olinda,,390771,391835,pt:Olinda,,-34.8613103898,-7.9926600753,Olinda,,Recife,Metropolitana de Recife,260001,Recife,2601,Recife
-2609709,PE,303689,Q2013693,Orobó,,23768,23833,pt:Orobó,,-35.6029820967,-7.7378951337,Orobo,,Médio Capibaribe,Agreste Pernambucano,260004,Limoeiro,2601,Recife
-2609808,PE,303598,Q2010863,Orocó,,14794,14827,pt:Orocó,,-39.5952457761,-8.6179456461,Oroco,,Petrolina,São Francisco Pernambucano,260015,Petrolina,2604,Petrolina
-2609907,PE,303733,Q2064430,Ouricuri,,68776,68939,pt:Ouricuri,,-40.0814625767,-7.883151975,Ouricuri,,Araripina,Sertão Pernambucano,260016,Araripina,2604,Petrolina
-2610004,PE,303691,Q547095,Palmares,,62832,62994,pt:Palmares,,-35.5883359938,-8.6790825,Palmares,,Mata Meridional Pernambucana,Mata Pernambucana,260003,Palmares,2601,Recife
-2610103,PE,303725,Q2011342,Palmeirina,,7761,7789,pt:Palmeirina,,-36.3273109987,-9.0016832851,Palmeirina,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
-2610202,PE,303620,Q2013681,Panelas,,26417,26492,pt:Panelas,,-36.0015757987,-8.667242285,Panelas,,Brejo Pernambucano,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2610301,PE,303711,Q2011819,Paranatama,,11449,11478,pt:Paranatama,,-36.6584292681,-8.920145338,Paranatama,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
-2610400,PE,303575,Q2101450,Parnamirim,,21383,21914,pt:Parnamirim (Pernambuco),,-39.575786823,-8.0901383272,Parnamirim,,Salgueiro,Sertão Pernambucano,260017,Salgueiro,2604,Petrolina
-2610509,PE,303581,Q2011285,Passira,,28889,28972,pt:Passira,,-35.5816849952,-7.9788839418,Passira,,Médio Capibaribe,Agreste Pernambucano,260004,Limoeiro,2601,Recife
-2610608,PE,303614,Q674432,Paudalho,,55942,56074,pt:Paudalho,,-35.1791510624,-7.897135005,Paudalho,,Mata Setentrional Pernambucana,Mata Pernambucana,260001,Recife,2601,Recife
-2610707,PE,303755,Q949833,Paulista,,328353,329117,pt:Paulista (Pernambuco),,-34.8847916197,-7.943188,Paulista,,Recife,Metropolitana de Recife,260001,Recife,2601,Recife
-2610806,PE,303602,Q2013605,Pedra,,22505,22566,pt:Pedra (Pernambuco),,-36.9427981489,-8.4984765,Pedra,,Vale do Ipanema,Agreste Pernambucano,260011,Arcoverde,2602,Caruaru
-2610905,PE,303656,Q1008230,Pesqueira,,66881,67047,pt:Pesqueira,,-36.6955147219,-8.3554561078,Pesqueira,,Vale do Ipojuca,Agreste Pernambucano,260012,Belo Jardim – Pesqueira,2602,Caruaru
-2611002,PE,303638,Q2106455,Petrolândia,,36108,36187,pt:Petrolândia (Pernambuco),,-38.2207335453,-8.9773434644,Petrolandia,,Itaparica,São Francisco Pernambucano,260013,Serra Talhada,2603,Serra Talhada
-2611101,PE,303629,Q842143,Petrolina,,343219,343865,pt:Petrolina,,-40.4999993347,-9.397375515,Petrolina,,Petrolina,São Francisco Pernambucano,260015,Petrolina,2604,Petrolina
-2611200,PE,303596,Q1809609,Poção,,11268,11299,pt:Poção (Pernambuco),,-36.7058798977,-8.1862270089,Pocao,,Vale do Ipojuca,Agreste Pernambucano,260012,Belo Jardim – Pesqueira,2602,Caruaru
-2611309,PE,303715,Q2309699,Pombos,,26960,27033,pt:Pombos (Pernambuco),,-35.3961953582,-8.14435986,Pombos,,Vitória de Santo Antão,Mata Pernambucana,260005,Vitória de Santo Antão,2601,Recife
-2611408,PE,303748,Q2099821,Primavera,,14798,14831,pt:Primavera (Pernambuco),,-35.3539433949,-8.3313760861,Primavera,,Mata Meridional Pernambucana,Mata Pernambucana,260001,Recife,2601,Recife
-2611507,PE,303624,Q2011039,Quipapá,,25831,25896,pt:Quipapá,,-36.01198953,-8.8278850221,Quipapa,,Mata Meridional Pernambucana,Mata Pernambucana,260010,Garanhuns,2602,Caruaru
-2611533,PE,303630,Q2034566,Quixaba,,6802,6822,pt:Quixaba (Pernambuco),,-37.8464456195,-7.7181264101,Quixaba,,Pajeú,Sertão Pernambucano,260014,Afogados da Ingazeira,2603,Serra Talhada
-2611606,PE,303585,Q48344,Recife,true,1633697,1637834,pt:Recife,,-34.8889419446,-8.0627624831,Recife,,Recife,Metropolitana de Recife,260001,Recife,2601,Recife
-2611705,PE,303683,Q1964406,Riacho das Almas,,20392,20443,pt:Riacho das Almas,,-35.8608749475,-8.1270327806,Riacho das Almas,,Vale do Ipojuca,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2611804,PE,2709594,Q2088935,Ribeirão,,47088,47209,pt:Ribeirão (Pernambuco),,-35.3761308237,-8.51111604,Ribeirao,,Mata Meridional Pernambucana,Mata Pernambucana,260001,Recife,2601,Recife
-2611903,PE,303621,Q2011054,Rio Formoso,,23379,23440,pt:Rio Formoso,,-35.1554328172,-8.6621710853,Rio Formoso,,Mata Meridional Pernambucana,Mata Pernambucana,260007,Barreiros - Sirinhaém,2601,Recife
-2612000,PE,303612,Q257236,Sairé,,10065,10103,pt:Sairé,,-35.7102477663,-8.3276135393,Saire,,Brejo Pernambucano,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2612109,PE,303611,Q2278378,Salgadinho,,10747,10768,pt:Salgadinho (Pernambuco),,-35.6380612405,-7.9394837414,Salgadinho,,Médio Capibaribe,Agreste Pernambucano,260004,Limoeiro,2601,Recife
-2612208,PE,303600,Q2102772,Salgueiro,,60453,60604,pt:Salgueiro (Pernambuco),,-39.1208509811,-8.0706775221,Salgueiro,,Salgueiro,Sertão Pernambucano,260017,Salgueiro,2604,Petrolina
-2612307,PE,303622,Q2065190,Saloá,,15779,15823,pt:Saloá,,-36.6927291742,-8.9759954809,Saloa,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
-2612406,PE,303645,Q1991944,Sanharó,,25979,26026,pt:Sanharó,,-36.5625071954,-8.3629619689,Sanharo,,Vale do Ipojuca,Agreste Pernambucano,260012,Belo Jardim – Pesqueira,2602,Caruaru
-2612455,PE,303718,Q2430789,Santa Cruz,,15202,15236,pt:Santa Cruz (Pernambuco),,-40.3376876556,-8.2379611184,Santa Cruz,,Araripina,Sertão Pernambucano,260016,Araripina,2604,Petrolina
-2612471,PE,303582,Q2010927,Santa Cruz da Baixa Verde,,12501,12531,pt:Santa Cruz da Baixa Verde,,-38.1531381818,-7.8214696823,Santa Cruz da Baixa Verde,,Pajeú,Sertão Pernambucano,260013,Serra Talhada,2603,Serra Talhada
-2612505,PE,303669,Q2082237,Santa Cruz do Capibaribe,,105761,105936,pt:Santa Cruz do Capibaribe,,-36.2039500171,-7.9551895,Santa Cruz do Capibaribe,,Alto Capibaribe,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2612554,PE,303707,Q2088926,Santa Filomena,,14355,14390,pt:Santa Filomena (Pernambuco),,-40.615775185,-8.1605111673,Santa Filomena,,Araripina,Sertão Pernambucano,260016,Araripina,2604,Petrolina
-2612604,PE,303698,Q2010898,Santa Maria da Boa Vista,,41652,41759,pt:Santa Maria da Boa Vista,,-39.8242357255,-8.8041265,Santa Maria da Boa Vista,,Petrolina,São Francisco Pernambucano,260015,Petrolina,2604,Petrolina
-2612703,PE,303705,Q2013573,Santa Maria do Cambucá,,14013,14048,pt:Santa Maria do Cambucá,,-35.885243339,-7.8318134262,Santa Maria do Cambuca,,Alto Capibaribe,Agreste Pernambucano,260008,Surubim,2601,Recife
-2612802,PE,303723,Q2456298,Santa Terezinha,,11734,11764,pt:Santa Terezinha (Pernambuco),,-37.4800327233,-7.3703557393,Santa Terezinha,,Pajeú,Sertão Pernambucano,260014,Afogados da Ingazeira,2603,Serra Talhada
-2612901,PE,303708,Q2010993,São Benedito do Sul,,15683,15717,pt:São Benedito do Sul,,-35.9311226194,-8.8104382342,Sao Benedito do Sul,,Mata Meridional Pernambucana,Mata Pernambucana,260003,Palmares,2601,Recife
-2613008,PE,303697,Q2078660,São Bento do Una,,58824,58956,pt:São Bento do Una,,-36.4462983616,-8.5198675206,Sao Bento do Una,,Vale do Ipojuca,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
-2613107,PE,303635,Q777635,São Caetano,,37023,37119,pt:São Caetano (Pernambuco),,-36.1373597958,-8.3273605,Sao Caetano,,Vale do Ipojuca,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2613206,PE,303745,Q2355766,São João,,22628,22686,pt:São João (Pernambuco),,-36.3682530765,-8.8775593754,Sao Joao,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
-2613305,PE,303712,Q2013565,São Joaquim do Monte,,21257,21314,pt:São Joaquim do Monte,,-35.8094911721,-8.4321515,Sao Joaquim do Monte,,Brejo Pernambucano,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2613404,PE,303735,Q573729,São José da Coroa Grande,,20963,21004,pt:São José da Coroa Grande,,-35.1457070847,-8.8941951307,Sao Jose da Coroa Grande,,Mata Meridional Pernambucana,Mata Pernambucana,260007,Barreiros - Sirinhaém,2601,Recife
-2613503,PE,303666,Q2011317,São José do Belmonte,,33804,33895,pt:São José do Belmonte,,-38.75945378,-7.8617400547,Sao Jose do Belmonte,,Salgueiro,Sertão Pernambucano,260013,Serra Talhada,2603,Serra Talhada
-2613602,PE,303688,Q1911145,São José do Egito,,33704,33789,pt:São José do Egito,,-37.2750721852,-7.4740251833,Sao Jose do Egito,,Pajeú,Sertão Pernambucano,260014,Afogados da Ingazeira,2603,Serra Talhada
-2613701,PE,303591,Q1796467,São Lourenço da Mata,,112099,112362,pt:São Lourenço da Mata,,-35.0412775393,-7.995938,Sao Lourenco da Mata,,Recife,Metropolitana de Recife,260001,Recife,2601,Recife
-2613800,PE,303742,Q2097693,São Vicente Ferrer,,17904,17950,pt:São Vicente Férrer (Pernambuco),,-35.4901218809,-7.5922127326,Sao Vicente Ferrer,,Médio Capibaribe,Agreste Pernambucano,260002,Goiana – Timbaúba,2601,Recife
-2613909,PE,303592,Q2000133,Serra Talhada,,85568,85774,pt:Serra Talhada,,-38.2963149475,-7.98799752,Serra Talhada,,Pajeú,Sertão Pernambucano,260013,Serra Talhada,2603,Serra Talhada
-2614006,PE,303633,Q2013706,Serrita,,19080,19133,pt:Serrita,,-39.2926231744,-7.9543403981,Serrita,,Salgueiro,Sertão Pernambucano,260017,Salgueiro,2604,Petrolina
-2614105,PE,303583,Q2011023,Sertânia,,35670,35761,pt:Sertânia,,-37.2673901013,-8.07245,Sertania,,Sertão do Moxotó,Sertão Pernambucano,260011,Arcoverde,2602,Caruaru
-2614204,PE,303578,Q929655,Sirinhaém,,45263,45359,pt:Sirinhaém,,-35.1164053547,-8.5933695,Sirinhaem,,Mata Meridional Pernambucana,Mata Pernambucana,260007,Barreiros - Sirinhaém,2601,Recife
-2614303,PE,303729,Q2011296,Moreilândia,,11238,11270,pt:Moreilândia,,-39.5537537311,-7.6299826881,Moreilandia,,Araripina,Sertão Pernambucano,260016,Araripina,2604,Petrolina
-2614402,PE,303672,Q2064859,Solidão,,5978,5993,pt:Solidão (Pernambuco),,-37.647470237,-7.6021256842,Solidao,,Pajeú,Sertão Pernambucano,260014,Afogados da Ingazeira,2603,Serra Talhada
-2614501,PE,303642,Q2064701,Surubim,,64373,64520,pt:Surubim,,-35.7567841034,-7.8351570573,Surubim,,Alto Capibaribe,Agreste Pernambucano,260008,Surubim,2601,Recife
-2614600,PE,303610,Q2078322,Tabira,,28301,28371,pt:Tabira,,-37.5402657742,-7.591136513,Tabira,,Pajeú,Sertão Pernambucano,260014,Afogados da Ingazeira,2603,Serra Talhada
-2614709,PE,303643,Q2013728,Tacaimbó,,12853,12890,pt:Tacaimbó,,-36.2904043048,-8.3156107248,Tacaimbo,,Vale do Ipojuca,Agreste Pernambucano,260012,Belo Jardim – Pesqueira,2602,Caruaru
-2614808,PE,303609,Q2011003,Tacaratu,,25368,25417,pt:Tacaratu,,-38.1534611597,-9.1056996443,Tacaratu,,Itaparica,São Francisco Pernambucano,260013,Serra Talhada,2603,Serra Talhada
-2614857,PE,303657,Q2011531,Tamandaré,,23100,23149,pt:Tamandaré (Pernambuco),,-35.0906465455,-8.7046892785,Tamandare,,Mata Meridional Pernambucana,Mata Pernambucana,260007,Barreiros - Sirinhaém,2601,Recife
-2615003,PE,303623,Q2011859,Taquaritinga do Norte,,28358,28416,pt:Taquaritinga do Norte,,-36.0433376713,-7.9021598258,Taquaritinga do Norte,,Alto Capibaribe,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2615102,PE,303595,Q2064935,Terezinha,,7120,7139,pt:Terezinha,,-36.6214759482,-9.0577780595,Terezinha,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
-2615201,PE,303694,Q2604168,Terra Nova,,10437,9983,pt:Terra Nova (Pernambuco),,-39.3744218379,-8.2303579786,Terra Nova,,Petrolina,São Francisco Pernambucano,260017,Salgueiro,2604,Petrolina
-2615300,PE,303728,Q929867,Timbaúba,,53083,50956,pt:Timbaúba,,-35.318772121,-7.511745674,Timbauba,,Mata Setentrional Pernambucana,Mata Pernambucana,260002,Goiana – Timbaúba,2601,Recife
-2615409,PE,303727,Q2013594,Toritama,,44189,44254,pt:Toritama,,-36.056843493,-8.0066502709,Toritama,,Alto Capibaribe,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2615508,PE,303603,Q1870479,Tracunhaém,,13689,13724,pt:Tracunhaém,,-35.237922814,-7.8026886127,Tracunhaem,,Mata Setentrional Pernambucana,Mata Pernambucana,260006,Carpina,2601,Recife
-2615607,PE,303722,Q2355756,Trindade,,30155,30222,pt:Trindade (Pernambuco),,-40.2655906093,-7.7617946257,Trindade,,Araripina,Sertão Pernambucano,260016,Araripina,2604,Petrolina
-2615706,PE,303665,Q679786,Triunfo,,15221,15265,pt:Triunfo (Pernambuco),,-38.1070603447,-7.8308763588,Triunfo,,Pajeú,Sertão Pernambucano,260013,Serra Talhada,2603,Serra Talhada
-2615805,PE,303671,Q1804078,Tupanatinga,,26990,27052,pt:Tupanatinga,,-37.3402334718,-8.7515816593,Tupanatinga,,Vale do Ipanema,Agreste Pernambucano,260011,Arcoverde,2602,Caruaru
-2615904,PE,303637,Q2077835,Tuparetama,,8169,8192,pt:Tuparetama,,-37.3111818113,-7.5987594648,Tuparetama,,Pajeú,Sertão Pernambucano,260014,Afogados da Ingazeira,2603,Serra Talhada
-2616001,PE,303667,Q1804048,Venturosa,,18258,18298,pt:Venturosa,,-36.8783720839,-8.5765269012,Venturosa,,Vale do Ipanema,Agreste Pernambucano,260011,Arcoverde,2602,Caruaru
-2616100,PE,303679,Q2013582,Verdejante,,9490,9514,pt:Verdejante,,-38.9742826043,-7.9328837046,Verdejante,,Salgueiro,Sertão Pernambucano,260017,Salgueiro,2604,Petrolina
-2616183,PE,303654,Q2013655,Vertente do Lério,,7641,7666,pt:Vertente do Lério,,-35.8530027397,-7.7748194553,Vertente do Lerio,,Alto Capibaribe,Agreste Pernambucano,260008,Surubim,2601,Recife
-2616209,PE,303634,Q2065306,Vertentes,,20460,20503,pt:Vertentes,,-35.989305931,-7.9057426035,Vertentes,,Alto Capibaribe,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
-2616308,PE,303750,Q2010783,Vicência,,32429,32513,pt:Vicência (Pernambuco),,-35.3203006893,-7.6529595,Vicencia,,Mata Setentrional Pernambucana,Mata Pernambucana,260002,Goiana – Timbaúba,2601,Recife
-2616407,PE,303684,Q985685,Vitória de Santo Antão,,137578,137915,pt:Vitória de Santo Antão,,-35.2938642411,-8.118748,Vitoria de Santo Antao,,Vitória de Santo Antão,Mata Pernambucana,260005,Vitória de Santo Antão,2601,Recife
-2616506,PE,303699,Q1111243,Xexéu,,14651,14691,pt:Xexéu,,-35.6242353158,-8.8033134055,Xexeu,,Mata Meridional Pernambucana,Mata Pernambucana,260003,Palmares,2601,Recife
+2600054,PE,303627,Q536569,Abreu e Lima,,99364,99622,pt:Abreu e Lima,http://www.abreuelima.pe.gov.br/,-34.8991305847,-7.90444899,Abreu e Lima,,Recife,Metropolitana de Recife,260001,Recife,2601,Recife
+2600104,PE,303749,Q1761348,Afogados da Ingazeira,,37017,37111,pt:Afogados da Ingazeira,http://www.afogadosdaingazeira.pe.gov.br/,-37.6376860181,-7.7483275858,Afogados da Ingazeira,,Pajeú,Sertão Pernambucano,260014,Afogados da Ingazeira,2603,Serra Talhada
+2600203,PE,303647,Q2065815,Afrânio,,19411,19456,pt:Afrânio,http://www.afranio.pe.gov.br/,-41.0057973411,-8.5110912838,Afranio,,Petrolina,São Francisco Pernambucano,260015,Petrolina,2604,Petrolina
+2600302,PE,303594,Q1787629,Agrestina,,24644,24702,pt:Agrestina,http://www.agrestina.pe.gov.br/,-35.9467768375,-8.455973,Agrestina,,Brejo Pernambucano,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2600401,PE,303730,Q1804038,Água Preta,,36371,36454,pt:Água Preta,http://www.aguapreta.pe.gov.br/,-35.5185573512,-8.7091225523,Agua Preta,,Mata Meridional Pernambucana,Mata Pernambucana,260003,Palmares,2601,Recife
+2600500,PE,303601,Q2013722,Águas Belas,,43087,43195,pt:Águas Belas (Pernambuco),http://www.aguasbelas.pe.gov.br/,-37.1219571686,-9.1145895,Aguas Belas,,Vale do Ipanema,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
+2600609,PE,303674,Q938278,Alagoinha,,14517,14554,pt:Alagoinha (Pernambuco),http://www.alagoinha.pe.gov.br/,-36.7754560083,-8.466270523,Alagoinha,,Vale do Ipojuca,Agreste Pernambucano,260012,Belo Jardim – Pesqueira,2602,Caruaru
+2600708,PE,303655,Q2010570,Aliança,,38267,38375,pt:Aliança (Pernambuco),http://www.alianca.pe.gov.br/,-35.2285014971,-7.6047298085,Alianca,,Mata Setentrional Pernambucana,Mata Pernambucana,260002,Goiana – Timbaúba,2601,Recife
+2600807,PE,303680,Q1844246,Altinho,,22896,22959,pt:Altinho,http://www.altinho.pe.gov.br/,-36.0596997586,-8.4895925,Altinho,,Brejo Pernambucano,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2600906,PE,2696547,Q1839783,Amaraji,,22726,22788,pt:Amaraji,http://www.amaraji.pe.gov.br/,-35.450772921,-8.378487,Amaraji,,Mata Meridional Pernambucana,Mata Pernambucana,260001,Recife,2601,Recife
+2601003,PE,303616,Q1987808,Angelim,,11045,11072,pt:Angelim,http://www.angelim.pe.gov.br/,-36.2848143555,-8.8903742079,Angelim,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
+2601052,PE,303613,Q2010873,Araçoiaba,,20268,20312,pt:Araçoiaba,http://www.aracoiaba.pe.gov.br/,-35.0939665275,-7.7856418725,Aracoiaba,,Itamaracá,Metropolitana de Recife,260001,Recife,2601,Recife
+2601102,PE,303714,Q626344,Araripina,,83757,83964,pt:Araripina,http://www.araripina.pe.gov.br/,-40.502460575,-7.5781415,Araripina,,Araripina,Sertão Pernambucano,260016,Araripina,2604,Petrolina
+2601201,PE,303736,Q637902,Arcoverde,,73667,73844,pt:Arcoverde,http://www.arcoverde.pe.gov.br/,-37.0565055646,-8.4239405,Arcoverde,,Sertão do Moxotó,Sertão Pernambucano,260011,Arcoverde,2602,Caruaru
+2601300,PE,303652,Q1811106,Barra de Guabiraba,,14224,14257,pt:Barra de Guabiraba,http://www.barradeguabiraba.pe.gov.br/,-35.6628188858,-8.4209350376,Barra de Guabiraba,,Brejo Pernambucano,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2601409,PE,303632,Q2102404,Barreiros,,42438,42552,pt:Barreiros (Pernambuco),http://www.barreiros.pe.gov.br/,-35.1990859873,-8.8141379901,Barreiros,,Mata Meridional Pernambucana,Mata Pernambucana,260007,Barreiros - Sirinhaém,2601,Recife
+2601508,PE,303741,Q746519,Belém de Maria,,11992,12023,pt:Belém de Maria,http://www.belemdemaria.pe.gov.br/,-35.8399240901,-8.6212019106,Belem de Maria,,Mata Meridional Pernambucana,Mata Pernambucana,260003,Palmares,2601,Recife
+2601607,PE,303631,Q1811159,Belém do São Francisco,,20670,20728,pt:Belém do São Francisco,http://www.belemdosaofrancisco.pe.gov.br/,-38.965567,-8.7461845,Belem do Sao Francisco,,Itaparica,São Francisco Pernambucano,260017,Salgueiro,2604,Petrolina
+2601706,PE,303599,Q949079,Belo Jardim,,75986,76185,pt:Belo Jardim,http://www.belojardim.pe.gov.br/,-36.420035083,-8.3352954394,Belo Jardim,,Vale do Ipojuca,Agreste Pernambucano,260012,Belo Jardim – Pesqueira,2602,Caruaru
+2601805,PE,303717,Q2065057,Betânia,,12637,12671,pt:Betânia (Pernambuco),http://www.betania.pe.gov.br/,-38.0387381366,-8.2698407896,Betania,,Sertão do Moxotó,Sertão Pernambucano,260013,Serra Talhada,2603,Serra Talhada
+2601904,PE,303649,Q2011830,Bezerros,,60549,60714,pt:Bezerros,http://www.bezerros.pe.gov.br/,-35.7544879459,-8.2353595,Bezerros,,Vale do Ipojuca,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2602001,PE,303737,Q524487,Bodocó,,37816,37909,pt:Bodocó,http://www.bodoco.pe.gov.br/,-39.936163185,-7.779342627,Bodoco,,Araripina,Sertão Pernambucano,260016,Araripina,2604,Petrolina
+2602100,PE,303648,Q568749,Bom Conselho,,48214,48336,pt:Bom Conselho,http://www.bomconselho.pe.gov.br/,-36.6793143857,-9.1633829849,Bom Conselho,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
+2602209,PE,303757,Q2097751,Bom Jardim,,39025,39132,pt:Bom Jardim (Pernambuco),http://www.bomjardim.pe.gov.br/,-35.5871395023,-7.7995121807,Bom Jardim,,Médio Capibaribe,Agreste Pernambucano,260004,Limoeiro,2601,Recife
+2602308,PE,303640,Q2341964,Bonito,,38044,38152,pt:Bonito (Pernambuco),http://www.bonito.pe.gov.br/,-35.7285279259,-8.4722605,Bonito,,Brejo Pernambucano,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2602407,PE,303615,Q2065806,Brejão,,8973,8999,pt:Brejão,http://www.brejao.pe.gov.br/,-36.5646966593,-9.0272491507,Brejao,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
+2602506,PE,303686,Q682185,Brejinho,,7465,7486,pt:Brejinho (Pernambuco),http://www.brejinho.pe.gov.br/,-37.287334554,-7.345671276,Brejinho,,Pajeú,Sertão Pernambucano,260014,Afogados da Ingazeira,2603,Serra Talhada
+2602605,PE,303617,Q1807223,Brejo da Madre de Deus,,50138,50249,pt:Brejo da Madre de Deus,http://www.brejomdeus.pe.gov.br/,-36.3703914413,-8.1489565,Brejo da Madre de Deus,,Vale do Ipojuca,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2602704,PE,303685,Q2101554,Buenos Aires,,13085,13119,pt:Buenos Aires (Pernambuco),http://www.buenosaires.pe.gov.br/,-35.3295704142,-7.72437221,Buenos Aires,,Mata Setentrional Pernambucana,Mata Pernambucana,260006,Carpina,2601,Recife
+2602803,PE,303604,Q1809636,Buíque,,57696,57825,pt:Buíque,http://www.buique.pe.gov.br/,-37.1569881148,-8.6220590407,Buique,,Vale do Ipanema,Agreste Pernambucano,260011,Arcoverde,2602,Caruaru
+2602902,PE,303752,Q1637538,Cabo de Santo Agostinho,,204653,205112,pt:Cabo de Santo Agostinho,http://www.cabo.pe.gov.br/,-35.0384889718,-8.2898642303,Cabo de Santo Agostinho,,Suape,Metropolitana de Recife,260001,Recife,2601,Recife
+2603009,PE,303608,Q2010855,Cabrobó,,33856,33934,pt:Cabrobó,http://www.cabrobo.pe.gov.br/,-39.309841338,-8.5151054833,Cabrobo,,Petrolina,São Francisco Pernambucano,260017,Salgueiro,2604,Petrolina
+2603108,PE,303754,Q2099535,Cachoeirinha,,20209,20258,pt:Cachoeirinha (Pernambuco),http://www.cachoeirinha.pe.gov.br/,-36.2359914118,-8.486831073,Cachoeirinha,,Vale do Ipojuca,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2603207,PE,303719,Q1008259,Caetés,,28500,28570,pt:Caetés (Pernambuco),http://www.caetes.pe.gov.br/,-36.6248040076,-8.7755948448,Caetes,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
+2603306,PE,303738,Q2088907,Calçado,,11055,11089,pt:Calçado (Pernambuco),http://www.calcado.pe.gov.br/,-36.3332880795,-8.7383779437,Calcado,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
+2603405,PE,303589,Q2010836,Calumbi,,5736,5753,pt:Calumbi,http://www.calumbi.pe.gov.br/,-38.1537459243,-7.9384273267,Calumbi,,Pajeú,Sertão Pernambucano,260013,Serra Talhada,2603,Serra Talhada
+2603454,PE,303695,Q1761143,Camaragibe,,156361,156736,pt:Camaragibe,http://www.camaragibe.pe.gov.br/,-34.9957213564,-8.0205217675,Camaragibe,,Recife,Metropolitana de Recife,260001,Recife,2601,Recife
+2603504,PE,303644,Q1811052,Camocim de São Félix,,18583,18627,pt:Camocim de São Félix,http://www.camocimdesaofelix.pe.gov.br/,-35.7651947266,-8.3621380401,Camocim de Sao Felix,,Brejo Pernambucano,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2603603,PE,303663,Q1814461,Camutanga,,8493,8530,pt:Camutanga,http://www.camutanga.pe.gov.br/,-35.2827906438,-7.4070824199,Camutanga,,Mata Setentrional Pernambucana,Mata Pernambucana,260002,Goiana – Timbaúba,2601,Recife
+2603702,PE,303676,Q2064820,Canhotinho,,24762,24835,pt:Canhotinho,http://www.canhotinho.pe.gov.br/,-36.1935748781,-8.8838705622,Canhotinho,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
+2603801,PE,303706,Q2064882,Capoeiras,,19991,20048,pt:Capoeiras,http://www.capoeiras.pe.gov.br/,-36.6237980173,-8.7361426797,Capoeiras,,Vale do Ipojuca,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
+2603900,PE,303734,Q2064956,Carnaíba,,19440,19491,pt:Carnaíba,http://www.carnaiba.pe.gov.br/,-37.7933989026,-7.8030582189,Carnaiba,,Pajeú,Sertão Pernambucano,260014,Afogados da Ingazeira,2603,Serra Talhada
+2603926,PE,303584,Q682035,Carnaubeira da Penha,,12805,12836,pt:Carnaubeira da Penha,http://www.carnaubeiradapenha.pe.gov.br/,-38.7434219469,-8.3206079647,Carnaubeira da Penha,,Itaparica,São Francisco Pernambucano,260013,Serra Talhada,2603,Serra Talhada
+2604007,PE,303593,Q1993877,Carpina,,82685,82872,pt:Carpina,http://www.carpina.pe.gov.br/,-35.2580606059,-7.8468867164,Carpina,,Mata Setentrional Pernambucana,Mata Pernambucana,260006,Carpina,2601,Recife
+2604106,PE,303670,Q622830,Caruaru,,356128,356872,pt:Caruaru,http://www.caruaru.pe.gov.br/,-35.9670733601,-8.285898,Caruaru,,Vale do Ipojuca,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2604155,PE,303701,Q923741,Casinhas,,14274,14313,pt:Casinhas,http://www.prefeituracasinhas.pe.gov.br/,-35.7253231034,-7.7432065679,Casinhas,,Alto Capibaribe,Agreste Pernambucano,260008,Surubim,2601,Recife
+2604205,PE,303607,Q2011032,Catende,,42343,42434,pt:Catende,http://www.catende.pe.gov.br/,-35.7216666573,-8.6703075,Catende,,Mata Meridional Pernambucana,Mata Pernambucana,260003,Palmares,2601,Recife
+2604304,PE,303724,Q716874,Cedro,,11695,11722,pt:Cedro (Pernambuco),http://www.cedro.pe.gov.br/,-39.2371382153,-7.7174692333,Cedro,,Salgueiro,Sertão Pernambucano,260017,Salgueiro,2604,Petrolina
+2604403,PE,303746,Q1811142,Chã de Alegria,,13396,13428,pt:Chã de Alegria,http://www.chadealegria.pe.gov.br/,-35.2137267362,-7.9979007802,Cha de Alegria,,Vitória de Santo Antão,Mata Pernambucana,260005,Vitória de Santo Antão,2601,Recife
+2604502,PE,303662,Q2010970,Chã Grande,,21525,21579,pt:Chã Grande,http://www.chagrande.pe.gov.br/,-35.4647408125,-8.2401127765,Cha Grande,,Vitória de Santo Antão,Mata Pernambucana,260009,Caruaru,2602,Caruaru
+2604601,PE,303668,Q507095,Condado,,26186,26249,pt:Condado (Pernambuco),http://www.condado.pe.gov.br/,-35.1041184907,-7.589382255,Condado,,Mata Setentrional Pernambucana,Mata Pernambucana,260002,Goiana – Timbaúba,2601,Recife
+2604700,PE,303759,Q776802,Correntes,,18098,18144,pt:Correntes,http://www.correntes.pe.gov.br/,-36.3297018953,-9.1286655015,Correntes,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
+2604809,PE,303739,Q2064746,Cortês,,12560,12596,pt:Cortês,http://www.cortes.pe.gov.br/,-35.5415869,-8.4751512173,Cortes,,Mata Meridional Pernambucana,Mata Pernambucana,260001,Recife,2601,Recife
+2604908,PE,303636,Q2089188,Cumaru,,11559,11635,pt:Cumaru (Pernambuco),http://www.cumaru.pe.gov.br/,-35.6946989631,-8.0150324429,Cumaru,,Médio Capibaribe,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2605004,PE,303641,Q1916653,Cupira,,23977,24041,pt:Cupira,http://www.cupira.pe.gov.br/,-35.9502573664,-8.6112826602,Cupira,,Brejo Pernambucano,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2605103,PE,303703,Q2013538,Custódia,,36753,36841,pt:Custódia,http://www.custodia.pe.gov.br/,-37.6410965907,-8.089002,Custodia,,Sertão do Moxotó,Sertão Pernambucano,260011,Arcoverde,2602,Caruaru
+2605152,PE,303744,Q1811064,Dormentes,,18692,18734,pt:Dormentes,http://www.dormentes.pe.gov.br/,-40.7707358131,-8.4486569865,Dormentes,,Petrolina,São Francisco Pernambucano,260015,Petrolina,2604,Petrolina
+2605202,PE,303590,Q2102479,Escada,,68281,68448,pt:Escada (Pernambuco),http://www.escada.pe.gov.br/,-35.2361574244,-8.36252199,Escada,,Mata Meridional Pernambucana,Mata Pernambucana,260001,Recife,2601,Recife
+2605301,PE,303710,Q2064727,Exu,,31790,31885,pt:Exu (Pernambuco),http://www.exu.pe.gov.br/,-39.7227283393,-7.516307,Exu,,Araripina,Sertão Pernambucano,260016,Araripina,2604,Petrolina
+2605400,PE,303605,Q1869240,Feira Nova,,21958,22013,pt:Feira Nova (Pernambuco),http://www.feiranova.pe.gov.br/,-35.3905979865,-7.9487277422,Feira Nova,,Médio Capibaribe,Agreste Pernambucano,260004,Limoeiro,2601,Recife
+2605459,PE,303650,Q175057,Fernando de Noronha,,3016,3021,pt:Fernando de Noronha,http://www.noronha.pe.gov.br/,-32.4351863281,-3.8520214008,Fernando de Noronha,,Fernando de Noronha,Metropolitana de Recife,260001,Recife,2601,Recife
+2605509,PE,303720,Q2078233,Ferreiros,,12057,14365,pt:Ferreiros (Pernambuco),http://www.ferreiros.pe.gov.br/,-35.2440702124,-7.4454942053,Ferreiros,,Mata Setentrional Pernambucana,Mata Pernambucana,260002,Goiana – Timbaúba,2601,Recife
+2605608,PE,303681,Q2105990,Flores,,22567,22631,pt:Flores (Pernambuco),http://www.flores.pe.gov.br/,-37.9714561138,-7.8617144749,Flores,,Pajeú,Sertão Pernambucano,260013,Serra Talhada,2603,Serra Talhada
+2605707,PE,303704,Q2464842,Floresta,,32483,32556,pt:Floresta (Pernambuco),http://www.floresta.pe.gov.br/,-38.571239342,-8.6008265,Floresta,,Itaparica,São Francisco Pernambucano,260013,Serra Talhada,2603,Serra Talhada
+2605806,PE,303721,Q2011848,Frei Miguelinho,,15328,15366,pt:Frei Miguelinho,http://www.freimiguelinho.pe.gov.br/,-35.9231276419,-7.9444582474,Frei Miguelinho,,Alto Capibaribe,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2605905,PE,303713,Q2064836,Gameleira,,30709,30780,pt:Gameleira (Pernambuco),http://www.gameleira.pe.gov.br/,-35.3866107835,-8.5838357705,Gameleira,,Mata Meridional Pernambucana,Mata Pernambucana,260003,Palmares,2601,Recife
+2606002,PE,303628,Q771575,Garanhuns,,138642,138983,pt:Garanhuns,http://www.garanhuns.pe.gov.br/,-36.4930502821,-8.88890553,Garanhuns,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
+2606101,PE,303732,Q1804101,Glória do Goitá,,30425,30504,pt:Glória do Goitá,http://www.gloriadogoita.pe.gov.br/,-35.2923223923,-7.9996084721,Gloria do Goita,,Vitória de Santo Antão,Mata Pernambucana,260005,Vitória de Santo Antão,2601,Recife
+2606200,PE,303726,Q1767210,Goiana,,79249,79455,pt:Goiana,http://www.goiana.pe.gov.br/,-34.9983762972,-7.5592318549,Goiana,,Mata Setentrional Pernambucana,Mata Pernambucana,260002,Goiana – Timbaúba,2601,Recife
+2606309,PE,303639,Q2102421,Granito,,7417,7435,pt:Granito (Pernambuco),http://www.granito.pe.gov.br/,-39.6192863432,-7.7092532823,Granito,,Araripina,Sertão Pernambucano,260016,Araripina,2604,Petrolina
+2606408,PE,303597,Q535373,Gravatá,,83241,83437,pt:Gravatá (Pernambuco),http://www.prefeituradegravata.pe.gov.br/,-35.5714923938,-8.2059995,Gravata,,Vale do Ipojuca,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2606507,PE,303731,Q2011836,Iati,,19100,19152,pt:Iati,http://www.iati.pe.gov.br/,-36.8472759684,-9.0457092509,Iati,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
+2606606,PE,303618,Q1804109,Ibimirim,,28985,29055,pt:Ibimirim,http://www.ibimirim.pe.gov.br/,-37.6900466897,-8.5387622082,Ibimirim,,Sertão do Moxotó,Sertão Pernambucano,260011,Arcoverde,2602,Caruaru
+2606705,PE,303747,Q1849689,Ibirajuba,,7735,7756,pt:Ibirajuba,http://www.ibirajuba.pe.gov.br/,-36.1804630924,-8.5805349356,Ibirajuba,,Brejo Pernambucano,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2606804,PE,303682,Q1787619,Igarassu,,115398,115640,pt:Igarassu,http://www.igarassu.pe.gov.br/,-34.9105833876,-7.82837199,Igarassu,,Itamaracá,Metropolitana de Recife,260001,Recife,2601,Recife
+2606903,PE,303693,Q2010845,Iguaracy,,12175,12209,pt:Iguaracy,http://www.iguaracy.pe.gov.br/,-37.5188211185,-7.8447743013,Iguaracy,,Pajeú,Sertão Pernambucano,260014,Afogados da Ingazeira,2603,Serra Talhada
+2607000,PE,303579,Q2309727,Inajá,,22801,22840,pt:Inajá (Pernambuco),http://www.inaja.pe.gov.br/,-37.8244851112,-8.9020460789,Inaja,,Sertão do Moxotó,Sertão Pernambucano,260011,Arcoverde,2602,Caruaru
+2607109,PE,303753,Q2010935,Ingazeira,,4542,4554,pt:Ingazeira,http://www.ingazeira.pe.gov.br/,-37.4576704744,-7.6777971945,Ingazeira,,Pajeú,Sertão Pernambucano,260014,Afogados da Ingazeira,2603,Serra Talhada
+2607208,PE,303577,Q1796462,Ipojuca,,94533,94709,pt:Ipojuca,http://www.ipojuca.pe.gov.br/,-35.0634719379,-8.3969865,Ipojuca,,Suape,Metropolitana de Recife,260001,Recife,2601,Recife
+2607307,PE,303675,Q743369,Ipubi,,30447,30512,pt:Ipubi,http://www.ipubi.pe.gov.br/,-40.1502087502,-7.6497045,Ipubi,,Araripina,Sertão Pernambucano,260016,Araripina,2604,Petrolina
+2607406,PE,303619,Q1804119,Itacuruba,,4858,4869,pt:Itacuruba,http://www.itacuruba.pe.gov.br/,-38.6863416893,-8.7245150648,Itacuruba,,Itaparica,São Francisco Pernambucano,260017,Salgueiro,2604,Petrolina
+2607505,PE,303756,Q2011784,Itaíba,,26314,26390,pt:Itaíba,http://www.itaenga.pe.gov.br/,-37.4189484589,-8.9400544004,Itaiba,,Vale do Ipanema,Agreste Pernambucano,260011,Arcoverde,2602,Caruaru
+2607604,PE,303716,Q587114,Ilha de Itamaracá,,25789,25836,pt:Ilha de Itamaracá,http://www.ilhadeitamaraca.pe.gov.br/,-34.823950567,-7.7465733177,Ilha de Itamaraca,,Itamaracá,Metropolitana de Recife,260001,Recife,2601,Recife
+2607653,PE,303576,Q2433604,Itambé,,36320,36422,pt:Itambé (Pernambuco),http://www.itambe.pe.gov.br/,-35.1106273574,-7.40926386,Itambe,,Mata Setentrional Pernambucana,Mata Pernambucana,260002,Goiana – Timbaúba,2601,Recife
+2607703,PE,303660,Q2010880,Itapetim,,13638,13680,pt:Itapetim,http://www.itapetim.pe.gov.br/,-37.188439311,-7.3784285284,Itapetim,,Pajeú,Sertão Pernambucano,260014,Afogados da Ingazeira,2603,Serra Talhada
+2607752,PE,303677,Q1804093,Itapissuma,,26338,26397,pt:Itapissuma,http://www.itapissuma.pe.gov.br/,-34.8892710487,-7.7740347647,Itapissuma,,Itamaracá,Metropolitana de Recife,260001,Recife,2601,Recife
+2607802,PE,303661,Q2010908,Itaquitinga,,16859,16903,pt:Itaquitinga,http://www.itaquitinga.pe.gov.br/,-35.1026145695,-7.6663936085,Itaquitinga,,Mata Setentrional Pernambucana,Mata Pernambucana,260002,Goiana – Timbaúba,2601,Recife
+2607901,PE,303709,Q271393,Jaboatão dos Guararapes,,695956,697636,pt:Jaboatão dos Guararapes,http://www.jaboatao.pe.gov.br/,-34.9211734673,-8.1653914674,Jaboatao dos Guararapes,,Recife,Metropolitana de Recife,260001,Recife,2601,Recife
+2607950,PE,303653,Q2011203,Jaqueira,,11634,11668,pt:Jaqueira (Pernambuco),http://www.jaqueira.pe.gov.br/,-35.7973952138,-8.727969878,Jaqueira,,Mata Meridional Pernambucana,Mata Pernambucana,260003,Palmares,2601,Recife
+2608008,PE,303758,Q2064753,Jataúba,,17026,17070,pt:Jataúba,http://www.jatauba.pe.gov.br/,-36.4988285484,-7.9872577772,Jatauba,,Vale do Ipojuca,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2608057,PE,303664,Q2472554,Jatobá,,14703,14740,pt:Jatobá (Pernambuco),http://www.jatoba.pe.gov.br/,-38.2750376624,-9.1850699925,Jatoba,,Itaparica,São Francisco Pernambucano,260013,Serra Talhada,2603,Serra Talhada
+2608107,PE,303625,Q786899,João Alfredo,,33485,33563,pt:João Alfredo,http://www.joaoalfredo.pe.gov.br/,-35.591502369,-7.860188727,Joao Alfredo,,Médio Capibaribe,Agreste Pernambucano,260004,Limoeiro,2601,Recife
+2608206,PE,303586,Q1401082,Joaquim Nabuco,,15989,16036,pt:Joaquim Nabuco (Pernambuco),http://www.joaquimnabuco.pe.gov.br/,-35.5292418262,-8.6268982995,Joaquim Nabuco,,Mata Meridional Pernambucana,Mata Pernambucana,260003,Palmares,2601,Recife
+2608255,PE,303673,Q1852062,Jucati,,11334,11361,pt:Jucati,http://www.jucati.pe.gov.br/,-36.4903865237,-8.7070289644,Jucati,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
+2608305,PE,303651,Q2013547,Jupi,,14712,14747,pt:Jupi,http://www.jupi.pe.gov.br/,-36.4117337385,-8.7060968528,Jupi,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
+2608404,PE,303690,Q2104639,Jurema,,15284,15323,pt:Jurema (Pernambuco),http://www.jurema.pe.gov.br/,-36.1359544906,-8.719667174,Jurema,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
+2608453,PE,303692,Q2010890,Lagoa do Carro,,17847,17886,pt:Lagoa do Carro,http://www.lagoadocarro.pe.gov.br/,-35.3126019234,-7.8442324952,Lagoa do Carro,,Mata Setentrional Pernambucana,Mata Pernambucana,260006,Carpina,2601,Recife
+2608503,PE,303696,Q1887813,Lagoa de Itaenga,,21338,21397,pt:Lagoa de Itaenga,http://www.itaenga.pe.gov.br/,-35.2928036525,-7.9323781785,Lagoa de Itaenga,,Mata Setentrional Pernambucana,Mata Pernambucana,260006,Carpina,2601,Recife
+2608602,PE,303743,Q2013643,Lagoa do Ouro,,13033,13065,pt:Lagoa do Ouro,http://www.lagoadoouro.pe.gov.br/,-36.4643169318,-9.1241718379,Lagoa do Ouro,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
+2608701,PE,303751,Q2013715,Lagoa dos Gatos,,16218,16262,pt:Lagoa dos Gatos,http://www.lagoadosgatos.pe.gov.br/,-35.9071210443,-8.6492548646,Lagoa dos Gatos,,Brejo Pernambucano,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2608750,PE,303646,Q2103088,Lagoa Grande,,25294,25349,pt:Lagoa Grande (Pernambuco),http://www.lagoagrande.pe.gov.br/,-40.2707251265,-8.995051485,Lagoa Grande,,Petrolina,São Francisco Pernambucano,260015,Petrolina,2604,Petrolina
+2608800,PE,303606,Q2078213,Lajedo,,39888,39982,pt:Lajedo (Pernambuco),http://www.lajedo.pe.gov.br/,-36.3214966175,-8.6628568658,Lajedo,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
+2608909,PE,303588,Q2064902,Limoeiro,,56140,56302,pt:Limoeiro (Pernambuco),http://www.limoeiro.pe.gov.br/,-35.455261051,-7.880198,Limoeiro,,Médio Capibaribe,Agreste Pernambucano,260004,Limoeiro,2601,Recife
+2609006,PE,303659,Q2077831,Macaparana,,25214,25278,pt:Macaparana,http://www.macaparana.pe.gov.br/,-35.4498749787,-7.5556806987,Macaparana,,Mata Setentrional Pernambucana,Mata Pernambucana,260002,Goiana – Timbaúba,2601,Recife
+2609105,PE,303687,Q2064965,Machados,,15820,15851,pt:Machados,http://www.machados.pe.gov.br/,-35.5141405623,-7.6885724856,Machados,,Médio Capibaribe,Agreste Pernambucano,260004,Limoeiro,2601,Recife
+2609154,PE,303740,Q1895257,Manari,,21047,21085,pt:Manari,http://www.manari.pe.gov.br/,-37.6268229455,-8.9601081446,Manari,,Sertão do Moxotó,Sertão Pernambucano,260011,Arcoverde,2602,Caruaru
+2609204,PE,303580,Q2011013,Maraial,,11433,11473,pt:Maraial,http://www.maraial.pe.gov.br/,-35.8141175725,-8.7830776013,Maraial,,Mata Meridional Pernambucana,Mata Pernambucana,260003,Palmares,2601,Recife
+2609303,PE,303658,Q2011780,Mirandiba,,15270,15308,pt:Mirandiba,http://www.mirandiba.pe.gov.br/,-38.7345645823,-8.1202438022,Mirandiba,,Salgueiro,Sertão Pernambucano,260013,Serra Talhada,2603,Serra Talhada
+2609402,PE,303700,Q2012258,Moreno,,62119,62263,pt:Moreno,http://www.moreno.pe.gov.br/,-35.0948690999,-8.11869453,Moreno,,Recife,Metropolitana de Recife,260001,Recife,2601,Recife
+2609501,PE,303587,Q1811182,Nazaré da Mata,,32280,32366,pt:Nazaré da Mata,http://www.nazaredamata.pe.gov.br/,-35.2213386962,-7.737688,Nazare da Mata,,Mata Setentrional Pernambucana,Mata Pernambucana,260006,Carpina,2601,Recife
+2609600,PE,2185940,Q28301,Olinda,,390771,391835,pt:Olinda,http://www.olinda.pe.gov.br/,-34.8613103898,-7.9926600753,Olinda,,Recife,Metropolitana de Recife,260001,Recife,2601,Recife
+2609709,PE,303689,Q2013693,Orobó,,23768,23833,pt:Orobó,http://www.orobo.pe.gov.br/,-35.6029820967,-7.7378951337,Orobo,,Médio Capibaribe,Agreste Pernambucano,260004,Limoeiro,2601,Recife
+2609808,PE,303598,Q2010863,Orocó,,14794,14827,pt:Orocó,http://www.oroco.pe.gov.br/,-39.5952457761,-8.6179456461,Oroco,,Petrolina,São Francisco Pernambucano,260015,Petrolina,2604,Petrolina
+2609907,PE,303733,Q2064430,Ouricuri,,68776,68939,pt:Ouricuri,http://www.ouricuri.pe.gov.br/,-40.0814625767,-7.883151975,Ouricuri,,Araripina,Sertão Pernambucano,260016,Araripina,2604,Petrolina
+2610004,PE,303691,Q547095,Palmares,,62832,62994,pt:Palmares,http://www.palmares.pe.gov.br/,-35.5883359938,-8.6790825,Palmares,,Mata Meridional Pernambucana,Mata Pernambucana,260003,Palmares,2601,Recife
+2610103,PE,303725,Q2011342,Palmeirina,,7761,7789,pt:Palmeirina,http://www.palmeirina.pe.gov.br/,-36.3273109987,-9.0016832851,Palmeirina,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
+2610202,PE,303620,Q2013681,Panelas,,26417,26492,pt:Panelas,http://www.panelas.pe.gov.br/,-36.0015757987,-8.667242285,Panelas,,Brejo Pernambucano,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2610301,PE,303711,Q2011819,Paranatama,,11449,11478,pt:Paranatama,http://www.paranatama.pe.gov.br/,-36.6584292681,-8.920145338,Paranatama,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
+2610400,PE,303575,Q2101450,Parnamirim,,21383,21914,pt:Parnamirim (Pernambuco),http://www.parnamirim.pe.gov.br/,-39.575786823,-8.0901383272,Parnamirim,,Salgueiro,Sertão Pernambucano,260017,Salgueiro,2604,Petrolina
+2610509,PE,303581,Q2011285,Passira,,28889,28972,pt:Passira,http://www.passira.pe.gov.br/,-35.5816849952,-7.9788839418,Passira,,Médio Capibaribe,Agreste Pernambucano,260004,Limoeiro,2601,Recife
+2610608,PE,303614,Q674432,Paudalho,,55942,56074,pt:Paudalho,http://www.paudalho.pe.gov.br/,-35.1791510624,-7.897135005,Paudalho,,Mata Setentrional Pernambucana,Mata Pernambucana,260001,Recife,2601,Recife
+2610707,PE,303755,Q949833,Paulista,,328353,329117,pt:Paulista (Pernambuco),http://www.paulista.pe.gov.br/,-34.8847916197,-7.943188,Paulista,,Recife,Metropolitana de Recife,260001,Recife,2601,Recife
+2610806,PE,303602,Q2013605,Pedra,,22505,22566,pt:Pedra (Pernambuco),http://www.pedra.pe.gov.br/,-36.9427981489,-8.4984765,Pedra,,Vale do Ipanema,Agreste Pernambucano,260011,Arcoverde,2602,Caruaru
+2610905,PE,303656,Q1008230,Pesqueira,,66881,67047,pt:Pesqueira,http://www.pesqueira.pe.gov.br/,-36.6955147219,-8.3554561078,Pesqueira,,Vale do Ipojuca,Agreste Pernambucano,260012,Belo Jardim – Pesqueira,2602,Caruaru
+2611002,PE,303638,Q2106455,Petrolândia,,36108,36187,pt:Petrolândia (Pernambuco),http://www.petrolandia.pe.gov.br/,-38.2207335453,-8.9773434644,Petrolandia,,Itaparica,São Francisco Pernambucano,260013,Serra Talhada,2603,Serra Talhada
+2611101,PE,303629,Q842143,Petrolina,,343219,343865,pt:Petrolina,http://www.petrolina.pe.gov.br/,-40.4999993347,-9.397375515,Petrolina,,Petrolina,São Francisco Pernambucano,260015,Petrolina,2604,Petrolina
+2611200,PE,303596,Q1809609,Poção,,11268,11299,pt:Poção (Pernambuco),http://www.pocao.pe.gov.br/,-36.7058798977,-8.1862270089,Pocao,,Vale do Ipojuca,Agreste Pernambucano,260012,Belo Jardim – Pesqueira,2602,Caruaru
+2611309,PE,303715,Q2309699,Pombos,,26960,27033,pt:Pombos (Pernambuco),http://www.pombos.pe.gov.br/,-35.3961953582,-8.14435986,Pombos,,Vitória de Santo Antão,Mata Pernambucana,260005,Vitória de Santo Antão,2601,Recife
+2611408,PE,303748,Q2099821,Primavera,,14798,14831,pt:Primavera (Pernambuco),http://www.primavera.pe.gov.br/,-35.3539433949,-8.3313760861,Primavera,,Mata Meridional Pernambucana,Mata Pernambucana,260001,Recife,2601,Recife
+2611507,PE,303624,Q2011039,Quipapá,,25831,25896,pt:Quipapá,http://www.quipapa.pe.gov.br/,-36.01198953,-8.8278850221,Quipapa,,Mata Meridional Pernambucana,Mata Pernambucana,260010,Garanhuns,2602,Caruaru
+2611533,PE,303630,Q2034566,Quixaba,,6802,6822,pt:Quixaba (Pernambuco),http://www.quixaba.pe.gov.br/,-37.8464456195,-7.7181264101,Quixaba,,Pajeú,Sertão Pernambucano,260014,Afogados da Ingazeira,2603,Serra Talhada
+2611606,PE,303585,Q48344,Recife,true,1633697,1637834,pt:Recife,http://www.recife.pe.gov.br/,-34.8889419446,-8.0627624831,Recife,,Recife,Metropolitana de Recife,260001,Recife,2601,Recife
+2611705,PE,303683,Q1964406,Riacho das Almas,,20392,20443,pt:Riacho das Almas,http://www.riachodasalmas.pe.gov.br/,-35.8608749475,-8.1270327806,Riacho das Almas,,Vale do Ipojuca,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2611804,PE,2709594,Q2088935,Ribeirão,,47088,47209,pt:Ribeirão (Pernambuco),http://www.ribeirao.pe.gov.br/,-35.3761308237,-8.51111604,Ribeirao,,Mata Meridional Pernambucana,Mata Pernambucana,260001,Recife,2601,Recife
+2611903,PE,303621,Q2011054,Rio Formoso,,23379,23440,pt:Rio Formoso,http://www.rioformoso.pe.gov.br/,-35.1554328172,-8.6621710853,Rio Formoso,,Mata Meridional Pernambucana,Mata Pernambucana,260007,Barreiros - Sirinhaém,2601,Recife
+2612000,PE,303612,Q257236,Sairé,,10065,10103,pt:Sairé,http://www.saire.pe.gov.br/,-35.7102477663,-8.3276135393,Saire,,Brejo Pernambucano,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2612109,PE,303611,Q2278378,Salgadinho,,10747,10768,pt:Salgadinho (Pernambuco),http://www.salgadinho.pe.gov.br/,-35.6380612405,-7.9394837414,Salgadinho,,Médio Capibaribe,Agreste Pernambucano,260004,Limoeiro,2601,Recife
+2612208,PE,303600,Q2102772,Salgueiro,,60453,60604,pt:Salgueiro (Pernambuco),http://www.salgueiro.pe.gov.br/,-39.1208509811,-8.0706775221,Salgueiro,,Salgueiro,Sertão Pernambucano,260017,Salgueiro,2604,Petrolina
+2612307,PE,303622,Q2065190,Saloá,,15779,15823,pt:Saloá,http://www.saloa.pe.gov.br/,-36.6927291742,-8.9759954809,Saloa,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
+2612406,PE,303645,Q1991944,Sanharó,,25979,26026,pt:Sanharó,http://www.sanharo.pe.gov.br/,-36.5625071954,-8.3629619689,Sanharo,,Vale do Ipojuca,Agreste Pernambucano,260012,Belo Jardim – Pesqueira,2602,Caruaru
+2612455,PE,303718,Q2430789,Santa Cruz,,15202,15236,pt:Santa Cruz (Pernambuco),http://www.santacruz.pe.gov.br/,-40.3376876556,-8.2379611184,Santa Cruz,,Araripina,Sertão Pernambucano,260016,Araripina,2604,Petrolina
+2612471,PE,303582,Q2010927,Santa Cruz da Baixa Verde,,12501,12531,pt:Santa Cruz da Baixa Verde,http://www.santacruzdabaixaverde.pe.gov.br/,-38.1531381818,-7.8214696823,Santa Cruz da Baixa Verde,,Pajeú,Sertão Pernambucano,260013,Serra Talhada,2603,Serra Talhada
+2612505,PE,303669,Q2082237,Santa Cruz do Capibaribe,,105761,105936,pt:Santa Cruz do Capibaribe,http://www.santacruzdocapibaribe.pe.gov.br/,-36.2039500171,-7.9551895,Santa Cruz do Capibaribe,,Alto Capibaribe,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2612554,PE,303707,Q2088926,Santa Filomena,,14355,14390,pt:Santa Filomena (Pernambuco),http://www.santafilomena.pe.gov.br/,-40.615775185,-8.1605111673,Santa Filomena,,Araripina,Sertão Pernambucano,260016,Araripina,2604,Petrolina
+2612604,PE,303698,Q2010898,Santa Maria da Boa Vista,,41652,41759,pt:Santa Maria da Boa Vista,http://www.santamariadaboavista.pe.gov.br/,-39.8242357255,-8.8041265,Santa Maria da Boa Vista,,Petrolina,São Francisco Pernambucano,260015,Petrolina,2604,Petrolina
+2612703,PE,303705,Q2013573,Santa Maria do Cambucá,,14013,14048,pt:Santa Maria do Cambucá,http://www.santamariadocambuca.pe.gov.br/,-35.885243339,-7.8318134262,Santa Maria do Cambuca,,Alto Capibaribe,Agreste Pernambucano,260008,Surubim,2601,Recife
+2612802,PE,303723,Q2456298,Santa Terezinha,,11734,11764,pt:Santa Terezinha (Pernambuco),http://www.santaterezinha.pe.gov.br/,-37.4800327233,-7.3703557393,Santa Terezinha,,Pajeú,Sertão Pernambucano,260014,Afogados da Ingazeira,2603,Serra Talhada
+2612901,PE,303708,Q2010993,São Benedito do Sul,,15683,15717,pt:São Benedito do Sul,http://www.saobeneditodosul.pe.gov.br/,-35.9311226194,-8.8104382342,Sao Benedito do Sul,,Mata Meridional Pernambucana,Mata Pernambucana,260003,Palmares,2601,Recife
+2613008,PE,303697,Q2078660,São Bento do Una,,58824,58956,pt:São Bento do Una,http://www.saobentodouna.pe.gov.br/,-36.4462983616,-8.5198675206,Sao Bento do Una,,Vale do Ipojuca,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
+2613107,PE,303635,Q777635,São Caetano,,37023,37119,pt:São Caetano (Pernambuco),http://www.saocaetano.pe.gov.br/,-36.1373597958,-8.3273605,Sao Caetano,,Vale do Ipojuca,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2613206,PE,303745,Q2355766,São João,,22628,22686,pt:São João (Pernambuco),http://www.saojoao.pe.gov.br/,-36.3682530765,-8.8775593754,Sao Joao,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
+2613305,PE,303712,Q2013565,São Joaquim do Monte,,21257,21314,pt:São Joaquim do Monte,http://www.saojoaquimdomonte.pe.gov.br/,-35.8094911721,-8.4321515,Sao Joaquim do Monte,,Brejo Pernambucano,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2613404,PE,303735,Q573729,São José da Coroa Grande,,20963,21004,pt:São José da Coroa Grande,http://www.saojosedacoroagrande.pe.gov.br/,-35.1457070847,-8.8941951307,Sao Jose da Coroa Grande,,Mata Meridional Pernambucana,Mata Pernambucana,260007,Barreiros - Sirinhaém,2601,Recife
+2613503,PE,303666,Q2011317,São José do Belmonte,,33804,33895,pt:São José do Belmonte,http://www.saojosedobelmonte.pe.gov.br/,-38.75945378,-7.8617400547,Sao Jose do Belmonte,,Salgueiro,Sertão Pernambucano,260013,Serra Talhada,2603,Serra Talhada
+2613602,PE,303688,Q1911145,São José do Egito,,33704,33789,pt:São José do Egito,http://www.saojosedoegito.pe.gov.br/,-37.2750721852,-7.4740251833,Sao Jose do Egito,,Pajeú,Sertão Pernambucano,260014,Afogados da Ingazeira,2603,Serra Talhada
+2613701,PE,303591,Q1796467,São Lourenço da Mata,,112099,112362,pt:São Lourenço da Mata,http://www.slm.pe.gov.br/,-35.0412775393,-7.995938,Sao Lourenco da Mata,,Recife,Metropolitana de Recife,260001,Recife,2601,Recife
+2613800,PE,303742,Q2097693,São Vicente Ferrer,,17904,17950,pt:São Vicente Férrer (Pernambuco),http://www.saovicenteferrer.pe.gov.br/,-35.4901218809,-7.5922127326,Sao Vicente Ferrer,,Médio Capibaribe,Agreste Pernambucano,260002,Goiana – Timbaúba,2601,Recife
+2613909,PE,303592,Q2000133,Serra Talhada,,85568,85774,pt:Serra Talhada,http://www.serratalhada.pe.gov.br/,-38.2963149475,-7.98799752,Serra Talhada,,Pajeú,Sertão Pernambucano,260013,Serra Talhada,2603,Serra Talhada
+2614006,PE,303633,Q2013706,Serrita,,19080,19133,pt:Serrita,http://www.serrita.pe.gov.br/,-39.2926231744,-7.9543403981,Serrita,,Salgueiro,Sertão Pernambucano,260017,Salgueiro,2604,Petrolina
+2614105,PE,303583,Q2011023,Sertânia,,35670,35761,pt:Sertânia,http://www.sertania.pe.gov.br/,-37.2673901013,-8.07245,Sertania,,Sertão do Moxotó,Sertão Pernambucano,260011,Arcoverde,2602,Caruaru
+2614204,PE,303578,Q929655,Sirinhaém,,45263,45359,pt:Sirinhaém,http://www.sirinhaem.pe.gov.br/,-35.1164053547,-8.5933695,Sirinhaem,,Mata Meridional Pernambucana,Mata Pernambucana,260007,Barreiros - Sirinhaém,2601,Recife
+2614303,PE,303729,Q2011296,Moreilândia,,11238,11270,pt:Moreilândia,http://www.moreilandia.pe.gov.br/,-39.5537537311,-7.6299826881,Moreilandia,,Araripina,Sertão Pernambucano,260016,Araripina,2604,Petrolina
+2614402,PE,303672,Q2064859,Solidão,,5978,5993,pt:Solidão (Pernambuco),http://www.solidao.pe.gov.br/,-37.647470237,-7.6021256842,Solidao,,Pajeú,Sertão Pernambucano,260014,Afogados da Ingazeira,2603,Serra Talhada
+2614501,PE,303642,Q2064701,Surubim,,64373,64520,pt:Surubim,http://www.surubim.pe.gov.br/,-35.7567841034,-7.8351570573,Surubim,,Alto Capibaribe,Agreste Pernambucano,260008,Surubim,2601,Recife
+2614600,PE,303610,Q2078322,Tabira,,28301,28371,pt:Tabira,http://www.tabira.pe.gov.br/,-37.5402657742,-7.591136513,Tabira,,Pajeú,Sertão Pernambucano,260014,Afogados da Ingazeira,2603,Serra Talhada
+2614709,PE,303643,Q2013728,Tacaimbó,,12853,12890,pt:Tacaimbó,http://www.tacaimbo.pe.gov.br/,-36.2904043048,-8.3156107248,Tacaimbo,,Vale do Ipojuca,Agreste Pernambucano,260012,Belo Jardim – Pesqueira,2602,Caruaru
+2614808,PE,303609,Q2011003,Tacaratu,,25368,25417,pt:Tacaratu,http://www.tacaratu.pe.gov.br/,-38.1534611597,-9.1056996443,Tacaratu,,Itaparica,São Francisco Pernambucano,260013,Serra Talhada,2603,Serra Talhada
+2614857,PE,303657,Q2011531,Tamandaré,,23100,23149,pt:Tamandaré (Pernambuco),http://www.tamandare.pe.gov.br/,-35.0906465455,-8.7046892785,Tamandare,,Mata Meridional Pernambucana,Mata Pernambucana,260007,Barreiros - Sirinhaém,2601,Recife
+2615003,PE,303623,Q2011859,Taquaritinga do Norte,,28358,28416,pt:Taquaritinga do Norte,http://www.taquaritingadonorte.pe.gov.br/,-36.0433376713,-7.9021598258,Taquaritinga do Norte,,Alto Capibaribe,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2615102,PE,303595,Q2064935,Terezinha,,7120,7139,pt:Terezinha,http://www.terezinha.pe.gov.br/,-36.6214759482,-9.0577780595,Terezinha,,Garanhuns,Agreste Pernambucano,260010,Garanhuns,2602,Caruaru
+2615201,PE,303694,Q2604168,Terra Nova,,10437,9983,pt:Terra Nova (Pernambuco),http://www.terranova.pe.gov.br/,-39.3744218379,-8.2303579786,Terra Nova,,Petrolina,São Francisco Pernambucano,260017,Salgueiro,2604,Petrolina
+2615300,PE,303728,Q929867,Timbaúba,,53083,50956,pt:Timbaúba,http://www.timbauba.pe.gov.br/,-35.318772121,-7.511745674,Timbauba,,Mata Setentrional Pernambucana,Mata Pernambucana,260002,Goiana – Timbaúba,2601,Recife
+2615409,PE,303727,Q2013594,Toritama,,44189,44254,pt:Toritama,http://www.toritama.pe.gov.br/,-36.056843493,-8.0066502709,Toritama,,Alto Capibaribe,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2615508,PE,303603,Q1870479,Tracunhaém,,13689,13724,pt:Tracunhaém,http://www.tracunhaem.pe.gov.br/,-35.237922814,-7.8026886127,Tracunhaem,,Mata Setentrional Pernambucana,Mata Pernambucana,260006,Carpina,2601,Recife
+2615607,PE,303722,Q2355756,Trindade,,30155,30222,pt:Trindade (Pernambuco),http://www.trindade.pe.gov.br/,-40.2655906093,-7.7617946257,Trindade,,Araripina,Sertão Pernambucano,260016,Araripina,2604,Petrolina
+2615706,PE,303665,Q679786,Triunfo,,15221,15265,pt:Triunfo (Pernambuco),http://www.triunfo.pe.gov.br/,-38.1070603447,-7.8308763588,Triunfo,,Pajeú,Sertão Pernambucano,260013,Serra Talhada,2603,Serra Talhada
+2615805,PE,303671,Q1804078,Tupanatinga,,26990,27052,pt:Tupanatinga,http://www.tupanatinga.pe.gov.br/,-37.3402334718,-8.7515816593,Tupanatinga,,Vale do Ipanema,Agreste Pernambucano,260011,Arcoverde,2602,Caruaru
+2615904,PE,303637,Q2077835,Tuparetama,,8169,8192,pt:Tuparetama,http://www.tuparetama.pe.gov.br/,-37.3111818113,-7.5987594648,Tuparetama,,Pajeú,Sertão Pernambucano,260014,Afogados da Ingazeira,2603,Serra Talhada
+2616001,PE,303667,Q1804048,Venturosa,,18258,18298,pt:Venturosa,http://www.venturosa.pe.gov.br/,-36.8783720839,-8.5765269012,Venturosa,,Vale do Ipanema,Agreste Pernambucano,260011,Arcoverde,2602,Caruaru
+2616100,PE,303679,Q2013582,Verdejante,,9490,9514,pt:Verdejante,http://www.verdejante.pe.gov.br/,-38.9742826043,-7.9328837046,Verdejante,,Salgueiro,Sertão Pernambucano,260017,Salgueiro,2604,Petrolina
+2616183,PE,303654,Q2013655,Vertente do Lério,,7641,7666,pt:Vertente do Lério,http://www.vertentedolerio.pe.gov.br/,-35.8530027397,-7.7748194553,Vertente do Lerio,,Alto Capibaribe,Agreste Pernambucano,260008,Surubim,2601,Recife
+2616209,PE,303634,Q2065306,Vertentes,,20460,20503,pt:Vertentes,http://www.vertentes.pe.gov.br/,-35.989305931,-7.9057426035,Vertentes,,Alto Capibaribe,Agreste Pernambucano,260009,Caruaru,2602,Caruaru
+2616308,PE,303750,Q2010783,Vicência,,32429,32513,pt:Vicência (Pernambuco),http://www.vicencia.pe.gov.br/,-35.3203006893,-7.6529595,Vicencia,,Mata Setentrional Pernambucana,Mata Pernambucana,260002,Goiana – Timbaúba,2601,Recife
+2616407,PE,303684,Q985685,Vitória de Santo Antão,,137578,137915,pt:Vitória de Santo Antão,http://www.prefeituradavitoria.pe.gov.br/,-35.2938642411,-8.118748,Vitoria de Santo Antao,,Vitória de Santo Antão,Mata Pernambucana,260005,Vitória de Santo Antão,2601,Recife
+2616506,PE,303699,Q1111243,Xexéu,,14651,14691,pt:Xexéu,http://www.xexeu.pe.gov.br/,-35.6242353158,-8.8033134055,Xexeu,,Mata Meridional Pernambucana,Mata Pernambucana,260003,Palmares,2601,Recife
 2700102,AL,303820,Q1808899,Água Branca,,20467,20162,pt:Água Branca (Alagoas),,-37.940715176,-9.2670254971,Agua Branca,,Serrana do Sertão Alagoano,Sertão Alagoano,270009,Delmiro Gouveia,2702,Arapiraca
 2700201,AL,303866,Q2028005,Anadia,,17818,17564,pt:Anadia (Alagoas),,-36.3008135714,-9.6840837851,Anadia,,São Miguel Dos Campos,Leste Alagoano,270004,São Miguel dos Campos,2701,Maceió
 2700300,AL,303810,Q626175,Arapiraca,,234185,230417,pt:Arapiraca,,-36.6572965063,-9.7559070107,Arapiraca,,Arapiraca,Agreste Alagoano,270007,Arapiraca,2702,Arapiraca
