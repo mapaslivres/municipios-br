@@ -3,7 +3,7 @@
     code: AC
     ibge_code: 12
     iso3166-2: BR-AC
-    osm_id: relation/326266
+    osm_relation_id: 326266
     wikidata_id: Q40780
     name: Acre
     no_accents: Acre
@@ -20,7 +20,7 @@
     code: AL
     ibge_code: 27
     iso3166-2: BR-AL
-    osm_id: relation/303781
+    osm_relation_id: 303781
     wikidata_id: Q40885
     name: Alagoas
     no_accents: Alagoas
@@ -37,7 +37,7 @@
     code: AM
     ibge_code: 13
     iso3166-2: BR-AM
-    osm_id: relation/332476
+    osm_relation_id: 332476
     wikidata_id: Q40040
     name: Amazonas
     no_accents: Amazonas
@@ -54,7 +54,7 @@
     code: AP
     ibge_code: 16
     iso3166-2: BR-AP
-    osm_id: relation/331463
+    osm_relation_id: 331463
     wikidata_id: Q40130
     name: Amapá
     no_accents: Amapa
@@ -71,7 +71,7 @@
     code: BA
     ibge_code: 29
     iso3166-2: BR-BA
-    osm_id: relation/362413
+    osm_relation_id: 362413
     wikidata_id: Q40430
     name: Bahia
     no_accents: Bahia
@@ -88,7 +88,7 @@
     code: CE
     ibge_code: 23
     iso3166-2: BR-CE
-    osm_id: relation/302635
+    osm_relation_id: 302635
     wikidata_id: Q40123
     name: Ceará
     no_accents: Ceara
@@ -105,7 +105,7 @@
     code: DF
     ibge_code: 53
     iso3166-2: BR-DF
-    osm_id: relation/421151
+    osm_relation_id: 421151
     wikidata_id: Q119158
     name: Distrito Federal
     no_accents: Distrito Federal
@@ -122,7 +122,7 @@
     code: ES
     ibge_code: 32
     iso3166-2: BR-ES
-    osm_id: relation/54882
+    osm_relation_id: 54882
     wikidata_id: Q43233
     name: Espírito Santo
     no_accents: Espirito Santo
@@ -139,7 +139,7 @@
     code: GO
     ibge_code: 52
     iso3166-2: BR-GO
-    osm_id: relation/334443
+    osm_relation_id: 334443
     wikidata_id: Q41587
     name: Goiás
     no_accents: Goias
@@ -156,7 +156,7 @@
     code: MA
     ibge_code: 21
     iso3166-2: BR-MA
-    osm_id: relation/332924
+    osm_relation_id: 332924
     wikidata_id: Q42362
     name: Maranhão
     no_accents: Maranhao
@@ -173,7 +173,7 @@
     code: MG
     ibge_code: 31
     iso3166-2: BR-MG
-    osm_id: relation/315173
+    osm_relation_id: 315173
     wikidata_id: Q39109
     name: Minas Gerais
     no_accents: Minas Gerais
@@ -190,7 +190,7 @@
     code: MS
     ibge_code: 50
     iso3166-2: BR-MS
-    osm_id: relation/334051
+    osm_relation_id: 334051
     wikidata_id: Q43319
     name: Mato Grosso do Sul
     no_accents: Mato Grosso do Sul
@@ -207,7 +207,7 @@
     code: MT
     ibge_code: 51
     iso3166-2: BR-MT
-    osm_id: relation/333597
+    osm_relation_id: 333597
     wikidata_id: Q42824
     name: Mato Grosso
     no_accents: Mato Grosso
@@ -224,7 +224,7 @@
     code: PA
     ibge_code: 15
     iso3166-2: BR-PA
-    osm_id: relation/185579
+    osm_relation_id: 185579
     wikidata_id: Q39517
     name: Pará
     no_accents: Para
@@ -241,7 +241,7 @@
     code: PB
     ibge_code: 25
     iso3166-2: BR-PB
-    osm_id: relation/301464
+    osm_relation_id: 301464
     wikidata_id: Q38088
     name: Paraíba
     no_accents: Paraiba
@@ -258,7 +258,7 @@
     code: PE
     ibge_code: 26
     iso3166-2: BR-PE
-    osm_id: relation/303702
+    osm_relation_id: 303702
     wikidata_id: Q40942
     name: Pernambuco
     no_accents: Pernambuco
@@ -275,7 +275,7 @@
     code: PI
     ibge_code: 22
     iso3166-2: BR-PI
-    osm_id: relation/302819
+    osm_relation_id: 302819
     wikidata_id: Q42722
     name: Piauí
     no_accents: Piaui
@@ -292,7 +292,7 @@
     code: PR
     ibge_code: 41
     iso3166-2: BR-PR
-    osm_id: relation/297640
+    osm_relation_id: 297640
     wikidata_id: Q15499
     name: Paraná
     no_accents: Parana
@@ -309,7 +309,7 @@
     code: RJ
     ibge_code: 33
     iso3166-2: BR-RJ
-    osm_id: relation/57963
+    osm_relation_id: 57963
     wikidata_id: Q41428
     name: Rio de Janeiro
     no_accents: Rio de Janeiro
@@ -326,7 +326,7 @@
     code: RN
     ibge_code: 24
     iso3166-2: BR-RN
-    osm_id: relation/301079
+    osm_relation_id: 301079
     wikidata_id: Q43255
     name: Rio Grande do Norte
     no_accents: Rio Grande do Norte
@@ -343,7 +343,7 @@
     code: RO
     ibge_code: 11
     iso3166-2: BR-RO
-    osm_id: relation/325866
+    osm_relation_id: 325866
     wikidata_id: Q43235
     name: Rondônia
     no_accents: Rondonia
@@ -360,7 +360,7 @@
     code: RR
     ibge_code: 14
     iso3166-2: BR-RR
-    osm_id: relation/326287
+    osm_relation_id: 326287
     wikidata_id: Q42508
     name: Roraima
     no_accents: Roraima
@@ -377,7 +377,7 @@
     code: RS
     ibge_code: 43
     iso3166-2: BR-RS
-    osm_id: relation/242620
+    osm_relation_id: 242620
     wikidata_id: Q40030
     name: Rio Grande do Sul
     no_accents: Rio Grande do Sul
@@ -394,7 +394,7 @@
     code: SC
     ibge_code: 42
     iso3166-2: BR-SC
-    osm_id: relation/296584
+    osm_relation_id: 296584
     wikidata_id: Q41115
     name: Santa Catarina
     no_accents: Santa Catarina
@@ -411,7 +411,7 @@
     code: SE
     ibge_code: 28
     iso3166-2: BR-SE
-    osm_id: relation/303940
+    osm_relation_id: 303940
     wikidata_id: Q43783
     name: Sergipe
     no_accents: Sergipe
@@ -428,7 +428,7 @@
     code: SP
     ibge_code: 35
     iso3166-2: BR-SP
-    osm_id: relation/298204
+    osm_relation_id: 298204
     wikidata_id: Q175
     name: São Paulo
     no_accents: Sao Paulo
@@ -445,7 +445,7 @@
     code: TO
     ibge_code: 17
     iso3166-2: BR-TO
-    osm_id: relation/336819
+    osm_relation_id: 336819
     wikidata_id: Q43695
     name: Tocantins
     no_accents: Tocantins

@@ -1,12 +1,12 @@
 # Localidades do Brasil
 
-Dados em formato aberto sobre localidades brasileiras para uso em visualizações de dados, interfaces de entrada e sanitização de bases. 
+Dados em formato aberto sobre localidades brasileiras para uso em visualizações de dados, interfaces de entrada e sanitização de bases.
 
 ## [Unidades federativas](data/states.csv)
 
 - Identificadores:
   - Sigla oficial
-  - Código IBGE (e macroregião)
+  - Código IBGE (e macrorregião)
   - Código ISO3166-2
   - Relação do OpenStreetMap
   - Identificador no Wikidata
@@ -22,13 +22,21 @@ Dados em formato aberto sobre localidades brasileiras para uso em visualizaçõe
 - Nome oficial, sem acento e grafias alternativas
 - Sigla do estado
 - Identificadores:
-  - Código micro e mesoregião do IBGE
+  - Código micro e mesorregião do IBGE
+  - Código região intermediária e imediata do IBGE
   - Relação do OpenStreetMap
-  - Identificador no Wikidata (parcial)
-  - Identificador na Wikipédia (parcial)
+  - Identificador no Wikidata
+  - Identificador na Wikipédia
 - Coordenadas do centro administrativo
 - Capitais
 - População em 2017 e 2018
+- Website municipal (parcial)
+  - Mato Grosso
+  - Pernambuco
+  - Rio de Janeiro
+  - Rio Grande do Sul
+  - São Paulo
+
 
 ## [Distritos](data/districts.csv)
 
@@ -47,7 +55,7 @@ Dados em formato aberto sobre localidades brasileiras para uso em visualizaçõe
 
 # Fontes
 
-* [IBGE](www.ibge.gov.br)
+* [IBGE](https://www.ibge.gov.br/)
 * [OpenStreetMap](https://www.openstreetmap.org/about)
 
 # Contribua
