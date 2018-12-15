@@ -55,7 +55,7 @@ Dados em formato aberto sobre localidades brasileiras para uso em visualizaçõe
 
 # Fontes
 
-* [IBGE](www.ibge.gov.br)
+* [IBGE](https://www.ibge.gov.br/)
 * [OpenStreetMap](https://www.openstreetmap.org/about)
 
 # Contribua
