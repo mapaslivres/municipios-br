@@ -1,12 +1,12 @@
 # Localidades do Brasil
 
-Dados em formato aberto sobre localidades brasileiras para uso em visualizações de dados, interfaces de entrada e sanitização de bases. 
+Dados em formato aberto sobre localidades brasileiras para uso em visualizações de dados, interfaces de entrada e sanitização de bases.
 
 ## [Unidades federativas](data/states.csv)
 
 - Identificadores:
   - Sigla oficial
-  - Código IBGE (e macroregião)
+  - Código IBGE (e macrorregião)
   - Código ISO3166-2
   - Relação do OpenStreetMap
   - Identificador no Wikidata
