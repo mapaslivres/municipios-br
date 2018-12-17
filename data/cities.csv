@@ -51,28 +51,28 @@ ibge_code,state_code,osm_relation_id,wikidata_id,name,is_capital,population_2017
 1101708,RO,325884,Q2089326,Urupá,,13106,11665,pt:Urupá,,-62.3706324538,-11.1285452757,Urupa,,Ji-Paraná,Leste Rondoniense,110004,Ji-Paraná,1102,Ji-Paraná
 1101757,RO,325868,Q1807445,Vale do Anari,,11149,11028,pt:Vale do Anari,,-62.1768234421,-9.8513927081,Vale do Anari,,Ariquemes,Leste Rondoniense,110003,Jaru,1101,Porto Velho
 1101807,RO,325869,Q2013187,Vale do Paraíso,,8047,6998,pt:Vale do Paraíso (Rondônia),,-62.1343903568,-10.4310526846,Vale do Paraiso,,Ji-Paraná,Leste Rondoniense,110004,Ji-Paraná,1102,Ji-Paraná
-1200013,AC,326273,Q953086,Acrelândia,,14366,15020,pt:Acrelândia,,-67.05231658,-10.0737938925,Acrelandia,,Rio Branco,Vale do Acre,120001,Rio Branco,1201,Rio Branco
-1200054,AC,326269,Q1754403,Assis Brasil,,6986,7300,pt:Assis Brasil,,-69.5634591747,-10.9428656809,Assis Brasil,,Brasiléia,Vale do Acre,120002,Brasiléia,1201,Rio Branco
-1200104,AC,326270,Q899406,Brasiléia,,24765,25848,pt:Brasiléia,,-68.747943426,-11.0164110191,Brasileia,,Brasiléia,Vale do Acre,120002,Brasiléia,1201,Rio Branco
-1200138,AC,326259,Q1754408,Bujari,,9664,10111,pt:Bujari,,-67.9518592792,-9.8200196267,Bujari,,Rio Branco,Vale do Acre,120001,Rio Branco,1201,Rio Branco
-1200179,AC,326268,Q1800737,Capixaba,,11136,11456,pt:Capixaba (Acre),,-67.6735079719,-10.5697677088,Capixaba,,Rio Branco,Vale do Acre,120001,Rio Branco,1201,Rio Branco
-1200203,AC,326274,Q941136,Cruzeiro do Sul,,82622,87673,pt:Cruzeiro do Sul (Acre),,-72.6725313174,-7.630690005,Cruzeiro do Sul,,Cruzeiro do Sul,Vale do Juruá,120004,Cruzeiro do Sul,1202,Cruzeiro do Sul
-1200252,AC,326256,Q1755395,Epitaciolândia,,17340,18122,pt:Epitaciolândia,,-68.7448680667,-11.028239828,Epitaciolandia,,Brasiléia,Vale do Acre,120002,Brasiléia,1201,Rio Branco
-1200302,AC,326258,Q1994833,Feijó,,32360,34675,pt:Feijó (Acre),,-70.3539836082,-8.16024753,Feijo,,Tarauacá,Vale do Juruá,120005,Tarauacá,1202,Cruzeiro do Sul
-1200328,AC,326252,Q1800793,Jordão,,7858,8159,pt:Jordão (Acre),,-71.9508751248,-9.1933578598,Jordao,,Tarauacá,Vale do Juruá,120005,Tarauacá,1202,Cruzeiro do Sul
-1200336,AC,326262,Q1772621,Mâncio Lima,,17910,18638,pt:Mâncio Lima,,-72.9165010261,-7.5932225939,Mancio Lima,,Cruzeiro do Sul,Vale do Juruá,120004,Cruzeiro do Sul,1202,Cruzeiro do Sul
-1200344,AC,326271,Q1772688,Manoel Urbano,,8886,9336,pt:Manoel Urbano,,-69.2599445775,-8.8363177369,Manoel Urbano,,Sena Madureira,Vale do Acre,120003,Sena Madureira,1201,Rio Branco
-1200351,AC,326257,Q1772613,Marechal Thaumaturgo,,17897,18430,pt:Marechal Thaumaturgo,,-72.7902659087,-8.9535911232,Marechal Thaumaturgo,,Cruzeiro do Sul,Vale do Juruá,120004,Cruzeiro do Sul,1202,Cruzeiro do Sul
-1200385,AC,326267,Q964075,Plácido de Castro,,18510,19565,pt:Plácido de Castro (Acre),,-67.1882600862,-10.3351332827,Placido de Castro,,Rio Branco,Vale do Acre,120001,Rio Branco,1201,Rio Branco
-1200393,AC,326264,Q1772588,Porto Walter,,11353,11720,pt:Porto Walter,,-72.7423339648,-8.2666663628,Porto Walter,,Cruzeiro do Sul,Vale do Juruá,120004,Cruzeiro do Sul,1202,Cruzeiro do Sul
-1200401,AC,326253,Q171612,Rio Branco,true,383443,401155,pt:Rio Branco,,-67.8105287004,-9.9782987527,Rio Branco,,Rio Branco,Vale do Acre,120001,Rio Branco,1201,Rio Branco
-1200427,AC,326254,Q1800776,Rodrigues Alves,,17945,18504,pt:Rodrigues Alves (Acre),,-72.6478549142,-7.7336020337,Rodrigues Alves,,Cruzeiro do Sul,Vale do Juruá,120004,Cruzeiro do Sul,1202,Cruzeiro do Sul
-1200435,AC,326272,Q1772719,Santa Rosa do Purus,,6230,6362,pt:Santa Rosa do Purus,,-70.4864968938,-9.4434065374,Santa Rosa do Purus,,Sena Madureira,Vale do Acre,120003,Sena Madureira,1201,Rio Branco
-1200450,AC,326261,Q771763,Senador Guiomard,,21552,22810,pt:Senador Guiomard,,-67.74317236,-10.1481735862,Senador Guiomard,,Rio Branco,Vale do Acre,120001,Rio Branco,1201,Rio Branco
-1200500,AC,326263,Q1754389,Sena Madureira,,43139,45177,pt:Sena Madureira,,-68.6556840617,-9.065339505,Sena Madureira,,Sena Madureira,Vale do Acre,120003,Sena Madureira,1201,Rio Branco
-1200609,AC,326255,Q979910,Tarauacá,,40024,41976,pt:Tarauacá,,-70.7555010629,-8.1556685918,Tarauaca,,Tarauacá,Vale do Juruá,120005,Tarauacá,1202,Cruzeiro do Sul
-1200708,AC,326260,Q1012531,Xapuri,,18174,19048,pt:Xapuri,,-68.506294805,-10.6520719403,Xapuri,,Brasiléia,Vale do Acre,120002,Brasiléia,1201,Rio Branco
-1200807,AC,326265,Q1772602,Porto Acre,,17459,18180,pt:Porto Acre,,-67.5405900835,-9.6008582312,Porto Acre,,Rio Branco,Vale do Acre,120001,Rio Branco,1201,Rio Branco
+1200013,AC,326273,Q953086,Acrelândia,,14366,15020,pt:Acrelândia,http://www.prefeituradeacrelandia.com.br,-67.05231658,-10.0737938925,Acrelandia,,Rio Branco,Vale do Acre,120001,Rio Branco,1201,Rio Branco
+1200054,AC,326269,Q1754403,Assis Brasil,,6986,7300,pt:Assis Brasil,http://www.assisbrasil.ac.gov.br,-69.5634591747,-10.9428656809,Assis Brasil,,Brasiléia,Vale do Acre,120002,Brasiléia,1201,Rio Branco
+1200104,AC,326270,Q899406,Brasiléia,,24765,25848,pt:Brasiléia,https://www.brasileia.ac.gov.br,-68.747943426,-11.0164110191,Brasileia,,Brasiléia,Vale do Acre,120002,Brasiléia,1201,Rio Branco
+1200138,AC,326259,Q1754408,Bujari,,9664,10111,pt:Bujari,http://www.bujari.ac.gov.br,-67.9518592792,-9.8200196267,Bujari,,Rio Branco,Vale do Acre,120001,Rio Branco,1201,Rio Branco
+1200179,AC,326268,Q1800737,Capixaba,,11136,11456,pt:Capixaba (Acre),http://www.capixaba.ac.gov.br,-67.6735079719,-10.5697677088,Capixaba,,Rio Branco,Vale do Acre,120001,Rio Branco,1201,Rio Branco
+1200203,AC,326274,Q941136,Cruzeiro do Sul,,82622,87673,pt:Cruzeiro do Sul (Acre),https://www.cruzeirodosul.ac.gov.br,-72.6725313174,-7.630690005,Cruzeiro do Sul,,Cruzeiro do Sul,Vale do Juruá,120004,Cruzeiro do Sul,1202,Cruzeiro do Sul
+1200252,AC,326256,Q1755395,Epitaciolândia,,17340,18122,pt:Epitaciolândia,https://www.epitaciolandia.ac.gov.br,-68.7448680667,-11.028239828,Epitaciolandia,,Brasiléia,Vale do Acre,120002,Brasiléia,1201,Rio Branco
+1200302,AC,326258,Q1994833,Feijó,,32360,34675,pt:Feijó (Acre),http://www.feijo.ac.gov.br,-70.3539836082,-8.16024753,Feijo,,Tarauacá,Vale do Juruá,120005,Tarauacá,1202,Cruzeiro do Sul
+1200328,AC,326252,Q1800793,Jordão,,7858,8159,pt:Jordão (Acre),http://www.jordao.ac.gov.br,-71.9508751248,-9.1933578598,Jordao,,Tarauacá,Vale do Juruá,120005,Tarauacá,1202,Cruzeiro do Sul
+1200336,AC,326262,Q1772621,Mâncio Lima,,17910,18638,pt:Mâncio Lima,https://www.manciolima.ac.gov.br,-72.9165010261,-7.5932225939,Mancio Lima,,Cruzeiro do Sul,Vale do Juruá,120004,Cruzeiro do Sul,1202,Cruzeiro do Sul
+1200344,AC,326271,Q1772688,Manoel Urbano,,8886,9336,pt:Manoel Urbano,http://www.manoelurbano.ac.gov.br,-69.2599445775,-8.8363177369,Manoel Urbano,,Sena Madureira,Vale do Acre,120003,Sena Madureira,1201,Rio Branco
+1200351,AC,326257,Q1772613,Marechal Thaumaturgo,,17897,18430,pt:Marechal Thaumaturgo,http://www.marechalthaumaturgo.ac.gov.br,-72.7902659087,-8.9535911232,Marechal Thaumaturgo,,Cruzeiro do Sul,Vale do Juruá,120004,Cruzeiro do Sul,1202,Cruzeiro do Sul
+1200385,AC,326267,Q964075,Plácido de Castro,,18510,19565,pt:Plácido de Castro (Acre),http://www.placidodecastro.ac.gov.br,-67.1882600862,-10.3351332827,Placido de Castro,,Rio Branco,Vale do Acre,120001,Rio Branco,1201,Rio Branco
+1200393,AC,326264,Q1772588,Porto Walter,,11353,11720,pt:Porto Walter,http://www.portowalter.ac.gov.br,-72.7423339648,-8.2666663628,Porto Walter,,Cruzeiro do Sul,Vale do Juruá,120004,Cruzeiro do Sul,1202,Cruzeiro do Sul
+1200401,AC,326253,Q171612,Rio Branco,true,383443,401155,pt:Rio Branco,http://www.riobranco.ac.gov.br,-67.8105287004,-9.9782987527,Rio Branco,,Rio Branco,Vale do Acre,120001,Rio Branco,1201,Rio Branco
+1200427,AC,326254,Q1800776,Rodrigues Alves,,17945,18504,pt:Rodrigues Alves (Acre),https://www.rodriguesalves.ac.gov.br,-72.6478549142,-7.7336020337,Rodrigues Alves,,Cruzeiro do Sul,Vale do Juruá,120004,Cruzeiro do Sul,1202,Cruzeiro do Sul
+1200435,AC,326272,Q1772719,Santa Rosa do Purus,,6230,6362,pt:Santa Rosa do Purus,http://www.santarosadopurus.ac.gov.br,-70.4864968938,-9.4434065374,Santa Rosa do Purus,,Sena Madureira,Vale do Acre,120003,Sena Madureira,1201,Rio Branco
+1200450,AC,326261,Q771763,Senador Guiomard,,21552,22810,pt:Senador Guiomard,https://www.senadorguiomard.ac.gov.br,-67.74317236,-10.1481735862,Senador Guiomard,,Rio Branco,Vale do Acre,120001,Rio Branco,1201,Rio Branco
+1200500,AC,326263,Q1754389,Sena Madureira,,43139,45177,pt:Sena Madureira,https://www.senamadureira.ac.gov.br,-68.6556840617,-9.065339505,Sena Madureira,,Sena Madureira,Vale do Acre,120003,Sena Madureira,1201,Rio Branco
+1200609,AC,326255,Q979910,Tarauacá,,40024,41976,pt:Tarauacá,http://www.tarauaca.ac.gov.br,-70.7555010629,-8.1556685918,Tarauaca,,Tarauacá,Vale do Juruá,120005,Tarauacá,1202,Cruzeiro do Sul
+1200708,AC,326260,Q1012531,Xapuri,,18174,19048,pt:Xapuri,http://www.xapuri.ac.gov.br,-68.506294805,-10.6520719403,Xapuri,,Brasiléia,Vale do Acre,120002,Brasiléia,1201,Rio Branco
+1200807,AC,326265,Q1772602,Porto Acre,,17459,18180,pt:Porto Acre,http://www.portoacre.ac.gov.br,-67.5405900835,-9.6008582312,Porto Acre,,Rio Branco,Vale do Acre,120001,Rio Branco,1201,Rio Branco
 1300029,AM,332499,Q1808573,Alvarães,,15908,15860,pt:Alvarães (Amazonas),,-64.8135346776,-3.2165837691,Alvaraes,,Tefé,Centro Amazonense,130005,Tefé,1302,Tefé
 1300060,AM,332512,Q1772609,Amaturá,,11242,11332,pt:Amaturá,,-68.2096146409,-3.3668051875,Amatura,,Alto Solimões,Sudoeste Amazonense,130006,Tabatinga,1302,Tefé
 1300086,AM,332497,Q974915,Anamã,,12978,13269,pt:Anamã,,-61.4059034798,-3.5763704269,Anama,,Coari,Centro Amazonense,130004,Manacapuru,1301,Manaus
