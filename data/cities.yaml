@@ -1101,7 +1101,7 @@
     population_2017: 14366
     population_2018: 15020
     wikipedia_pt: pt:Acrelândia
-    website: http://www.prefeituradeacrelandia.com.br/
+    website: http://www.prefeituradeacrelandia.com.br
     lon: -67.05231658
     lat: -10.0737938925
     no_accents: Acrelandia
@@ -1122,7 +1122,7 @@
     population_2017: 6986
     population_2018: 7300
     wikipedia_pt: pt:Assis Brasil
-    website: http://www.assisbrasil.ac.gov.br/
+    website: http://www.assisbrasil.ac.gov.br
     lon: -69.5634591747
     lat: -10.9428656809
     no_accents: Assis Brasil
@@ -1143,7 +1143,7 @@
     population_2017: 24765
     population_2018: 25848
     wikipedia_pt: pt:Brasiléia
-    website: https://www.brasileia.ac.gov.br/
+    website: https://www.brasileia.ac.gov.br
     lon: -68.747943426
     lat: -11.0164110191
     no_accents: Brasileia
@@ -1164,7 +1164,7 @@
     population_2017: 9664
     population_2018: 10111
     wikipedia_pt: pt:Bujari
-    website: http://www.bujari.ac.gov.br/
+    website: http://www.bujari.ac.gov.br
     lon: -67.9518592792
     lat: -9.8200196267
     no_accents: Bujari
@@ -1185,7 +1185,7 @@
     population_2017: 11136
     population_2018: 11456
     wikipedia_pt: pt:Capixaba (Acre)
-    website: http://www.capixaba.ac.gov.br/
+    website: http://www.capixaba.ac.gov.br
     lon: -67.6735079719
     lat: -10.5697677088
     no_accents: Capixaba
@@ -1206,7 +1206,7 @@
     population_2017: 82622
     population_2018: 87673
     wikipedia_pt: pt:Cruzeiro do Sul (Acre)
-    website: https://www.cruzeirodosul.ac.gov.br/
+    website: https://www.cruzeirodosul.ac.gov.br
     lon: -72.6725313174
     lat: -7.630690005
     no_accents: Cruzeiro do Sul
@@ -1227,7 +1227,7 @@
     population_2017: 17340
     population_2018: 18122
     wikipedia_pt: pt:Epitaciolândia
-    website: https://www.epitaciolandia.ac.gov.br/
+    website: https://www.epitaciolandia.ac.gov.br
     lon: -68.7448680667
     lat: -11.028239828
     no_accents: Epitaciolandia
@@ -1248,7 +1248,7 @@
     population_2017: 32360
     population_2018: 34675
     wikipedia_pt: pt:Feijó (Acre)
-    website: http://www.feijo.ac.gov.br/
+    website: http://www.feijo.ac.gov.br
     lon: -70.3539836082
     lat: -8.16024753
     no_accents: Feijo
@@ -1269,7 +1269,7 @@
     population_2017: 7858
     population_2018: 8159
     wikipedia_pt: pt:Jordão (Acre)
-    website: http://www.jordao.ac.gov.br/
+    website: http://www.jordao.ac.gov.br
     lon: -71.9508751248
     lat: -9.1933578598
     no_accents: Jordao
@@ -1290,7 +1290,7 @@
     population_2017: 17910
     population_2018: 18638
     wikipedia_pt: pt:Mâncio Lima
-    website: https://www.manciolima.ac.gov.br/
+    website: https://www.manciolima.ac.gov.br
     lon: -72.9165010261
     lat: -7.5932225939
     no_accents: Mancio Lima
@@ -1311,7 +1311,7 @@
     population_2017: 8886
     population_2018: 9336
     wikipedia_pt: pt:Manoel Urbano
-    website: http://www.manoelurbano.ac.gov.br/
+    website: http://www.manoelurbano.ac.gov.br
     lon: -69.2599445775
     lat: -8.8363177369
     no_accents: Manoel Urbano
@@ -1332,7 +1332,7 @@
     population_2017: 17897
     population_2018: 18430
     wikipedia_pt: pt:Marechal Thaumaturgo
-    website: http://www.marechalthaumaturgo.ac.gov.br/
+    website: http://www.marechalthaumaturgo.ac.gov.br
     lon: -72.7902659087
     lat: -8.9535911232
     no_accents: Marechal Thaumaturgo
@@ -1353,7 +1353,7 @@
     population_2017: 18510
     population_2018: 19565
     wikipedia_pt: pt:Plácido de Castro (Acre)
-    website: http://www.placidodecastro.ac.gov.br/
+    website: http://www.placidodecastro.ac.gov.br
     lon: -67.1882600862
     lat: -10.3351332827
     no_accents: Placido de Castro
@@ -1374,7 +1374,7 @@
     population_2017: 11353
     population_2018: 11720
     wikipedia_pt: pt:Porto Walter
-    website: http://www.portowalter.ac.gov.br/
+    website: http://www.portowalter.ac.gov.br
     lon: -72.7423339648
     lat: -8.2666663628
     no_accents: Porto Walter
@@ -1395,7 +1395,7 @@
     population_2017: 383443
     population_2018: 401155
     wikipedia_pt: pt:Rio Branco
-    website: http://www.riobranco.ac.gov.br/
+    website: http://www.riobranco.ac.gov.br
     lon: -67.8105287004
     lat: -9.9782987527
     no_accents: Rio Branco
@@ -1416,7 +1416,7 @@
     population_2017: 17945
     population_2018: 18504
     wikipedia_pt: pt:Rodrigues Alves (Acre)
-    website: https://www.rodriguesalves.ac.gov.br/
+    website: https://www.rodriguesalves.ac.gov.br
     lon: -72.6478549142
     lat: -7.7336020337
     no_accents: Rodrigues Alves
@@ -1437,7 +1437,7 @@
     population_2017: 6230
     population_2018: 6362
     wikipedia_pt: pt:Santa Rosa do Purus
-    website: http://www.santarosadopurus.ac.gov.br/
+    website: http://www.santarosadopurus.ac.gov.br
     lon: -70.4864968938
     lat: -9.4434065374
     no_accents: Santa Rosa do Purus
@@ -1458,7 +1458,7 @@
     population_2017: 21552
     population_2018: 22810
     wikipedia_pt: pt:Senador Guiomard
-    website: https://www.senadorguiomard.ac.gov.br/
+    website: https://www.senadorguiomard.ac.gov.br
     lon: -67.74317236
     lat: -10.1481735862
     no_accents: Senador Guiomard
@@ -1479,7 +1479,7 @@
     population_2017: 43139
     population_2018: 45177
     wikipedia_pt: pt:Sena Madureira
-    website: https://www.senamadureira.ac.gov.br/
+    website: https://www.senamadureira.ac.gov.br
     lon: -68.6556840617
     lat: -9.065339505
     no_accents: Sena Madureira
@@ -1500,7 +1500,7 @@
     population_2017: 40024
     population_2018: 41976
     wikipedia_pt: pt:Tarauacá
-    website: http://www.tarauaca.ac.gov.br/
+    website: http://www.tarauaca.ac.gov.br
     lon: -70.7555010629
     lat: -8.1556685918
     no_accents: Tarauaca
@@ -1521,7 +1521,7 @@
     population_2017: 18174
     population_2018: 19048
     wikipedia_pt: pt:Xapuri
-    website: http://www.xapuri.ac.gov.br/
+    website: http://www.xapuri.ac.gov.br
     lon: -68.506294805
     lat: -10.6520719403
     no_accents: Xapuri
@@ -1542,7 +1542,7 @@
     population_2017: 17459
     population_2018: 18180
     wikipedia_pt: pt:Porto Acre
-    website: http://www.portoacre.ac.gov.br/
+    website: http://www.portoacre.ac.gov.br
     lon: -67.5405900835
     lat: -9.6008582312
     no_accents: Porto Acre
