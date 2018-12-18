@@ -13,7 +13,7 @@
     gentilic_alternative: acreano
     macroregion: Norte
     wikipedia_pt: pt:Acre
-    website: http://www.ac.gov.br/
+    website: http://www.ac.gov.br
     timezone: America/Rio_Branco
     flag_image: https://upload.wikimedia.org/wikipedia/commons/4/4c/Bandeira_do_Acre.svg
 -
@@ -30,7 +30,7 @@
     gentilic_alternative: 
     macroregion: Nordeste
     wikipedia_pt: pt:Alagoas
-    website: http://www.agenciaalagoas.al.gov.br/
+    website: http://www.agenciaalagoas.al.gov.br
     timezone: America/Maceio
     flag_image: https://upload.wikimedia.org/wikipedia/commons/8/88/Bandeira_de_Alagoas.svg
 -
@@ -47,7 +47,7 @@
     gentilic_alternative: 
     macroregion: Norte
     wikipedia_pt: pt:Amazonas
-    website: http://www.amazonas.am.gov.br/
+    website: http://www.amazonas.am.gov.br
     timezone: (Leste) America/Manaus, (Oeste) America/Eirunepe
     flag_image: https://upload.wikimedia.org/wikipedia/commons/6/6b/Bandeira_do_Amazonas.svg
 -
@@ -64,7 +64,7 @@
     gentilic_alternative: 
     macroregion: Norte
     wikipedia_pt: pt:Amapá
-    website: http://www.ap.gov.br/
+    website: http://www.ap.gov.br
     timezone: America/Belem
     flag_image: https://upload.wikimedia.org/wikipedia/commons/0/0c/Bandeira_do_Amap%C3%A1.svg
 -
@@ -81,7 +81,7 @@
     gentilic_alternative: 
     macroregion: Nordeste
     wikipedia_pt: pt:Bahia
-    website: http://www.ba.gov.br/
+    website: http://www.ba.gov.br
     timezone: America/Bahia
     flag_image: https://upload.wikimedia.org/wikipedia/commons/2/28/Bandeira_da_Bahia.svg
 -
@@ -98,7 +98,7 @@
     gentilic_alternative: 
     macroregion: Nordeste
     wikipedia_pt: pt:Ceará
-    website: http://www.ceara.gov.br/
+    website: http://www.ceara.gov.br
     timezone: America/Fortaleza
     flag_image: https://upload.wikimedia.org/wikipedia/commons/2/2e/Bandeira_do_Cear%C3%A1.svg
 -
@@ -115,7 +115,7 @@
     gentilic_alternative: 
     macroregion: Centro-Oeste
     wikipedia_pt: pt:Distrito Federal (Brasil)
-    website: http://www.df.gov.br/
+    website: http://www.df.gov.br
     timezone: America/Sao_Paulo
     flag_image: https://upload.wikimedia.org/wikipedia/commons/3/3c/Bandeira_do_Distrito_Federal_%28Brasil%29.svg
 -
@@ -132,7 +132,7 @@
     gentilic_alternative: espírito-santense
     macroregion: Sudeste
     wikipedia_pt: pt:Espírito Santo (estado)
-    website: http://www.es.gov.br/
+    website: http://www.es.gov.br
     timezone: America/Sao_Paulo
     flag_image: https://upload.wikimedia.org/wikipedia/commons/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg
 -
@@ -149,7 +149,7 @@
     gentilic_alternative: 
     macroregion: Centro-Oeste
     wikipedia_pt: pt:Goiás
-    website: http://www.goias.gov.br/
+    website: http://www.goias.gov.br
     timezone: America/Sao_Paulo
     flag_image: https://upload.wikimedia.org/wikipedia/commons/0/0e/Bandeira_de_Goi%C3%A1s.svg
 -
@@ -166,7 +166,7 @@
     gentilic_alternative: 
     macroregion: Nordeste
     wikipedia_pt: pt:Maranhão
-    website: http://www.ma.gov.br/
+    website: http://www.ma.gov.br
     timezone: America/Fortaleza
     flag_image: https://upload.wikimedia.org/wikipedia/commons/4/45/Bandeira_do_Maranh%C3%A3o.svg
 -
@@ -183,7 +183,7 @@
     gentilic_alternative: 
     macroregion: Sudeste
     wikipedia_pt: pt:Minas Gerais
-    website: http://www.mg.gov.br/
+    website: http://www.mg.gov.br
     timezone: America/Sao_Paulo
     flag_image: https://upload.wikimedia.org/wikipedia/commons/f/f4/Bandeira_de_Minas_Gerais.svg
 -
@@ -200,7 +200,7 @@
     gentilic_alternative: mato-grossense-do-sul
     macroregion: Centro-Oeste
     wikipedia_pt: pt:Mato Grosso do Sul
-    website: http://www.ms.gov.br/
+    website: http://www.ms.gov.br
     timezone: America/Campo_Grande
     flag_image: https://upload.wikimedia.org/wikipedia/commons/6/64/Bandeira_de_Mato_Grosso_do_Sul.svg
 -
@@ -217,7 +217,7 @@
     gentilic_alternative: 
     macroregion: Centro-Oeste
     wikipedia_pt: pt:Mato Grosso
-    website: http://www.mt.gov.br/
+    website: http://www.mt.gov.br
     timezone: America/Cuiaba
     flag_image: https://upload.wikimedia.org/wikipedia/commons/0/0b/Bandeira_de_Mato_Grosso.svg
 -
@@ -234,7 +234,7 @@
     gentilic_alternative: 
     macroregion: Norte
     wikipedia_pt: pt:Pará
-    website: http://www.pa.gov.br/
+    website: http://www.pa.gov.br
     timezone: America/Belem
     flag_image: https://upload.wikimedia.org/wikipedia/commons/0/02/Bandeira_do_Par%C3%A1.svg
 -
@@ -251,7 +251,7 @@
     gentilic_alternative: 
     macroregion: Nordeste
     wikipedia_pt: pt:Paraíba
-    website: http://www.paraiba.pb.gov.br/
+    website: http://www.paraiba.pb.gov.br
     timezone: America/Fortaleza
     flag_image: https://upload.wikimedia.org/wikipedia/commons/b/bb/Bandeira_da_Para%C3%ADba.svg
 -
@@ -268,7 +268,7 @@
     gentilic_alternative: 
     macroregion: Nordeste
     wikipedia_pt: pt:Pernambuco
-    website: http://www.pe.gov.br/
+    website: http://www.pe.gov.br
     timezone: America/Recife
     flag_image: https://upload.wikimedia.org/wikipedia/commons/5/59/Bandeira_de_Pernambuco.svg
 -
@@ -285,7 +285,7 @@
     gentilic_alternative: 
     macroregion: Nordeste
     wikipedia_pt: pt:Piauí
-    website: http://www.pi.gov.br/
+    website: http://www.pi.gov.br
     timezone: America/Fortaleza
     flag_image: https://upload.wikimedia.org/wikipedia/commons/3/33/Bandeira_do_Piau%C3%AD.svg
 -
@@ -302,7 +302,7 @@
     gentilic_alternative: 
     macroregion: Sul
     wikipedia_pt: pt:Paraná
-    website: http://www.pr.gov.br/
+    website: http://www.pr.gov.br
     timezone: America/Sao_Paulo
     flag_image: https://upload.wikimedia.org/wikipedia/commons/9/93/Bandeira_do_Paran%C3%A1.svg
 -
@@ -319,7 +319,7 @@
     gentilic_alternative: 
     macroregion: Sudeste
     wikipedia_pt: pt:Rio de Janeiro (estado)
-    website: http://www.rj.gov.br/
+    website: http://www.rj.gov.br
     timezone: America/Sao_Paulo
     flag_image: https://upload.wikimedia.org/wikipedia/commons/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg
 -
@@ -336,7 +336,7 @@
     gentilic_alternative: norte-rio-grandense
     macroregion: Nordeste
     wikipedia_pt: pt:Rio Grande do Norte
-    website: http://www.rn.gov.br/
+    website: http://www.rn.gov.br
     timezone: America/Fortaleza
     flag_image: https://upload.wikimedia.org/wikipedia/commons/3/30/Bandeira_do_Rio_Grande_do_Norte.svg
 -
@@ -353,7 +353,7 @@
     gentilic_alternative: rondoniense
     macroregion: Norte
     wikipedia_pt: pt:Rondônia
-    website: http://www.rondonia.ro.gov.br/
+    website: http://www.rondonia.ro.gov.br
     timezone: America/Porto_Velho
     flag_image: https://upload.wikimedia.org/wikipedia/commons/f/fa/Bandeira_de_Rond%C3%B4nia.svg
 -
@@ -387,7 +387,7 @@
     gentilic_alternative: sul-rio-grandense
     macroregion: Sul
     wikipedia_pt: pt:Rio Grande do Sul
-    website: http://www.rs.gov.br/
+    website: http://www.rs.gov.br
     timezone: America/Sao_Paulo
     flag_image: https://upload.wikimedia.org/wikipedia/commons/6/63/Bandeira_do_Rio_Grande_do_Sul.svg
 -
@@ -404,7 +404,7 @@
     gentilic_alternative: barriga-verde
     macroregion: Sul
     wikipedia_pt: pt:Santa Catarina
-    website: http://www.sc.gov.br/
+    website: http://www.sc.gov.br
     timezone: America/Sao_Paulo
     flag_image: https://upload.wikimedia.org/wikipedia/commons/1/1a/Bandeira_de_Santa_Catarina.svg
 -
@@ -421,7 +421,7 @@
     gentilic_alternative: sergipense
     macroregion: Nordeste
     wikipedia_pt: pt:Sergipe
-    website: http://www.se.gov.br/
+    website: http://www.se.gov.br
     timezone: America/Maceio
     flag_image: https://upload.wikimedia.org/wikipedia/commons/b/be/Bandeira_de_Sergipe.svg
 -
@@ -438,7 +438,7 @@
     gentilic_alternative: 
     macroregion: Sudeste
     wikipedia_pt: pt:São Paulo (estado)
-    website: http://www.sp.gov.br/
+    website: http://www.sp.gov.br
     timezone: America/Sao_Paulo
     flag_image: https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg
 -
@@ -455,6 +455,6 @@
     gentilic_alternative: 
     macroregion: Norte
     wikipedia_pt: pt:Tocantins
-    website: http://www.to.gov.br/
+    website: http://www.to.gov.br
     timezone: America/Araguaina
     flag_image: https://upload.wikimedia.org/wikipedia/commons/f/ff/Bandeira_do_Tocantins.svg
