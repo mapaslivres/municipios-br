@@ -4310,301 +4310,301 @@ ibge_code,state_code,osm_relation_id,wikidata_id,name,is_capital,population_2017
 4128658,PR,297582,Q522096,Virmond,,4095,4023,pt:Virmond,,-52.2025433047,-25.3787659851,Virmond,,Guarapuava,Centro-Sul Paranaense,410011,Laranjeiras do Sul - Quedas do Iguaçu,4103,Cascavel
 4128708,PR,297608,Q2004576,Vitorino,,6878,6817,pt:Vitorino (Paraná),,-52.7770814458,-26.2643442874,Vitorino,,Pato Branco,Sudoeste Paranaense,410010,Pato Branco,4103,Cascavel
 4128807,PR,297551,Q2003811,Xambrê,,5957,5728,pt:Xambrê,,-53.4869406946,-23.7383943961,Xambre,,Umuarama,Noroeste Paranaense,410016,Umuarama,4104,Maringá
-4200051,SC,296665,Q1637414,Abdon Batista,,2604,2577,pt:Abdon Batista (Santa Catarina),,-51.025272211,-27.6089871233,Abdon Batista,,Curitibanos,Serrana,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
-4200101,SC,296601,Q1637506,Abelardo Luz,,17847,17847,pt:Abelardo Luz,,-52.3364823833,-26.5630310224,Abelardo Luz,,Xanxerê,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
-4200200,SC,296768,Q397387,Agrolândia,,10581,10711,pt:Agrolândia,,-49.8256533877,-27.400516588,Agrolandia,,Ituporanga,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
-4200309,SC,296564,Q1754594,Agronômica,,5437,5385,pt:Agronômica,,-49.7183688908,-27.2697161071,Agronomica,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
-4200408,SC,296621,Q1750762,Água Doce,,7154,7138,pt:Água Doce,,-51.5590965553,-27.0040916589,Agua Doce,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
-4200507,SC,296580,Q1750761,Águas de Chapecó,,6445,6455,pt:Águas de Chapecó,,-52.9872510057,-27.0762129125,Aguas de Chapeco,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4200556,SC,296574,Q1796824,Águas Frias,,2387,2378,pt:Águas Frias (Santa Catarina),,-52.8594194494,-26.880227543,Aguas Frias,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4200606,SC,296576,Q249844,Águas Mornas,,6298,6378,pt:Águas Mornas,,-48.8405384028,-27.7065971917,Aguas Mornas,,Tabuleiro,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
-4200705,SC,296694,Q1754557,Alfredo Wagner,,9960,9984,pt:Alfredo Wagner,,-49.3438123012,-27.705396332,Alfredo Wagner,,Tabuleiro,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
-4200754,SC,296615,Q1758023,Alto Bela Vista,,1967,1948,pt:Alto Bela Vista,,-51.9110368541,-27.4311378753,Alto Bela Vista,,Concórdia,Oeste Catarinense,420010,Concórdia,4204,Chapecó
-4200804,SC,296772,Q1935710,Anchieta,,5832,5721,pt:Anchieta (Santa Catarina),,-53.3332701772,-26.5356808607,Anchieta,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
-4200903,SC,296758,Q22063988,Angelina,,4943,4860,pt:Angelina (Santa Catarina),,-48.9834760642,-27.5822573521,Angelina,,Tijucas,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
-4201000,SC,296645,Q617657,Anita Garibaldi,,7537,7313,pt:Anita Garibaldi (Santa Catarina),,-51.1311938713,-27.6837772901,Anita Garibaldi,,Campos de Lages,Serrana,420005,Lages,4203,Lages
-4201109,SC,296583,Q22063986,Anitápolis,,3248,3236,pt:Anitápolis,,-49.1315993662,-27.9098868973,Anitapolis,,Tabuleiro,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
-4201208,SC,296793,Q22063985,Antônio Carlos,,8327,8411,pt:Antônio Carlos (Santa Catarina),,-48.7649600268,-27.5133710516,Antonio Carlos,,Florianópolis,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
-4201257,SC,296690,Q1758008,Apiúna,,10542,10636,pt:Apiúna,,-49.3916376288,-27.0418125981,Apiuna,,Blumenau,Vale do Itajaí,420019,Blumenau,4207,Blumenau
-4201273,SC,296603,Q374753,Arabutã,,4281,4266,pt:Arabutã,,-52.1485992607,-27.1574036959,Arabuta,,Concórdia,Oeste Catarinense,420010,Concórdia,4204,Chapecó
-4201307,SC,296537,Q607184,Araquari,,35268,36710,pt:Araquari,,-48.6927074119,-26.3759515541,Araquari,,Joinville,Norte Catarinense,420016,Joinville,4206,Joinville
-4201406,SC,296568,Q626231,Araranguá,,67110,67578,pt:Araranguá,,-49.4809665236,-28.9357520142,Ararangua,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
-4201505,SC,296678,Q1764990,Armazém,,8520,8587,pt:Armazém (Santa Catarina),,-49.0129110848,-28.2587054679,Armazem,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
-4201604,SC,296552,Q1758088,Arroio Trinta,,3564,3551,pt:Arroio Trinta,,-51.3341239239,-26.9325648567,Arroio Trinta,,Joaçaba,Oeste Catarinense,420015,Videira,4205,Caçador
-4201653,SC,296618,Q1758063,Arvoredo,,2261,2246,pt:Arvoredo,,-52.4577888412,-27.0735335582,Arvoredo,,Concórdia,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4201703,SC,296640,Q1758057,Ascurra,,7877,7889,pt:Ascurra,,-49.3863634278,-26.9547758425,Ascurra,,Blumenau,Vale do Itajaí,420019,Blumenau,4207,Blumenau
-4201802,SC,296780,Q1815704,Atalanta,,3254,3226,pt:Atalanta,,-49.7794566741,-27.4205360018,Atalanta,,Ituporanga,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
-4201901,SC,296577,Q2012016,Aurora,,5688,5676,pt:Aurora (Santa Catarina),,-49.6436279075,-27.2990294946,Aurora,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
-4201950,SC,296681,Q1758002,Balneário Arroio do Silva,,12344,12705,pt:Balneário Arroio do Silva,,-49.4057027991,-28.9804024548,Balneario Arroio do Silva,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
-4202008,SC,296508,Q598016,Balneário Camboriú,,135268,138732,pt:Balneário Camboriú,,-48.634617477,-26.9918186053,Balneario Camboriu,,Itajaí,Vale do Itajaí,420020,Itajaí,4207,Blumenau
-4202057,SC,296708,Q1764948,Balneário Barra do Sul,,10317,10550,pt:Balneário Barra do Sul,,-48.606645876,-26.4564295671,Balneario Barra do Sul,,Joinville,Norte Catarinense,420016,Joinville,4206,Joinville
-4202073,SC,296739,Q1757752,Balneário Gaivota,,10413,10692,pt:Balneário Gaivota,,-49.5908937824,-29.1645212685,Balneario Gaivota,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
-4202081,SC,296776,Q941669,Bandeirante,,2751,2708,pt:Bandeirante (Santa Catarina),,-53.6410495866,-26.7689379013,Bandeirante,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
-4202099,SC,296658,Q1815639,Barra Bonita,,1739,1704,pt:Barra Bonita (Santa Catarina),,-53.4413025406,-26.6522935999,Barra Bonita,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
-4202107,SC,296738,Q808787,Barra Velha,,27781,28463,pt:Barra Velha,,-48.6838642743,-26.6343614083,Barra Velha,,Itajaí,Vale do Itajaí,420020,Itajaí,4207,Blumenau
-4202131,SC,296736,Q1765028,Bela Vista do Toldo,,6304,6311,pt:Bela Vista do Toldo,,-50.4647882385,-26.2762282783,Bela Vista do Toldo,,Canoinhas,Norte Catarinense,420017,Mafra,4206,Joinville
-4202156,SC,296595,Q1799364,Belmonte,,2709,2703,pt:Belmonte (Santa Catarina),,-53.5809772315,-26.8445863475,Belmonte,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
-4202206,SC,296740,Q817098,Benedito Novo,,11425,11526,pt:Benedito Novo,,-49.3644027494,-26.777507569,Benedito Novo,,Blumenau,Vale do Itajaí,420019,Blumenau,4207,Blumenau
-4202305,SC,296705,Q1754582,Biguaçu,,66558,67458,pt:Biguaçu,,-48.654488929,-27.4943227435,Biguacu,,Florianópolis,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
-4202404,SC,296522,Q155557,Blumenau,,348513,352460,pt:Blumenau,,-49.0576308844,-26.9161077053,Blumenau,,Blumenau,Vale do Itajaí,420019,Blumenau,4207,Blumenau
-4202438,SC,296754,Q1750759,Bocaina do Sul,,3456,3460,pt:Bocaina do Sul,,-49.9458979108,-27.7431983069,Bocaina do Sul,,Campos de Lages,Serrana,420005,Lages,4203,Lages
-4202453,SC,296743,Q891934,Bombinhas,,18623,19193,pt:Bombinhas,,-48.5213451348,-27.1442546993,Bombinhas,,Itajaí,Vale do Itajaí,420020,Itajaí,4207,Blumenau
-4202503,SC,296777,Q939572,Bom Jardim da Serra,,4694,4712,pt:Bom Jardim da Serra,,-49.6249777453,-28.337947191,Bom Jardim da Serra,,Campos de Lages,Serrana,420005,Lages,4203,Lages
-4202537,SC,296745,Q769692,Bom Jesus,,2919,2961,pt:Bom Jesus (Santa Catarina),,-52.3930159598,-26.7359234356,Bom Jesus,,Xanxerê,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
-4202578,SC,296770,Q616028,Bom Jesus do Oeste,,2151,2146,pt:Bom Jesus do Oeste,,-53.0953502802,-26.6918115546,Bom Jesus do Oeste,,Chapecó,Oeste Catarinense,420012,Maravilha,4204,Chapecó
-4202602,SC,296507,Q891740,Bom Retiro,,9796,9870,pt:Bom Retiro,,-49.4898337661,-27.7986710014,Bom Retiro,,Campos de Lages,Serrana,420005,Lages,4203,Lages
-4202701,SC,296619,Q894929,Botuverá,,5100,5169,pt:Botuverá,,-49.0784843619,-27.2021068612,Botuvera,,Blumenau,Vale do Itajaí,420021,Brusque,4207,Blumenau
-4202800,SC,296579,Q903373,Braço do Norte,,32648,33016,pt:Braço do Norte,,-49.1645477089,-28.2800388673,Braco do Norte,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
-4202859,SC,296652,Q1784745,Braço do Trombudo,,3709,3718,pt:Braço do Trombudo,,-49.890907936,-27.3642513451,Braco do Trombudo,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
-4202875,SC,296734,Q1765062,Brunópolis,,2539,2473,pt:Brunópolis,,-50.835920772,-27.3183621508,Brunopolis,,Curitibanos,Serrana,420006,Curitibanos,4203,Lages
-4202909,SC,296588,Q329488,Brusque,,128818,131703,pt:Brusque,,-48.9151630055,-27.0983102262,Brusque,,Blumenau,Vale do Itajaí,420021,Brusque,4207,Blumenau
-4203006,SC,296548,Q986540,Caçador,,77323,77863,pt:Caçador,,-51.019034759,-26.7753476727,Cacador,,Joaçaba,Oeste Catarinense,420014,Caçador,4205,Caçador
-4203105,SC,296539,Q1758966,Caibi,,6213,6167,pt:Caibi,,-53.2505271956,-27.0730539326,Caibi,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4203154,SC,296695,Q1784723,Calmon,,3380,3357,pt:Calmon,,-51.0966349046,-26.6046771771,Calmon,,Joaçaba,Oeste Catarinense,420014,Caçador,4205,Caçador
-4203204,SC,296661,Q744097,Camboriú,,78731,80834,pt:Camboriú,,-48.6499958521,-27.0264564992,Camboriu,,Itajaí,Vale do Itajaí,420020,Itajaí,4207,Blumenau
-4203253,SC,296761,Q1112283,Capão Alto,,2597,2556,pt:Capão Alto,,-50.5114792926,-27.9416852818,Capao Alto,,Campos de Lages,Serrana,420005,Lages,4203,Lages
-4203303,SC,296792,Q2087030,Campo Alegre,,12012,11974,pt:Campo Alegre (Santa Catarina),,-49.2633444821,-26.1906592825,Campo Alegre,,São Bento do Sul,Norte Catarinense,420018,São Bento do Sul - Rio Negrinho,4206,Joinville
-4203402,SC,296671,Q1765051,Campo Belo do Sul,,7177,7081,pt:Campo Belo do Sul,,-50.7619937519,-27.8966573873,Campo Belo do Sul,,Campos de Lages,Serrana,420005,Lages,4203,Lages
-4203501,SC,296712,Q1757768,Campo Erê,,8787,8636,pt:Campo Erê,,-53.0901551703,-26.394551141,Campo Ere,,Chapecó,Oeste Catarinense,420013,São Lourenço do Oeste,4204,Chapecó
-4203600,SC,296597,Q1764972,Campos Novos,,35710,35930,pt:Campos Novos,,-51.2236729932,-27.3990529792,Campos Novos,,Curitibanos,Serrana,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
-4203709,SC,296641,Q957908,Canelinha,,11944,12080,pt:Canelinha,,-48.7892731277,-27.2724147946,Canelinha,,Tijucas,Grande Florianópolis,420021,Brusque,4207,Blumenau
-4203808,SC,296668,Q1799304,Canoinhas,,54403,54319,pt:Canoinhas,,-50.3978487119,-26.1788070143,Canoinhas,,Canoinhas,Norte Catarinense,420017,Mafra,4206,Joinville
-4203907,SC,296724,Q780452,Capinzal,,22524,22658,pt:Capinzal,,-51.6113627552,-27.3442784642,Capinzal,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
-4203956,SC,296787,Q1750765,Capivari de Baixo,,24298,24559,pt:Capivari de Baixo,,-48.9605750681,-28.4490455118,Capivari de Baixo,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
-4204004,SC,296521,Q2087108,Catanduvas,,10632,10735,pt:Catanduvas (Santa Catarina),,-51.6589480986,-27.0720352216,Catanduvas,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
-4204103,SC,296702,Q1758980,Caxambu do Sul,,3850,3735,pt:Caxambu do Sul,,-52.8804748929,-27.1612817849,Caxambu do Sul,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4204152,SC,296673,Q1750758,Celso Ramos,,2760,2738,pt:Celso Ramos (Santa Catarina),,-51.3359938248,-27.6347386054,Celso Ramos,,Campos de Lages,Serrana,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
-4204178,SC,296709,Q1799348,Cerro Negro,,3254,3181,pt:Cerro Negro,,-50.8700622647,-27.7958280677,Cerro Negro,,Campos de Lages,Serrana,420005,Lages,4203,Lages
-4204194,SC,296703,Q1784522,Chapadão do Lageado,,2953,2969,pt:Chapadão do Lageado,,-49.5443259549,-27.5852982512,Chapadao do Lageado,,Ituporanga,Vale do Itajaí,420024,Ituporanga,4207,Blumenau
-4204202,SC,296501,Q817387,Chapecó,,213279,216654,pt:Chapecó,,-52.6170311134,-27.1068370215,Chapeco,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4204251,SC,296639,Q1765012,Cocal do Sul,,16446,16544,pt:Cocal do Sul,,-49.3271287199,-28.6030228653,Cocal do Sul,,Criciúma,Sul Catarinense,420002,Criciúma,4202,Criciúma
-4204301,SC,296692,Q749798,Concórdia,,73766,74106,pt:Concórdia,,-52.0239710697,-27.2336587801,Concordia,,Concórdia,Oeste Catarinense,420010,Concórdia,4204,Chapecó
-4204350,SC,296514,Q1758999,Cordilheira Alta,,4321,4385,pt:Cordilheira Alta,,-52.6032512708,-26.9850812923,Cordilheira Alta,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4204400,SC,296638,Q1758946,Coronel Freitas,,10130,10022,pt:Coronel Freitas,,-52.7091514565,-26.9032514118,Coronel Freitas,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4204459,SC,296546,Q1784467,Coronel Martins,,2548,2544,pt:Coronel Martins,,-52.6696992888,-26.5116375953,Coronel Martins,,Xanxerê,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
-4204509,SC,296779,Q1020408,Corupá,,15541,15709,pt:Corupá,,-49.226737,-26.4319663158,Corupa,,Joinville,Norte Catarinense,420016,Joinville,4206,Joinville
-4204558,SC,296686,Q1764914,Correia Pinto,,13358,13040,pt:Correia Pinto,,-50.3637605546,-27.584808345,Correia Pinto,,Campos de Lages,Serrana,420005,Lages,4203,Lages
-4204608,SC,296527,Q1439157,Criciúma,,211369,213023,pt:Criciúma,,-49.3659395588,-28.6735722527,Criciuma,,Criciúma,Sul Catarinense,420002,Criciúma,4202,Criciúma
-4204707,SC,296530,Q1758938,Cunha Porã,,11057,11053,pt:Cunha Porã,,-53.173845572,-26.8917270825,Cunha Pora,,Chapecó,Oeste Catarinense,420012,Maravilha,4204,Chapecó
-4204756,SC,296627,Q1759005,Cunhataí,,1955,1957,pt:Cunhataí,,-53.0932904926,-26.9731396983,Cunhatai,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4204806,SC,296515,Q1765072,Curitibanos,,39566,39595,pt:Curitibanos,,-50.5826010353,-27.2829825065,Curitibanos,,Curitibanos,Serrana,420006,Curitibanos,4203,Lages
-4204905,SC,296672,Q1784557,Descanso,,8399,8308,pt:Descanso,,-53.5046288706,-26.817870221,Descanso,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
-4205001,SC,296607,Q1757773,Dionísio Cerqueira,,15450,15450,pt:Dionísio Cerqueira (Santa Catarina),,-53.6313951228,-26.2664885337,Dionisio Cerqueira,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
-4205100,SC,296693,Q986564,Dona Emma,,4081,4105,pt:Dona Emma,,-49.7168977451,-26.9863006137,Dona Emma,,Rio do Sul,Vale do Itajaí,420023,Ibirama - Presidente Getúlio,4207,Blumenau
-4205159,SC,296622,Q1784602,Doutor Pedrinho,,4043,4013,pt:Doutor Pedrinho,,-49.4792933619,-26.7204609555,Doutor Pedrinho,,Blumenau,Vale do Itajaí,420019,Blumenau,4207,Blumenau
-4205175,SC,296547,Q1815627,Entre Rios,,3183,3189,pt:Entre Rios (Santa Catarina),,-52.5625339678,-26.7236210953,Entre Rios,,Xanxerê,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
-4205191,SC,296560,Q1815677,Ermo,,2076,2066,pt:Ermo,,-49.6434049775,-28.9850817923,Ermo,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
-4205209,SC,296599,Q927128,Erval Velho,,4480,4407,pt:Erval Velho,,-51.4434329044,-27.2738954846,Erval Velho,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
-4205308,SC,296578,Q1799399,Faxinal dos Guedes,,10745,10686,pt:Faxinal dos Guedes,,-52.2714153987,-26.8597867214,Faxinal dos Guedes,,Xanxerê,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
-4205357,SC,296503,Q1758986,Flor do Sertão,,1594,1586,pt:Flor do Sertão,,-53.3448914355,-26.7794323288,Flor do Sertao,,Chapecó,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
-4205407,SC,296561,Q132997,Florianópolis,true,485838,492977,pt:Florianópolis,,-48.5476373782,-27.5877955486,Florianopolis,,Florianópolis,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
-4205431,SC,296504,Q1759017,Formosa do Sul,,2549,2525,pt:Formosa do Sul,,-52.7934500253,-26.6485233783,Formosa do Sul,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4205456,SC,296602,Q1784729,Forquilhinha,,25988,26368,pt:Forquilhinha,,-49.4688610534,-28.7424153509,Forquilhinha,,Criciúma,Sul Catarinense,420002,Criciúma,4202,Criciúma
-4205506,SC,296730,Q543046,Fraiburgo,,36261,36299,pt:Fraiburgo,,-50.9250792352,-27.0234469627,Fraiburgo,,Joaçaba,Oeste Catarinense,420015,Videira,4205,Caçador
-4205555,SC,296532,Q1765020,Frei Rogério,,2146,2077,pt:Frei Rogério,,-50.8064082491,-27.1747514992,Frei Rogerio,,Curitibanos,Serrana,420006,Curitibanos,4203,Lages
-4205605,SC,296614,Q1784498,Galvão,,3058,2956,pt:Galvão (Santa Catarina),,-52.6820020756,-26.4554762384,Galvao,,Xanxerê,Oeste Catarinense,420013,São Lourenço do Oeste,4204,Chapecó
-4205704,SC,296684,Q612191,Garopaba,,22082,22568,pt:Garopaba,,-48.6125566829,-28.0208959348,Garopaba,,Tubarão,Sul Catarinense,420001,Florianópolis,4201,Florianópolis
-4205803,SC,296591,Q1784623,Garuva,,17479,17800,pt:Garuva,,-48.8498418594,-26.0220755061,Garuva,,Joinville,Norte Catarinense,420016,Joinville,4206,Joinville
-4205902,SC,296767,Q856583,Gaspar,,67392,68465,pt:Gaspar,,-48.9677065681,-26.9183685142,Gaspar,,Blumenau,Vale do Itajaí,420019,Blumenau,4207,Blumenau
-4206009,SC,296600,Q1765043,Governador Celso Ramos,,14229,14333,pt:Governador Celso Ramos,,-48.5781665645,-27.3186459075,Governador Celso Ramos,,Florianópolis,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
-4206108,SC,296725,Q1764998,Grão Pará,,6537,6542,pt:Grão-Pará (cidade),,-49.2199960405,-28.1839865262,Grao Para,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
-4206207,SC,296646,Q1764929,Gravatal,,11394,11423,pt:Gravatal,,-49.0394702582,-28.3291307178,Gravatal,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
-4206306,SC,296698,Q1758034,Guabiruba,,22732,23272,pt:Guabiruba,,-48.983560448,-27.0603252393,Guabiruba,,Blumenau,Vale do Itajaí,420021,Brusque,4207,Blumenau
-4206405,SC,296540,Q1799361,Guaraciaba,,10259,10154,pt:Guaraciaba (Santa Catarina),,-53.5220897182,-26.6003475708,Guaraciaba,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
-4206504,SC,296785,Q1799377,Guaramirim,,42872,43822,pt:Guaramirim,,-48.9921042659,-26.4744451283,Guaramirim,,Joinville,Norte Catarinense,420016,Joinville,4206,Joinville
-4206603,SC,296513,Q986566,Guarujá do Sul,,5139,5141,pt:Guarujá do Sul,,-53.5254451083,-26.384920604,Guaruja do Sul,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
-4206652,SC,296647,Q1784804,Guatambú,,4733,4710,pt:Guatambu,,-52.7838401343,-27.1369108659,Guatambu,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4206702,SC,296649,Q1784481,Herval d'Oeste,,22443,22495,pt:Herval d'Oeste,,-51.4962153103,-27.1703031847,Herval d'Oeste,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
-4206751,SC,296747,Q1784512,Ibiam,,1967,1959,pt:Ibiam,,-51.2394276983,-27.1805834764,Ibiam,,Joaçaba,Oeste Catarinense,420015,Videira,4205,Caçador
-4206801,SC,296716,Q1799339,Ibicaré,,3268,3227,pt:Ibicaré,,-51.368450262,-27.0915490161,Ibicare,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
-4206900,SC,296728,Q747403,Ibirama,,18721,18802,pt:Ibirama,,-49.5220277592,-27.0535408849,Ibirama,,Rio do Sul,Vale do Itajaí,420023,Ibirama - Presidente Getúlio,4207,Blumenau
-4207007,SC,296752,Q1764963,Içara,,54845,55581,pt:Içara,,-49.3008225783,-28.7070840092,Icara,,Criciúma,Sul Catarinense,420002,Criciúma,4202,Criciúma
-4207106,SC,296786,Q1799373,Ilhota,,13857,14005,pt:Ilhota,,-48.8250140064,-26.9046251832,Ilhota,,Itajaí,Vale do Itajaí,420019,Blumenau,4207,Blumenau
-4207205,SC,296596,Q1750764,Imaruí,,10571,10326,pt:Imaruí,,-48.8146717195,-28.3438499095,Imarui,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
-4207304,SC,296691,Q986545,Imbituba,,44076,44412,pt:Imbituba,,-48.6692841969,-28.239951114,Imbituba,,Tubarão,Sul Catarinense,420001,Florianópolis,4201,Florianópolis
-4207403,SC,296791,Q1815721,Imbuia,,6133,6153,pt:Imbuia (Santa Catarina),,-49.427729345,-27.4946042536,Imbuia,,Ituporanga,Vale do Itajaí,420024,Ituporanga,4207,Blumenau
-4207502,SC,296781,Q1784570,Indaial,,66497,67923,pt:Indaial,,-49.24014046,-26.9062559992,Indaial,,Blumenau,Vale do Itajaí,420019,Blumenau,4207,Blumenau
-4207577,SC,296670,Q1784584,Iomerê,,2917,2927,pt:Iomerê,,-51.2406190979,-27.0010780508,Iomere,,Joaçaba,Oeste Catarinense,420015,Videira,4205,Caçador
-4207601,SC,296545,Q968703,Ipira,,4562,4486,pt:Ipira,,-51.7708536189,-27.4097088482,Ipira,,Concórdia,Oeste Catarinense,420010,Concórdia,4204,Chapecó
-4207650,SC,296765,Q1757758,Iporã do Oeste,,8930,8945,pt:Iporã do Oeste,,-53.5395118843,-26.9960166793,Ipora do Oeste,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
-4207684,SC,296624,Q647194,Ipuaçu,,7400,7448,pt:Ipuaçu,,-52.4542969118,-26.6325600977,Ipuacu,,Xanxerê,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
-4207700,SC,296659,Q1758047,Ipumirim,,7561,7565,pt:Ipumirim,,-52.1405408668,-27.0683263638,Ipumirim,,Concórdia,Oeste Catarinense,420010,Concórdia,4204,Chapecó
-4207759,SC,296788,Q1758989,Iraceminha,,4067,4015,pt:Iraceminha,,-53.276057794,-26.8240650316,Iraceminha,,Chapecó,Oeste Catarinense,420012,Maravilha,4204,Chapecó
-4207809,SC,296729,Q732916,Irani,,10285,10339,pt:Irani,,-51.904107924,-27.0161866891,Irani,,Concórdia,Oeste Catarinense,420010,Concórdia,4204,Chapecó
-4207858,SC,296676,Q767579,Irati,,1984,1952,pt:Irati (Santa Catarina),,-52.8950113563,-26.6572269448,Irati,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4207908,SC,296572,Q1784615,Irineópolis,,11133,11155,pt:Irineópolis,,-50.8039000498,-26.2366129371,Irineopolis,,Canoinhas,Norte Catarinense,420017,Mafra,4206,Joinville
-4208005,SC,296635,Q1774437,Itá,,6275,6209,pt:Itá (Santa Catarina),,-52.3291825163,-27.2817787175,Ita,,Concórdia,Oeste Catarinense,420010,Concórdia,4204,Chapecó
-4208104,SC,296613,Q1796811,Itaiópolis,,21506,21556,pt:Itaiópolis,,-49.9087562022,-26.3371264112,Itaiopolis,,Canoinhas,Norte Catarinense,420017,Mafra,4206,Joinville
-4208203,SC,296666,Q842713,Itajaí,,212615,215895,pt:Itajaí,,-48.6570232083,-26.9074262398,Itajai,,Itajaí,Vale do Itajaí,420020,Itajaí,4207,Blumenau
-4208302,SC,296608,Q1750776,Itapema,,61187,63250,pt:Itapema,,-48.6173993861,-27.0959378837,Itapema,,Itajaí,Vale do Itajaí,420020,Itajaí,4207,Blumenau
-4208401,SC,296511,Q595033,Itapiranga,,16683,16736,pt:Itapiranga (Santa Catarina),,-53.7148020649,-27.1753750895,Itapiranga,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
-4208450,SC,296679,Q1758956,Itapoá,,19355,19963,pt:Itapoá,,-48.6041676071,-26.006047887,Itapoa,,Joinville,Norte Catarinense,420016,Joinville,4206,Joinville
-4208500,SC,296604,Q1758267,Ituporanga,,24622,24812,pt:Ituporanga,,-49.6034147011,-27.4148584907,Ituporanga,,Ituporanga,Vale do Itajaí,420024,Ituporanga,4207,Blumenau
-4208609,SC,296722,Q612795,Jaborá,,3990,3955,pt:Jaborá,,-51.743353839,-27.1728530869,Jabora,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
-4208708,SC,296589,Q1799312,Jacinto Machado,,10539,10457,pt:Jacinto Machado,,-49.7617686564,-29.0014186138,Jacinto Machado,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
-4208807,SC,296710,Q1764984,Jaguaruna,,19527,19755,pt:Jaguaruna,,-49.0491289861,-28.6249636892,Jaguaruna,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
-4208906,SC,296625,Q849584,Jaraguá do Sul,,170835,174158,pt:Jaraguá do Sul,,-49.0762988228,-26.4904843494,Jaragua do Sul,,Joinville,Norte Catarinense,420016,Joinville,4206,Joinville
-4208955,SC,296566,Q1815648,Jardinópolis,,1625,1595,pt:Jardinópolis (Santa Catarina),,-52.858899256,-26.7205694035,Jardinopolis,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4209003,SC,296753,Q1758467,Joaçaba,,29608,29827,pt:Joaçaba,,-51.5066897333,-27.1739445292,Joacaba,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
-4209102,SC,296650,Q156819,Joinville,,577077,583144,pt:Joinville,,-48.8494091432,-26.3045176487,Joinville,,Joinville,Norte Catarinense,420016,Joinville,4206,Joinville
-4209151,SC,296519,Q1784463,José Boiteux,,4887,4985,pt:José Boiteux,,-49.6238066865,-26.9546826166,Jose Boiteux,,Rio do Sul,Vale do Itajaí,420023,Ibirama - Presidente Getúlio,4207,Blumenau
-4209177,SC,296586,Q664255,Jupiá,,2127,2110,pt:Jupiá,,-52.7343805408,-26.393702818,Jupia,,Xanxerê,Oeste Catarinense,420013,São Lourenço do Oeste,4204,Chapecó
-4209201,SC,296773,Q1799404,Lacerdópolis,,2251,2245,pt:Lacerdópolis,,-51.5628663691,-27.2646000912,Lacerdopolis,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
-4209300,SC,296771,Q762009,Lages,,158508,157743,pt:Lages,,-50.3302224242,-27.8172594631,Lages,,Campos de Lages,Serrana,420005,Lages,4203,Lages
-4209409,SC,296721,Q1615291,Laguna,,45311,45500,pt:Laguna (Santa Catarina),,-48.7813886218,-28.4835859539,Laguna,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
-4209458,SC,593770,Q1784377,Lajeado Grande,,1453,1437,pt:Lajeado Grande,,-52.5660348495,-26.8609423456,Lajeado Grande,,Xanxerê,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4209508,SC,296554,Q1784534,Laurentino,,6790,6875,pt:Laurentino,,-49.755263661,-27.2123881016,Laurentino,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
-4209607,SC,296699,Q651077,Lauro Müller,,15149,15174,pt:Lauro Müller (Santa Catarina),,-49.3943072672,-28.3935851653,Lauro Muller,,Criciúma,Sul Catarinense,420002,Criciúma,4202,Criciúma
-4209706,SC,296616,Q1799343,Lebon Régis,,12133,12099,pt:Lebon Régis,,-50.6918278644,-26.9291140112,Lebon Regis,,Joaçaba,Oeste Catarinense,420014,Caçador,4205,Caçador
-4209805,SC,296536,Q1765068,Leoberto Leal,,3140,3083,pt:Leoberto Leal (Santa Catarina),,-49.289401499,-27.5063895157,Leoberto Leal,,Tijucas,Grande Florianópolis,420024,Ituporanga,4207,Blumenau
-4209854,SC,296735,Q1757818,Lindóia do Sul,,4615,4580,pt:Lindóia do Sul,,-52.0809226442,-27.0474644815,Lindoia do Sul,,Concórdia,Oeste Catarinense,420010,Concórdia,4204,Chapecó
-4209904,SC,296523,Q1784684,Lontras,,11774,11942,pt:Lontras,,-49.5448293547,-27.1574865637,Lontras,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
-4210001,SC,296592,Q1784358,Luiz Alves,,12413,12609,pt:Luiz Alves,,-48.9260467723,-26.7211107867,Luiz Alves,,Blumenau,Vale do Itajaí,420020,Itajaí,4207,Blumenau
-4210035,SC,296648,Q1758351,Luzerna,,5705,5686,pt:Luzerna (Santa Catarina),,-51.4679460432,-27.1298960692,Luzerna,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
-4210050,SC,296555,Q1815712,Macieira,,1799,1784,pt:Macieira (Santa Catarina),,-51.376121977,-26.8552123885,Macieira,,Joaçaba,Oeste Catarinense,420014,Caçador,4205,Caçador
-4210100,SC,296713,Q1020414,Mafra,,55907,56017,pt:Mafra (Santa Catarina),,-49.8010375283,-26.1152284943,Mafra,,Canoinhas,Norte Catarinense,420017,Mafra,4206,Joinville
-4210209,SC,296518,Q1765004,Major Gercino,,3429,3430,pt:Major Gercino,,-48.9533539589,-27.4186604134,Major Gercino,,Tijucas,Grande Florianópolis,420021,Brusque,4207,Blumenau
-4210308,SC,296737,Q1799281,Major Vieira,,8015,8048,pt:Major Vieira,,-50.3329868433,-26.357526536,Major Vieira,,Canoinhas,Norte Catarinense,420017,Mafra,4206,Joinville
-4210407,SC,296664,Q1799325,Maracajá,,7139,7207,pt:Maracajá,,-49.4543763246,-28.850314607,Maracaja,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
-4210506,SC,296502,Q1815756,Maravilha,,25076,25403,pt:Maravilha (Santa Catarina),,-53.1748188159,-26.7616239473,Maravilha,,Chapecó,Oeste Catarinense,420012,Maravilha,4204,Chapecó
-4210555,SC,296534,Q1815686,Marema,,1906,1846,pt:Marema,,-52.6271354101,-26.8004219088,Marema,,Xanxerê,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4210605,SC,296563,Q980131,Massaranduba,,16455,16704,pt:Massaranduba (Santa Catarina),,-48.9887446627,-26.5954580147,Massaranduba,,Joinville,Norte Catarinense,420016,Joinville,4206,Joinville
-4210704,SC,296575,Q1784736,Matos Costa,,2614,2560,pt:Matos Costa,,-51.1574514436,-26.4741154352,Matos Costa,,Joaçaba,Oeste Catarinense,420014,Caçador,4205,Caçador
-4210803,SC,296620,Q1799434,Meleiro,,7047,7028,pt:Meleiro,,-49.6298493602,-28.8324458209,Meleiro,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
-4210852,SC,296727,Q1799318,Mirim Doce,,2374,2336,pt:Mirim Doce,,-50.0685637124,-27.2012050831,Mirim Doce,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
-4210902,SC,296726,Q1796806,Modelo,,4192,4200,pt:Modelo (Santa Catarina),,-53.0535007992,-26.7780420757,Modelo,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4211009,SC,296543,Q1758042,Mondaí,,11496,11592,pt:Mondaí,,-53.3986840279,-27.1036116941,Mondai,,São Miguel D'oeste,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4211058,SC,296749,Q1815693,Monte Carlo,,9785,9824,pt:Monte Carlo (Santa Catarina),,-50.974104678,-27.2176788021,Monte Carlo,,Curitibanos,Serrana,420015,Videira,4205,Caçador
-4211108,SC,296756,Q2011999,Monte Castelo,,8471,8280,pt:Monte Castelo (Santa Catarina),,-50.2262714329,-26.4563624722,Monte Castelo,,Canoinhas,Norte Catarinense,420017,Mafra,4206,Joinville
-4211207,SC,296506,Q1758949,Morro da Fumaça,,17532,17642,pt:Morro da Fumaça,,-49.2132565084,-28.654787843,Morro da Fumaca,,Criciúma,Sul Catarinense,420002,Criciúma,4202,Criciúma
-4211256,SC,296617,Q1784594,Morro Grande,,2915,2898,pt:Morro Grande,,-49.7187999838,-28.7997195367,Morro Grande,,Araranguá,Sul Catarinense,420002,Criciúma,4202,Criciúma
-4211306,SC,296609,Q1010299,Navegantes,,77137,79285,pt:Navegantes,,-48.6491829025,-26.8974391193,Navegantes,,Itajaí,Vale do Itajaí,420020,Itajaí,4207,Blumenau
-4211405,SC,296697,Q955577,Nova Erechim,,4879,4945,pt:Nova Erechim,,-52.9112866654,-26.9012733981,Nova Erechim,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4211454,SC,296630,Q1758973,Nova Itaberaba,,4339,4333,pt:Nova Itaberaba,,-52.8112440549,-26.9428898836,Nova Itaberaba,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4211504,SC,296711,Q1637513,Nova Trento,,14099,14312,pt:Nova Trento,,-48.9257954329,-27.2877711668,Nova Trento,,Tijucas,Grande Florianópolis,420021,Brusque,4207,Blumenau
-4211603,SC,296516,Q961509,Nova Veneza,,14837,14987,pt:Nova Veneza (Santa Catarina),,-49.5031235817,-28.6382326023,Nova Veneza,,Criciúma,Sul Catarinense,420002,Criciúma,4202,Criciúma
-4211652,SC,296794,Q926081,Novo Horizonte,,2532,2481,pt:Novo Horizonte (Santa Catarina),,-52.8340333905,-26.4461719902,Novo Horizonte,,Chapecó,Oeste Catarinense,420013,São Lourenço do Oeste,4204,Chapecó
-4211702,SC,296782,Q1784752,Orleans,,22723,22785,pt:Orleans (Santa Catarina),,-49.2914262911,-28.3604689663,Orleans,,Tubarão,Sul Catarinense,420002,Criciúma,4202,Criciúma
-4211751,SC,296750,Q956998,Otacílio Costa,,18313,18510,pt:Otacílio Costa,,-50.1123146891,-27.503846175,Otacilio Costa,,Campos de Lages,Serrana,420005,Lages,4203,Lages
-4211801,SC,296732,Q1784491,Ouro,,7363,7317,pt:Ouro (Santa Catarina),,-51.6205621782,-27.3424881724,Ouro,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
-4211850,SC,296581,Q1994858,Ouro Verde,,2245,2227,pt:Ouro Verde (Santa Catarina),,-52.3100192014,-26.6959944196,Ouro Verde,,Xanxerê,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
-4211876,SC,296759,Q1758019,Paial,,1577,1537,pt:Paial,,-52.5010887493,-27.2551577941,Paial,,Concórdia,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4211892,SC,296654,Q1764975,Painel,,2376,2363,pt:Painel,,-50.113009741,-27.9145181854,Painel,,Campos de Lages,Serrana,420005,Lages,4203,Lages
-4211900,SC,296582,Q973513,Palhoça,,164926,168259,pt:Palhoça,,-48.6702879187,-27.6470436837,Palhoca,,Florianópolis,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
-4212007,SC,296628,Q1799425,Palma Sola,,7558,7475,pt:Palma Sola,,-53.2799772512,-26.3465081338,Palma Sola,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
-4212056,SC,296685,Q1784383,Palmeira,,2586,2603,pt:Palmeira (Santa Catarina),,-50.1590014056,-27.5822620705,Palmeira,,Campos de Lages,Serrana,420005,Lages,4203,Lages
-4212106,SC,296573,Q588170,Palmitos,,16253,16182,pt:Palmitos,,-53.1622672929,-27.0702505492,Palmitos,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4212205,SC,296526,Q1796797,Papanduva,,19015,19218,pt:Papanduva,,-50.1632041973,-26.3939830708,Papanduva,,Canoinhas,Norte Catarinense,420017,Mafra,4206,Joinville
-4212239,SC,296587,Q428892,Paraíso,,3613,3515,pt:Paraíso (Santa Catarina),,-53.6753141317,-26.6152629708,Paraiso,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
-4212254,SC,296751,Q1799402,Passo de Torres,,8370,8594,pt:Passo de Torres,,-49.7251452725,-29.3234599051,Passo de Torres,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
-4212270,SC,296610,Q1799357,Passos Maia,,4243,4186,pt:Passos Maia,,-52.0617238004,-26.7808891472,Passos Maia,,Xanxerê,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
-4212304,SC,296636,Q1750773,Paulo Lopes,,7360,7418,pt:Paulo Lopes,,-48.6814954136,-27.9498162326,Paulo Lopes,,Florianópolis,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
-4212403,SC,296769,Q1121962,Pedras Grandes,,4026,4000,pt:Pedras Grandes,,-49.1864875474,-28.4372176497,Pedras Grandes,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
-4212502,SC,296549,Q1784611,Penha,,31025,31764,pt:Penha (Santa Catarina),,-48.6475729113,-26.7688610927,Penha,,Itajaí,Vale do Itajaí,420020,Itajaí,4207,Blumenau
-4212601,SC,296571,Q1758031,Peritiba,,2855,2814,pt:Peritiba,,-51.9098146671,-27.3773092815,Peritiba,,Concórdia,Oeste Catarinense,420010,Concórdia,4204,Chapecó
-4212650,SC,3059133,Q3136609,Pescaria Brava,,9980,10022,pt:Pescaria Brava,,-48.886735,-28.396980,Pescaria Brava,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
-4212700,SC,296512,Q747168,Petrolândia,,6021,5971,pt:Petrolândia (Santa Catarina),,-49.6948686231,-27.528126833,Petrolandia,,Ituporanga,Vale do Itajaí,420024,Ituporanga,4207,Blumenau
-4212809,SC,296718,Q285815,Balneário Piçarras,,21884,22511,pt:Balneário Piçarras,,-48.675051354,-26.7691705385,Balneario Picarras,,Itajaí,Vale do Itajaí,420020,Itajaí,4207,Blumenau
-4212908,SC,296784,Q2011993,Pinhalzinho,,19511,19906,pt:Pinhalzinho (Santa Catarina),,-52.9822532451,-26.8488143342,Pinhalzinho,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4213005,SC,296585,Q1799392,Pinheiro Preto,,3480,3513,pt:Pinheiro Preto,,-51.2305364835,-27.0451346161,Pinheiro Preto,,Joaçaba,Oeste Catarinense,420015,Videira,4205,Caçador
-4213104,SC,296637,Q952174,Piratuba,,4102,3965,pt:Piratuba,,-51.7586498276,-27.4159535517,Piratuba,,Concórdia,Oeste Catarinense,420010,Concórdia,4204,Chapecó
-4213153,SC,296720,Q1758995,Planalto Alegre,,2844,2850,pt:Planalto Alegre,,-52.8673520308,-27.0694597761,Planalto Alegre,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4213203,SC,4271672,Q326651,Pomerode,,32334,32874,pt:Pomerode,,-49.1741975274,-26.7448263965,Pomerode,,Blumenau,Vale do Itajaí,420019,Blumenau,4207,Blumenau
-4213302,SC,296704,Q1764920,Ponte Alta,,4767,4714,pt:Ponte Alta,,-50.3771006508,-27.4677840728,Ponte Alta,,Curitibanos,Serrana,420005,Lages,4203,Lages
-4213351,SC,296731,Q1777271,Ponte Alta do Norte,,3413,3408,pt:Ponte Alta do Norte,,-50.4654042678,-27.1690291829,Ponte Alta do Norte,,Curitibanos,Serrana,420006,Curitibanos,4203,Lages
-4213401,SC,296505,Q1784813,Ponte Serrada,,11545,11552,pt:Ponte Serrada,,-52.0145375125,-26.8749128276,Ponte Serrada,,Xanxerê,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
-4213500,SC,296565,Q1799285,Porto Belo,,20294,20834,pt:Porto Belo,,-48.6027567396,-27.1494662097,Porto Belo,,Itajaí,Vale do Itajaí,420020,Itajaí,4207,Blumenau
-4213609,SC,296677,Q1784679,Porto União,,35207,35250,pt:Porto União,,-51.0816046336,-26.2300048981,Porto Uniao,,Canoinhas,Norte Catarinense,420017,Mafra,4206,Joinville
-4213708,SC,296524,Q1796818,Pouso Redondo,,16957,17189,pt:Pouso Redondo,,-49.9556521355,-27.2510862782,Pouso Redondo,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
-4213807,SC,296783,Q1822575,Praia Grande,,7364,7326,pt:Praia Grande (Santa Catarina),,-49.9605919763,-29.1957763636,Praia Grande,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
-4213906,SC,296550,Q1815669,Presidente Castello Branco,,1610,1590,pt:Presidente Castello Branco (Santa Catarina),,-51.8113755382,-27.2199421946,Presidente Castello Branco,,Concórdia,Oeste Catarinense,420010,Concórdia,4204,Chapecó
-4214003,SC,296790,Q1757828,Presidente Getúlio,,16996,17215,pt:Presidente Getúlio,,-49.6220861691,-27.0414082411,Presidente Getulio,,Rio do Sul,Vale do Itajaí,420023,Ibirama - Presidente Getúlio,4207,Blumenau
-4214102,SC,296632,Q1799367,Presidente Nereu,,2304,2290,pt:Presidente Nereu,,-49.4032927711,-27.2873292141,Presidente Nereu,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
-4214151,SC,296510,Q960413,Princesa,,2906,2911,pt:Princesa (Santa Catarina),,-53.5981058756,-26.4443352068,Princesa,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
-4214201,SC,296760,Q2012005,Quilombo,,10044,9946,pt:Quilombo (Santa Catarina),,-52.7276095701,-26.7400555498,Quilombo,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4214300,SC,296594,Q1764967,Rancho Queimado,,2871,2868,pt:Rancho Queimado,,-49.00843238,-27.6772088641,Rancho Queimado,,Tabuleiro,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
-4214409,SC,296520,Q606838,Rio das Antas,,6246,6208,pt:Rio das Antas,,-51.0760199432,-26.8970674359,Rio das Antas,,Joaçaba,Oeste Catarinense,420015,Videira,4205,Caçador
-4214508,SC,296531,Q1784673,Rio do Campo,,6043,5979,pt:Rio do Campo,,-50.139588913,-26.9423084311,Rio do Campo,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
-4214607,SC,4753715,Q775857,Rio do Oeste,,7463,7456,pt:Rio do Oeste,,-49.8028622167,-27.191166518,Rio do Oeste,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
-4214706,SC,296789,Q1784005,Rio dos Cedros,,11431,11542,pt:Rio dos Cedros,,-49.2723794436,-26.7491298162,Rio dos Cedros,,Blumenau,Vale do Itajaí,420019,Blumenau,4207,Blumenau
-4214805,SC,296719,Q1784001,Rio do Sul,,69188,70100,pt:Rio do Sul,,-49.6432375291,-27.2179032254,Rio do Sul,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
-4214904,SC,296707,Q1765038,Rio Fortuna,,4606,4601,pt:Rio Fortuna,,-49.1050938026,-28.1325913886,Rio Fortuna,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
-4215000,SC,296541,Q1784714,Rio Negrinho,,42029,42106,pt:Rio Negrinho,,-49.5172950756,-26.2553250279,Rio Negrinho,,São Bento do Sul,Norte Catarinense,420018,São Bento do Sul - Rio Negrinho,4206,Joinville
-4215059,SC,296675,Q1765047,Rio Rufino,,2489,2482,pt:Rio Rufino,,-49.7775918043,-27.8632354792,Rio Rufino,,Campos de Lages,Serrana,420005,Lages,4203,Lages
-4215075,SC,296558,Q691288,Riqueza,,4670,4636,pt:Riqueza (Santa Catarina),,-53.3252862115,-27.0675941646,Riqueza,,São Miguel D'oeste,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4215109,SC,296660,Q2012010,Rodeio,,11488,11502,pt:Rodeio (Santa Catarina),,-49.3047072335,-26.9435016684,Rodeio,,Blumenau,Vale do Itajaí,420019,Blumenau,4207,Blumenau
-4215208,SC,296680,Q1757763,Romelândia,,5022,4890,pt:Romelândia,,-53.3201584,-26.6794635631,Romelandia,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
-4215307,SC,296723,Q1784692,Salete,,7634,7626,pt:Salete (Santa Catarina),,-50.0017307311,-26.9752443334,Salete,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
-4215356,SC,296775,Q2011982,Saltinho,,3847,3808,pt:Saltinho (Santa Catarina),,-53.0586312489,-26.6085589196,Saltinho,,Chapecó,Oeste Catarinense,420012,Maravilha,4204,Chapecó
-4215406,SC,296689,Q289981,Salto Veloso,,4655,4680,pt:Salto Veloso,,-51.405208078,-26.9031646077,Salto Veloso,,Joaçaba,Oeste Catarinense,420015,Videira,4205,Caçador
-4215455,SC,296553,Q945132,Sangão,,12233,12446,pt:Sangão,,-49.1340298642,-28.6332229229,Sangao,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
-4215505,SC,296612,Q931280,Santa Cecília,,16701,16741,pt:Santa Cecília (Santa Catarina),,-50.4229016203,-26.9569007446,Santa Cecilia,,Curitibanos,Serrana,420006,Curitibanos,4203,Lages
-4215554,SC,296556,Q2020284,Santa Helena,,2266,2247,pt:Santa Helena (Santa Catarina),,-53.6199878739,-26.9398439236,Santa Helena,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
-4215604,SC,296559,Q706547,Santa Rosa de Lima,,2139,2137,pt:Santa Rosa de Lima (Santa Catarina),,-49.1250913029,-28.0356055728,Santa Rosa de Lima,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
-4215653,SC,296655,Q1799409,Santa Rosa do Sul,,8356,8338,pt:Santa Rosa do Sul,,-49.7176263736,-29.1352882186,Santa Rosa do Sul,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
-4215679,SC,296593,Q2314224,Santa Terezinha,,8846,8801,pt:Santa Terezinha (Santa Catarina),,-50.0055291871,-26.780982354,Santa Terezinha,,Canoinhas,Norte Catarinense,420022,Rio do Sul,4207,Blumenau
-4215687,SC,296535,Q1759023,Santa Terezinha do Progresso,,2557,2484,pt:Santa Terezinha do Progresso,,-53.1998469617,-26.6197755739,Santa Terezinha do Progresso,,Chapecó,Oeste Catarinense,420012,Maravilha,4204,Chapecó
-4215695,SC,296657,Q1758231,Santiago do Sul,,1317,1286,pt:Santiago do Sul,,-52.6759494793,-26.6348090909,Santiago do Sul,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4215703,SC,296642,Q327210,Santo Amaro da Imperatriz,,22609,22905,pt:Santo Amaro da Imperatriz,,-48.7802399214,-27.6897477585,Santo Amaro da Imperatriz,,Florianópolis,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
-4215752,SC,296538,Q1758962,São Bernardino,,2449,2386,pt:São Bernardino,,-52.9655387397,-26.4732782463,Sao Bernardino,,Chapecó,Oeste Catarinense,420013,São Lourenço do Oeste,4204,Chapecó
-4215802,SC,296606,Q1765057,São Bento do Sul,,82842,83576,pt:São Bento do Sul,,-49.3869788951,-26.2494854185,Sao Bento do Sul,,São Bento do Sul,Norte Catarinense,420018,São Bento do Sul - Rio Negrinho,4206,Joinville
-4215901,SC,296529,Q1784638,São Bonifácio,,2899,2862,pt:São Bonifácio (Santa Catarina),,-48.9293119586,-27.8964966985,Sao Bonifacio,,Tabuleiro,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
-4216008,SC,296533,Q1815617,São Carlos,,11132,11191,pt:São Carlos (Santa Catarina),,-53.0173942733,-27.0786350779,Sao Carlos,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4216057,SC,296748,Q639952,São Cristóvão do Sul,,5464,5499,pt:São Cristóvão do Sul,,-50.4346289331,-27.2829466734,Sao Cristovao do Sul,,Curitibanos,Serrana,420006,Curitibanos,4203,Lages
-4216107,SC,296741,Q617155,São Domingos,,9502,9457,pt:São Domingos (Santa Catarina),,-52.5372274685,-26.5578303695,Sao Domingos,,Xanxerê,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
-4216206,SC,296696,Q986536,São Francisco do Sul,,50701,51677,pt:São Francisco do Sul,,-48.6375707582,-26.2440178842,Sao Francisco do Sul,,Joinville,Norte Catarinense,420016,Joinville,4206,Joinville
-4216255,SC,296509,Q599623,São João do Oeste,,6309,6359,pt:São João do Oeste,,-53.5959666797,-27.0974826254,Sao Joao do Oeste,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
-4216305,SC,296567,Q2023825,São João Batista,,35065,36244,pt:São João Batista (Santa Catarina),,-48.8570042802,-27.2958805567,Sao Joao Batista,,Tijucas,Grande Florianópolis,420021,Brusque,4207,Blumenau
-4216354,SC,296644,Q1799384,São João do Itaperiú,,3690,3707,pt:São João do Itaperiú,,-48.7677653868,-26.6174540463,Sao Joao do Itaperiu,,Itajaí,Vale do Itajaí,420016,Joinville,4206,Joinville
-4216404,SC,296706,Q1799427,São João do Sul,,7268,7280,pt:São João do Sul,,-49.8065713857,-29.2234797912,Sao Joao do Sul,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
-4216503,SC,296551,Q904782,São Joaquim,,26646,26763,pt:São Joaquim (Santa Catarina),,-49.9367417605,-28.2947124992,Sao Joaquim,,Campos de Lages,Serrana,420005,Lages,4203,Lages
-4216602,SC,296626,Q173849,São José,,239718,242927,pt:São José (Santa Catarina),,-48.6160227159,-27.5903120772,Sao Jose,,Florianópolis,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
-4216701,SC,296717,Q545508,São José do Cedro,,13897,13838,pt:São José do Cedro,,-53.5001241069,-26.4560602968,Sao Jose do Cedro,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
-4216800,SC,296590,Q1764954,São José do Cerrito,,8588,8421,pt:São José do Cerrito,,-50.5813861763,-27.6685865188,Sao Jose do Cerrito,,Campos de Lages,Serrana,420005,Lages,4203,Lages
-4216909,SC,296774,Q1759029,São Lourenço do Oeste,,23698,23857,pt:São Lourenço do Oeste,,-52.851333667,-26.3551901646,Sao Lourenco do Oeste,,Chapecó,Oeste Catarinense,420013,São Lourenço do Oeste,4204,Chapecó
-4217006,SC,296542,Q2662610,São Ludgero,,12934,13165,pt:São Ludgero (Santa Catarina),,-49.1756843247,-28.3268955251,Sao Ludgero,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
-4217105,SC,296763,Q2065307,São Martinho,,3210,3189,pt:São Martinho (Santa Catarina),,-48.977786248,-28.1644952896,Sao Martinho,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
-4217154,SC,296569,Q1757994,São Miguel da Boa Vista,,1848,1833,pt:São Miguel da Boa Vista,,-53.2545563767,-26.6944751453,Sao Miguel da Boa Vista,,Chapecó,Oeste Catarinense,420012,Maravilha,4204,Chapecó
-4217204,SC,296744,Q1757748,São Miguel do Oeste,,39793,40090,pt:São Miguel do Oeste,,-53.5188394062,-26.7264271767,Sao Miguel do Oeste,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
-4217253,SC,296766,Q1750756,São Pedro de Alcântara,,5602,5709,pt:São Pedro de Alcântara,,-48.7876695873,-27.5671700934,Sao Pedro de Alcantara,,Florianópolis,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
-4217303,SC,296528,Q1757999,Saudades,,9664,9679,pt:Saudades (Santa Catarina),,-52.9955697273,-26.919756951,Saudades,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4217402,SC,296611,Q398844,Schroeder,,20095,20728,pt:Schroeder,,-49.0732596915,-26.4209759126,Schroeder,,Joinville,Norte Catarinense,420016,Joinville,4206,Joinville
-4217501,SC,296525,Q1784472,Seara,,17526,17506,pt:Seara (Santa Catarina),,-52.302854828,-27.1456976229,Seara,,Concórdia,Oeste Catarinense,420010,Concórdia,4204,Chapecó
-4217550,SC,296557,Q1757812,Serra Alta,,3301,3270,pt:Serra Alta,,-53.0462763415,-26.7247733741,Serra Alta,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4217600,SC,296544,Q1759010,Siderópolis,,13870,13920,pt:Siderópolis,,-49.420540933,-28.5951024182,Sideropolis,,Criciúma,Sul Catarinense,420002,Criciúma,4202,Criciúma
-4217709,SC,296700,Q1784827,Sombrio,,29710,30010,pt:Sombrio,,-49.6342103641,-29.1091327568,Sombrio,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
-4217758,SC,296634,Q549349,Sul Brasil,,2551,2500,pt:Sul Brasil,,-52.9642047957,-26.7369362097,Sul Brasil,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4217808,SC,296757,Q1759213,Taió,,18261,18302,pt:Taió,,-50.0050964643,-27.1179373002,Taio,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
-4217907,SC,296651,Q22063771,Tangará,,8738,8691,pt:Tangará (Santa Catarina),,-51.2459143753,-27.1010111042,Tangara,,Joaçaba,Oeste Catarinense,420015,Videira,4205,Caçador
-4217956,SC,296656,Q1758053,Tigrinhos,,1695,1646,pt:Tigrinhos,,-53.1575419839,-26.6894748378,Tigrinhos,,Chapecó,Oeste Catarinense,420012,Maravilha,4204,Chapecó
-4218004,SC,296598,Q951660,Tijucas,,36931,37645,pt:Tijucas,,-48.6320705639,-27.2394536072,Tijucas,,Tijucas,Grande Florianópolis,420020,Itajaí,4207,Blumenau
-4218103,SC,296605,Q1799417,Timbé do Sul,,5377,5354,pt:Timbé do Sul,,-49.8441177628,-28.8325174935,Timbe do Sul,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
-4218202,SC,4082327,Q773783,Timbó,,42801,43484,pt:Timbó (Santa Catarina),,-49.2777122898,-26.822902575,Timbo,,Blumenau,Vale do Itajaí,420019,Blumenau,4207,Blumenau
-4218251,SC,296701,Q614626,Timbó Grande,,7767,7812,pt:Timbó Grande,,-50.6746741365,-26.617828491,Timbo Grande,,Canoinhas,Norte Catarinense,420014,Caçador,4205,Caçador
-4218301,SC,296663,Q22063767,Três Barras,,19146,19183,pt:Três Barras,,-50.305419368,-26.1140963368,Tres Barras,,Canoinhas,Norte Catarinense,420017,Mafra,4206,Joinville
-4218350,SC,296667,Q22063766,Treviso,,3863,3891,pt:Treviso (Santa Catarina),,-49.4559333789,-28.5184848579,Treviso,,Criciúma,Sul Catarinense,420002,Criciúma,4202,Criciúma
-4218400,SC,296633,Q1764936,Treze de Maio,,7098,7070,pt:Treze de Maio,,-49.1448153072,-28.5581400375,Treze de Maio,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
-4218509,SC,296778,Q339414,Treze Tílias,,7545,7687,pt:Treze Tílias,,-51.4146746651,-26.9985363059,Treze Tilias,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
-4218608,SC,296631,Q1784066,Trombudo Central,,7211,7284,pt:Trombudo Central,,-49.7924782341,-27.3030195291,Trombudo Central,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
-4218707,SC,296517,Q1815730,Tubarão,,104457,104937,pt:Tubarão (Santa Catarina),,-49.005268077,-28.4800339479,Tubarao,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
-4218756,SC,296674,Q1758036,Tunápolis,,4597,4561,pt:Tunápolis,,-53.641459736,-26.9722235915,Tunapolis,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
-4218806,SC,296669,Q1833591,Turvo,,12746,12806,pt:Turvo (Santa Catarina),,-49.6808657451,-28.9247492174,Turvo,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
-4218855,SC,296755,Q1758015,União do Oeste,,2600,2517,pt:União do Oeste,,-52.8514964564,-26.7617370137,Uniao do Oeste,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4218905,SC,296623,Q1646925,Urubici,,11191,11195,pt:Urubici,,-49.5882056111,-28.004554912,Urubici,,Campos de Lages,Serrana,420005,Lages,4203,Lages
-4218954,SC,296715,Q1765034,Urupema,,2487,2472,pt:Urupema,,-49.8732112424,-27.9526858098,Urupema,,Campos de Lages,Serrana,420005,Lages,4203,Lages
-4219002,SC,296643,Q22063758,Urussanga,,21177,21190,pt:Urussanga,,-49.3191079186,-28.5199662039,Urussanga,,Criciúma,Sul Catarinense,420002,Criciúma,4202,Criciúma
-4219101,SC,296683,Q1758111,Vargeão,,3590,3575,pt:Vargeão,,-52.1541056501,-26.8639833174,Vargeao,,Xanxerê,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
-4219150,SC,296764,Q22063756,Vargem,,2543,2522,pt:Vargem (Santa Catarina),,-50.9781506257,-27.4899701004,Vargem,,Curitibanos,Serrana,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
-4219176,SC,296562,Q609989,Vargem Bonita,,4597,4534,pt:Vargem Bonita (Santa Catarina),,-51.7447401814,-27.0032416045,Vargem Bonita,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
-4219200,SC,296687,Q1784642,Vidal Ramos,,6356,6347,pt:Vidal Ramos (Santa Catarina),,-49.3682191726,-27.3957786987,Vidal Ramos,,Ituporanga,Vale do Itajaí,420024,Ituporanga,4207,Blumenau
-4219309,SC,296682,Q1799400,Videira,,52066,52510,pt:Videira (Santa Catarina),,-51.1517052828,-27.006129068,Videira,,Joaçaba,Oeste Catarinense,420015,Videira,4205,Caçador
-4219358,SC,296762,Q1784631,Vitor Meireles,,5056,5014,pt:Vitor Meireles (Santa Catarina),,-49.830751961,-26.8815776186,Vitor Meireles,,Rio do Sul,Vale do Itajaí,420023,Ibirama - Presidente Getúlio,4207,Blumenau
-4219408,SC,296570,Q1000671,Witmarsum,,3912,3932,pt:Witmarsum,,-49.8042033754,-26.9267427234,Witmarsum,,Rio do Sul,Vale do Itajaí,420023,Ibirama - Presidente Getúlio,4207,Blumenau
-4219507,SC,296714,Q22063751,Xanxerê,,49738,50309,pt:Xanxerê,,-52.404667139,-26.8745844992,Xanxere,,Xanxerê,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
-4219606,SC,296653,Q923208,Xavantina,,4012,3963,pt:Xavantina,,-52.3428505099,-27.0702501471,Xavantina,,Concórdia,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
-4219705,SC,296746,Q1751322,Xaxim,,28210,28424,pt:Xaxim (Santa Catarina),,-52.5349325183,-26.9637194992,Xaxim,,Xanxerê,Oeste Catarinense,420007,Chapecó,4204,Chapecó
-4219853,SC,296662,Q1648503,Zortéa,,3300,3328,pt:Zortéa,,-51.5495663068,-27.4502514117,Zortea,,Curitibanos,Serrana,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
-4220000,SC,3059132,Q2881477,Balneário Rincão,,12403,12570,pt:Balneário Rincão,,-49.23611111,-28.83444444,Balneario Rincao,,Criciúma,Sul Catarinense,420002,Criciúma,4202,Criciúma
+4200051,SC,296665,Q1637414,Abdon Batista,,2604,2577,pt:Abdon Batista (Santa Catarina),https://www.abdonbatista.sc.gov.br,-51.025272211,-27.6089871233,Abdon Batista,,Curitibanos,Serrana,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
+4200101,SC,296601,Q1637506,Abelardo Luz,,17847,17847,pt:Abelardo Luz,https://www.abelardoluz.sc.gov.br,-52.3364823833,-26.5630310224,Abelardo Luz,,Xanxerê,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
+4200200,SC,296768,Q397387,Agrolândia,,10581,10711,pt:Agrolândia,https://www.agrolandia.sc.gov.br,-49.8256533877,-27.400516588,Agrolandia,,Ituporanga,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
+4200309,SC,296564,Q1754594,Agronômica,,5437,5385,pt:Agronômica,https://www.agronomica.sc.gov.br,-49.7183688908,-27.2697161071,Agronomica,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
+4200408,SC,296621,Q1750762,Água Doce,,7154,7138,pt:Água Doce,https://www.aguadoce.sc.gov.br,-51.5590965553,-27.0040916589,Agua Doce,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
+4200507,SC,296580,Q1750761,Águas de Chapecó,,6445,6455,pt:Águas de Chapecó,https://www.aguasdechapeco.sc.gov.br,-52.9872510057,-27.0762129125,Aguas de Chapeco,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4200556,SC,296574,Q1796824,Águas Frias,,2387,2378,pt:Águas Frias (Santa Catarina),https://www.aguasfrias.sc.gov.br,-52.8594194494,-26.880227543,Aguas Frias,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4200606,SC,296576,Q249844,Águas Mornas,,6298,6378,pt:Águas Mornas,http://www.aguasmornas.sc.gov.br,-48.8405384028,-27.7065971917,Aguas Mornas,,Tabuleiro,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
+4200705,SC,296694,Q1754557,Alfredo Wagner,,9960,9984,pt:Alfredo Wagner,https://www.alfredowagner.sc.gov.br,-49.3438123012,-27.705396332,Alfredo Wagner,,Tabuleiro,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
+4200754,SC,296615,Q1758023,Alto Bela Vista,,1967,1948,pt:Alto Bela Vista,https://www.altobelavista.sc.gov.br,-51.9110368541,-27.4311378753,Alto Bela Vista,,Concórdia,Oeste Catarinense,420010,Concórdia,4204,Chapecó
+4200804,SC,296772,Q1935710,Anchieta,,5832,5721,pt:Anchieta (Santa Catarina),https://www.anchieta.sc.gov.br,-53.3332701772,-26.5356808607,Anchieta,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
+4200903,SC,296758,Q22063988,Angelina,,4943,4860,pt:Angelina (Santa Catarina),http://www.angelina.sc.gov.br,-48.9834760642,-27.5822573521,Angelina,,Tijucas,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
+4201000,SC,296645,Q617657,Anita Garibaldi,,7537,7313,pt:Anita Garibaldi (Santa Catarina),https://www.anitagaribaldi.sc.gov.br,-51.1311938713,-27.6837772901,Anita Garibaldi,,Campos de Lages,Serrana,420005,Lages,4203,Lages
+4201109,SC,296583,Q22063986,Anitápolis,,3248,3236,pt:Anitápolis,https://www.anitapolis.sc.gov.br,-49.1315993662,-27.9098868973,Anitapolis,,Tabuleiro,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
+4201208,SC,296793,Q22063985,Antônio Carlos,,8327,8411,pt:Antônio Carlos (Santa Catarina),https://www.antoniocarlos.sc.gov.br,-48.7649600268,-27.5133710516,Antonio Carlos,,Florianópolis,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
+4201257,SC,296690,Q1758008,Apiúna,,10542,10636,pt:Apiúna,https://www.apiuna.sc.gov.br,-49.3916376288,-27.0418125981,Apiuna,,Blumenau,Vale do Itajaí,420019,Blumenau,4207,Blumenau
+4201273,SC,296603,Q374753,Arabutã,,4281,4266,pt:Arabutã,https://www.arabuta.sc.gov.br,-52.1485992607,-27.1574036959,Arabuta,,Concórdia,Oeste Catarinense,420010,Concórdia,4204,Chapecó
+4201307,SC,296537,Q607184,Araquari,,35268,36710,pt:Araquari,http://www.araquari.sc.gov.br,-48.6927074119,-26.3759515541,Araquari,,Joinville,Norte Catarinense,420016,Joinville,4206,Joinville
+4201406,SC,296568,Q626231,Araranguá,,67110,67578,pt:Araranguá,https://www.ararangua.sc.gov.br,-49.4809665236,-28.9357520142,Ararangua,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
+4201505,SC,296678,Q1764990,Armazém,,8520,8587,pt:Armazém (Santa Catarina),https://www.armazem.sc.gov.br,-49.0129110848,-28.2587054679,Armazem,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
+4201604,SC,296552,Q1758088,Arroio Trinta,,3564,3551,pt:Arroio Trinta,https://www.arroiotrinta.sc.gov.br,-51.3341239239,-26.9325648567,Arroio Trinta,,Joaçaba,Oeste Catarinense,420015,Videira,4205,Caçador
+4201653,SC,296618,Q1758063,Arvoredo,,2261,2246,pt:Arvoredo,https://www.arvoredo.sc.gov.br,-52.4577888412,-27.0735335582,Arvoredo,,Concórdia,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4201703,SC,296640,Q1758057,Ascurra,,7877,7889,pt:Ascurra,https://www.ascurra.sc.gov.br,-49.3863634278,-26.9547758425,Ascurra,,Blumenau,Vale do Itajaí,420019,Blumenau,4207,Blumenau
+4201802,SC,296780,Q1815704,Atalanta,,3254,3226,pt:Atalanta,https://www.atalanta.sc.gov.br,-49.7794566741,-27.4205360018,Atalanta,,Ituporanga,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
+4201901,SC,296577,Q2012016,Aurora,,5688,5676,pt:Aurora (Santa Catarina),http://www.aurora.sc.gov.br,-49.6436279075,-27.2990294946,Aurora,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
+4201950,SC,296681,Q1758002,Balneário Arroio do Silva,,12344,12705,pt:Balneário Arroio do Silva,https://www.arroiodosilva.sc.gov.br,-49.4057027991,-28.9804024548,Balneario Arroio do Silva,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
+4202008,SC,296508,Q598016,Balneário Camboriú,,135268,138732,pt:Balneário Camboriú,https://www.bc.sc.gov.br,-48.634617477,-26.9918186053,Balneario Camboriu,,Itajaí,Vale do Itajaí,420020,Itajaí,4207,Blumenau
+4202057,SC,296708,Q1764948,Balneário Barra do Sul,,10317,10550,pt:Balneário Barra do Sul,http://www.balneariobarradosul.sc.gov.br,-48.606645876,-26.4564295671,Balneario Barra do Sul,,Joinville,Norte Catarinense,420016,Joinville,4206,Joinville
+4202073,SC,296739,Q1757752,Balneário Gaivota,,10413,10692,pt:Balneário Gaivota,http://www.balneariogaivota.sc.gov.br,-49.5908937824,-29.1645212685,Balneario Gaivota,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
+4202081,SC,296776,Q941669,Bandeirante,,2751,2708,pt:Bandeirante (Santa Catarina),https://www.bandeirante.sc.gov.br,-53.6410495866,-26.7689379013,Bandeirante,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
+4202099,SC,296658,Q1815639,Barra Bonita,,1739,1704,pt:Barra Bonita (Santa Catarina),https://www.barrabonita.sc.gov.br,-53.4413025406,-26.6522935999,Barra Bonita,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
+4202107,SC,296738,Q808787,Barra Velha,,27781,28463,pt:Barra Velha,http://www.barravelha.sc.gov.br,-48.6838642743,-26.6343614083,Barra Velha,,Itajaí,Vale do Itajaí,420020,Itajaí,4207,Blumenau
+4202131,SC,296736,Q1765028,Bela Vista do Toldo,,6304,6311,pt:Bela Vista do Toldo,https://www.pmbvt.sc.gov.br,-50.4647882385,-26.2762282783,Bela Vista do Toldo,,Canoinhas,Norte Catarinense,420017,Mafra,4206,Joinville
+4202156,SC,296595,Q1799364,Belmonte,,2709,2703,pt:Belmonte (Santa Catarina),https://www.belmonte.sc.gov.br,-53.5809772315,-26.8445863475,Belmonte,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
+4202206,SC,296740,Q817098,Benedito Novo,,11425,11526,pt:Benedito Novo,https://www.beneditonovo.sc.gov.br,-49.3644027494,-26.777507569,Benedito Novo,,Blumenau,Vale do Itajaí,420019,Blumenau,4207,Blumenau
+4202305,SC,296705,Q1754582,Biguaçu,,66558,67458,pt:Biguaçu,http://www.bigua.sc.gov.br,-48.654488929,-27.4943227435,Biguacu,,Florianópolis,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
+4202404,SC,296522,Q155557,Blumenau,,348513,352460,pt:Blumenau,https://www.blumenau.sc.gov.br,-49.0576308844,-26.9161077053,Blumenau,,Blumenau,Vale do Itajaí,420019,Blumenau,4207,Blumenau
+4202438,SC,296754,Q1750759,Bocaina do Sul,,3456,3460,pt:Bocaina do Sul,https://www.bocaina.sc.gov.br,-49.9458979108,-27.7431983069,Bocaina do Sul,,Campos de Lages,Serrana,420005,Lages,4203,Lages
+4202453,SC,296743,Q891934,Bombinhas,,18623,19193,pt:Bombinhas,http://www.bombinhas.sc.gov.br,-48.5213451348,-27.1442546993,Bombinhas,,Itajaí,Vale do Itajaí,420020,Itajaí,4207,Blumenau
+4202503,SC,296777,Q939572,Bom Jardim da Serra,,4694,4712,pt:Bom Jardim da Serra,https://www.bomjardimdaserra.sc.gov.br,-49.6249777453,-28.337947191,Bom Jardim da Serra,,Campos de Lages,Serrana,420005,Lages,4203,Lages
+4202537,SC,296745,Q769692,Bom Jesus,,2919,2961,pt:Bom Jesus (Santa Catarina),https://www.bomjesus.sc.gov.br,-52.3930159598,-26.7359234356,Bom Jesus,,Xanxerê,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
+4202578,SC,296770,Q616028,Bom Jesus do Oeste,,2151,2146,pt:Bom Jesus do Oeste,https://www.bomjesusdooeste.sc.gov.br,-53.0953502802,-26.6918115546,Bom Jesus do Oeste,,Chapecó,Oeste Catarinense,420012,Maravilha,4204,Chapecó
+4202602,SC,296507,Q891740,Bom Retiro,,9796,9870,pt:Bom Retiro,https://www.bomretiro.sc.gov.br,-49.4898337661,-27.7986710014,Bom Retiro,,Campos de Lages,Serrana,420005,Lages,4203,Lages
+4202701,SC,296619,Q894929,Botuverá,,5100,5169,pt:Botuverá,http://www.botuvera.sc.gov.br,-49.0784843619,-27.2021068612,Botuvera,,Blumenau,Vale do Itajaí,420021,Brusque,4207,Blumenau
+4202800,SC,296579,Q903373,Braço do Norte,,32648,33016,pt:Braço do Norte,https://www.bracodonorte.sc.gov.br,-49.1645477089,-28.2800388673,Braco do Norte,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
+4202859,SC,296652,Q1784745,Braço do Trombudo,,3709,3718,pt:Braço do Trombudo,https://www.bracodotrombudo.sc.gov.br,-49.890907936,-27.3642513451,Braco do Trombudo,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
+4202875,SC,296734,Q1765062,Brunópolis,,2539,2473,pt:Brunópolis,https://www.brunopolis.sc.gov.br,-50.835920772,-27.3183621508,Brunopolis,,Curitibanos,Serrana,420006,Curitibanos,4203,Lages
+4202909,SC,296588,Q329488,Brusque,,128818,131703,pt:Brusque,https://www.brusque.sc.gov.br,-48.9151630055,-27.0983102262,Brusque,,Blumenau,Vale do Itajaí,420021,Brusque,4207,Blumenau
+4203006,SC,296548,Q986540,Caçador,,77323,77863,pt:Caçador,https://www.cacador.sc.gov.br,-51.019034759,-26.7753476727,Cacador,,Joaçaba,Oeste Catarinense,420014,Caçador,4205,Caçador
+4203105,SC,296539,Q1758966,Caibi,,6213,6167,pt:Caibi,https://www.caibi.sc.gov.br,-53.2505271956,-27.0730539326,Caibi,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4203154,SC,296695,Q1784723,Calmon,,3380,3357,pt:Calmon,https://www.calmon.sc.gov.br,-51.0966349046,-26.6046771771,Calmon,,Joaçaba,Oeste Catarinense,420014,Caçador,4205,Caçador
+4203204,SC,296661,Q744097,Camboriú,,78731,80834,pt:Camboriú,http://www.camboriu.sc.gov.br,-48.6499958521,-27.0264564992,Camboriu,,Itajaí,Vale do Itajaí,420020,Itajaí,4207,Blumenau
+4203253,SC,296761,Q1112283,Capão Alto,,2597,2556,pt:Capão Alto,https://www.capaoalto.sc.gov.br,-50.5114792926,-27.9416852818,Capao Alto,,Campos de Lages,Serrana,420005,Lages,4203,Lages
+4203303,SC,296792,Q2087030,Campo Alegre,,12012,11974,pt:Campo Alegre (Santa Catarina),https://www.campoalegre.sc.gov.br,-49.2633444821,-26.1906592825,Campo Alegre,,São Bento do Sul,Norte Catarinense,420018,São Bento do Sul - Rio Negrinho,4206,Joinville
+4203402,SC,296671,Q1765051,Campo Belo do Sul,,7177,7081,pt:Campo Belo do Sul,https://www.campobelodosul.sc.gov.br,-50.7619937519,-27.8966573873,Campo Belo do Sul,,Campos de Lages,Serrana,420005,Lages,4203,Lages
+4203501,SC,296712,Q1757768,Campo Erê,,8787,8636,pt:Campo Erê,https://www.campoere.sc.gov.br,-53.0901551703,-26.394551141,Campo Ere,,Chapecó,Oeste Catarinense,420013,São Lourenço do Oeste,4204,Chapecó
+4203600,SC,296597,Q1764972,Campos Novos,,35710,35930,pt:Campos Novos,https://www.camposnovos.sc.gov.br,-51.2236729932,-27.3990529792,Campos Novos,,Curitibanos,Serrana,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
+4203709,SC,296641,Q957908,Canelinha,,11944,12080,pt:Canelinha,https://www.canelinha.sc.gov.br,-48.7892731277,-27.2724147946,Canelinha,,Tijucas,Grande Florianópolis,420021,Brusque,4207,Blumenau
+4203808,SC,296668,Q1799304,Canoinhas,,54403,54319,pt:Canoinhas,https://www.pmc.sc.gov.br,-50.3978487119,-26.1788070143,Canoinhas,,Canoinhas,Norte Catarinense,420017,Mafra,4206,Joinville
+4203907,SC,296724,Q780452,Capinzal,,22524,22658,pt:Capinzal,https://www.capinzal.sc.gov.br,-51.6113627552,-27.3442784642,Capinzal,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
+4203956,SC,296787,Q1750765,Capivari de Baixo,,24298,24559,pt:Capivari de Baixo,https://www.capivaridebaixo.sc.gov.br,-48.9605750681,-28.4490455118,Capivari de Baixo,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
+4204004,SC,296521,Q2087108,Catanduvas,,10632,10735,pt:Catanduvas (Santa Catarina),https://www.catanduvas.sc.gov.br,-51.6589480986,-27.0720352216,Catanduvas,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
+4204103,SC,296702,Q1758980,Caxambu do Sul,,3850,3735,pt:Caxambu do Sul,https://www.caxambudosul.sc.gov.br,-52.8804748929,-27.1612817849,Caxambu do Sul,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4204152,SC,296673,Q1750758,Celso Ramos,,2760,2738,pt:Celso Ramos (Santa Catarina),https://www.celsoramos.sc.gov.br,-51.3359938248,-27.6347386054,Celso Ramos,,Campos de Lages,Serrana,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
+4204178,SC,296709,Q1799348,Cerro Negro,,3254,3181,pt:Cerro Negro,https://www.cerronegro.sc.gov.br,-50.8700622647,-27.7958280677,Cerro Negro,,Campos de Lages,Serrana,420005,Lages,4203,Lages
+4204194,SC,296703,Q1784522,Chapadão do Lageado,,2953,2969,pt:Chapadão do Lageado,https://www.chapadaodolageado.sc.gov.br,-49.5443259549,-27.5852982512,Chapadao do Lageado,,Ituporanga,Vale do Itajaí,420024,Ituporanga,4207,Blumenau
+4204202,SC,296501,Q817387,Chapecó,,213279,216654,pt:Chapecó,https://www.chapeco.sc.gov.br,-52.6170311134,-27.1068370215,Chapeco,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4204251,SC,296639,Q1765012,Cocal do Sul,,16446,16544,pt:Cocal do Sul,https://www.cocaldosul.sc.gov.br,-49.3271287199,-28.6030228653,Cocal do Sul,,Criciúma,Sul Catarinense,420002,Criciúma,4202,Criciúma
+4204301,SC,296692,Q749798,Concórdia,,73766,74106,pt:Concórdia,http://www.concordia.sc.gov.br,-52.0239710697,-27.2336587801,Concordia,,Concórdia,Oeste Catarinense,420010,Concórdia,4204,Chapecó
+4204350,SC,296514,Q1758999,Cordilheira Alta,,4321,4385,pt:Cordilheira Alta,https://www.pmcordi.sc.gov.br,-52.6032512708,-26.9850812923,Cordilheira Alta,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4204400,SC,296638,Q1758946,Coronel Freitas,,10130,10022,pt:Coronel Freitas,https://www.coronelfreitas.sc.gov.br,-52.7091514565,-26.9032514118,Coronel Freitas,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4204459,SC,296546,Q1784467,Coronel Martins,,2548,2544,pt:Coronel Martins,https://www.coronelmartins.sc.gov.br,-52.6696992888,-26.5116375953,Coronel Martins,,Xanxerê,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
+4204509,SC,296779,Q1020408,Corupá,,15541,15709,pt:Corupá,https://www.corupa.sc.gov.br,-49.226737,-26.4319663158,Corupa,,Joinville,Norte Catarinense,420016,Joinville,4206,Joinville
+4204558,SC,296686,Q1764914,Correia Pinto,,13358,13040,pt:Correia Pinto,https://www.correiapinto.sc.gov.br,-50.3637605546,-27.584808345,Correia Pinto,,Campos de Lages,Serrana,420005,Lages,4203,Lages
+4204608,SC,296527,Q1439157,Criciúma,,211369,213023,pt:Criciúma,http://www.criciuma.sc.gov.br,-49.3659395588,-28.6735722527,Criciuma,,Criciúma,Sul Catarinense,420002,Criciúma,4202,Criciúma
+4204707,SC,296530,Q1758938,Cunha Porã,,11057,11053,pt:Cunha Porã,https://www.cunhapora.sc.gov.br,-53.173845572,-26.8917270825,Cunha Pora,,Chapecó,Oeste Catarinense,420012,Maravilha,4204,Chapecó
+4204756,SC,296627,Q1759005,Cunhataí,,1955,1957,pt:Cunhataí,https://www.cunhatai.sc.gov.br,-53.0932904926,-26.9731396983,Cunhatai,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4204806,SC,296515,Q1765072,Curitibanos,,39566,39595,pt:Curitibanos,https://www.curitibanos.sc.gov.br,-50.5826010353,-27.2829825065,Curitibanos,,Curitibanos,Serrana,420006,Curitibanos,4203,Lages
+4204905,SC,296672,Q1784557,Descanso,,8399,8308,pt:Descanso,https://www.descanso.sc.gov.br,-53.5046288706,-26.817870221,Descanso,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
+4205001,SC,296607,Q1757773,Dionísio Cerqueira,,15450,15450,pt:Dionísio Cerqueira (Santa Catarina),https://www.dionisiocerqueira.sc.gov.br,-53.6313951228,-26.2664885337,Dionisio Cerqueira,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
+4205100,SC,296693,Q986564,Dona Emma,,4081,4105,pt:Dona Emma,https://www.donaemma.sc.gov.br,-49.7168977451,-26.9863006137,Dona Emma,,Rio do Sul,Vale do Itajaí,420023,Ibirama - Presidente Getúlio,4207,Blumenau
+4205159,SC,296622,Q1784602,Doutor Pedrinho,,4043,4013,pt:Doutor Pedrinho,https://www.doutorpedrinho.sc.gov.br,-49.4792933619,-26.7204609555,Doutor Pedrinho,,Blumenau,Vale do Itajaí,420019,Blumenau,4207,Blumenau
+4205175,SC,296547,Q1815627,Entre Rios,,3183,3189,pt:Entre Rios (Santa Catarina),https://www.entrerios.sc.gov.br,-52.5625339678,-26.7236210953,Entre Rios,,Xanxerê,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
+4205191,SC,296560,Q1815677,Ermo,,2076,2066,pt:Ermo,https://www.ermo.sc.gov.br,-49.6434049775,-28.9850817923,Ermo,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
+4205209,SC,296599,Q927128,Erval Velho,,4480,4407,pt:Erval Velho,https://www.ervalvelho.sc.gov.br,-51.4434329044,-27.2738954846,Erval Velho,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
+4205308,SC,296578,Q1799399,Faxinal dos Guedes,,10745,10686,pt:Faxinal dos Guedes,https://www.faxinal.sc.gov.br,-52.2714153987,-26.8597867214,Faxinal dos Guedes,,Xanxerê,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
+4205357,SC,296503,Q1758986,Flor do Sertão,,1594,1586,pt:Flor do Sertão,https://www.flordosertao.sc.gov.br,-53.3448914355,-26.7794323288,Flor do Sertao,,Chapecó,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
+4205407,SC,296561,Q132997,Florianópolis,true,485838,492977,pt:Florianópolis,http://www.pmf.sc.gov.br,-48.5476373782,-27.5877955486,Florianopolis,,Florianópolis,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
+4205431,SC,296504,Q1759017,Formosa do Sul,,2549,2525,pt:Formosa do Sul,https://www.formosa.sc.gov.br,-52.7934500253,-26.6485233783,Formosa do Sul,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4205456,SC,296602,Q1784729,Forquilhinha,,25988,26368,pt:Forquilhinha,https://www.forquilhinha.sc.gov.br,-49.4688610534,-28.7424153509,Forquilhinha,,Criciúma,Sul Catarinense,420002,Criciúma,4202,Criciúma
+4205506,SC,296730,Q543046,Fraiburgo,,36261,36299,pt:Fraiburgo,http://www.fraiburgo.sc.gov.br,-50.9250792352,-27.0234469627,Fraiburgo,,Joaçaba,Oeste Catarinense,420015,Videira,4205,Caçador
+4205555,SC,296532,Q1765020,Frei Rogério,,2146,2077,pt:Frei Rogério,https://www.freirogerio.sc.gov.br,-50.8064082491,-27.1747514992,Frei Rogerio,,Curitibanos,Serrana,420006,Curitibanos,4203,Lages
+4205605,SC,296614,Q1784498,Galvão,,3058,2956,pt:Galvão (Santa Catarina),https://www.galvao.sc.gov.br,-52.6820020756,-26.4554762384,Galvao,,Xanxerê,Oeste Catarinense,420013,São Lourenço do Oeste,4204,Chapecó
+4205704,SC,296684,Q612191,Garopaba,,22082,22568,pt:Garopaba,https://www.garopaba.sc.gov.br,-48.6125566829,-28.0208959348,Garopaba,,Tubarão,Sul Catarinense,420001,Florianópolis,4201,Florianópolis
+4205803,SC,296591,Q1784623,Garuva,,17479,17800,pt:Garuva,https://www.garuva.sc.gov.br,-48.8498418594,-26.0220755061,Garuva,,Joinville,Norte Catarinense,420016,Joinville,4206,Joinville
+4205902,SC,296767,Q856583,Gaspar,,67392,68465,pt:Gaspar,https://www.gaspar.sc.gov.br,-48.9677065681,-26.9183685142,Gaspar,,Blumenau,Vale do Itajaí,420019,Blumenau,4207,Blumenau
+4206009,SC,296600,Q1765043,Governador Celso Ramos,,14229,14333,pt:Governador Celso Ramos,https://www.governadorcelsoramos.sc.gov.br,-48.5781665645,-27.3186459075,Governador Celso Ramos,,Florianópolis,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
+4206108,SC,296725,Q1764998,Grão Pará,,6537,6542,pt:Grão-Pará (cidade),https://www.graopara.sc.gov.br,-49.2199960405,-28.1839865262,Grao Para,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
+4206207,SC,296646,Q1764929,Gravatal,,11394,11423,pt:Gravatal,https://www.gravatal.sc.gov.br,-49.0394702582,-28.3291307178,Gravatal,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
+4206306,SC,296698,Q1758034,Guabiruba,,22732,23272,pt:Guabiruba,https://www.guabiruba.sc.gov.br,-48.983560448,-27.0603252393,Guabiruba,,Blumenau,Vale do Itajaí,420021,Brusque,4207,Blumenau
+4206405,SC,296540,Q1799361,Guaraciaba,,10259,10154,pt:Guaraciaba (Santa Catarina),https://www.guaraciaba.sc.gov.br,-53.5220897182,-26.6003475708,Guaraciaba,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
+4206504,SC,296785,Q1799377,Guaramirim,,42872,43822,pt:Guaramirim,http://www.guaramirim.sc.gov.br,-48.9921042659,-26.4744451283,Guaramirim,,Joinville,Norte Catarinense,420016,Joinville,4206,Joinville
+4206603,SC,296513,Q986566,Guarujá do Sul,,5139,5141,pt:Guarujá do Sul,https://www.guarujadosul.sc.gov.br,-53.5254451083,-26.384920604,Guaruja do Sul,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
+4206652,SC,296647,Q1784804,Guatambú,,4733,4710,pt:Guatambu,https://www.guatambu.sc.gov.br,-52.7838401343,-27.1369108659,Guatambu,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4206702,SC,296649,Q1784481,Herval d'Oeste,,22443,22495,pt:Herval d'Oeste,https://www.hervaldoeste.sc.gov.br,-51.4962153103,-27.1703031847,Herval d'Oeste,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
+4206751,SC,296747,Q1784512,Ibiam,,1967,1959,pt:Ibiam,https://www.ibiam.sc.gov.br,-51.2394276983,-27.1805834764,Ibiam,,Joaçaba,Oeste Catarinense,420015,Videira,4205,Caçador
+4206801,SC,296716,Q1799339,Ibicaré,,3268,3227,pt:Ibicaré,https://www.ibicare.sc.gov.br,-51.368450262,-27.0915490161,Ibicare,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
+4206900,SC,296728,Q747403,Ibirama,,18721,18802,pt:Ibirama,https://www.ibirama.sc.gov.br,-49.5220277592,-27.0535408849,Ibirama,,Rio do Sul,Vale do Itajaí,420023,Ibirama - Presidente Getúlio,4207,Blumenau
+4207007,SC,296752,Q1764963,Içara,,54845,55581,pt:Içara,https://www.icara.sc.gov.br,-49.3008225783,-28.7070840092,Icara,,Criciúma,Sul Catarinense,420002,Criciúma,4202,Criciúma
+4207106,SC,296786,Q1799373,Ilhota,,13857,14005,pt:Ilhota,https://www.ilhota.sc.gov.br,-48.8250140064,-26.9046251832,Ilhota,,Itajaí,Vale do Itajaí,420019,Blumenau,4207,Blumenau
+4207205,SC,296596,Q1750764,Imaruí,,10571,10326,pt:Imaruí,https://www.imarui.sc.gov.br,-48.8146717195,-28.3438499095,Imarui,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
+4207304,SC,296691,Q986545,Imbituba,,44076,44412,pt:Imbituba,https://www.imbituba.sc.gov.br,-48.6692841969,-28.239951114,Imbituba,,Tubarão,Sul Catarinense,420001,Florianópolis,4201,Florianópolis
+4207403,SC,296791,Q1815721,Imbuia,,6133,6153,pt:Imbuia (Santa Catarina),https://www.imbuia.sc.gov.br,-49.427729345,-27.4946042536,Imbuia,,Ituporanga,Vale do Itajaí,420024,Ituporanga,4207,Blumenau
+4207502,SC,296781,Q1784570,Indaial,,66497,67923,pt:Indaial,http://www.indaial.sc.gov.br,-49.24014046,-26.9062559992,Indaial,,Blumenau,Vale do Itajaí,420019,Blumenau,4207,Blumenau
+4207577,SC,296670,Q1784584,Iomerê,,2917,2927,pt:Iomerê,https://www.iomere.sc.gov.br,-51.2406190979,-27.0010780508,Iomere,,Joaçaba,Oeste Catarinense,420015,Videira,4205,Caçador
+4207601,SC,296545,Q968703,Ipira,,4562,4486,pt:Ipira,https://www.ipira.sc.gov.br,-51.7708536189,-27.4097088482,Ipira,,Concórdia,Oeste Catarinense,420010,Concórdia,4204,Chapecó
+4207650,SC,296765,Q1757758,Iporã do Oeste,,8930,8945,pt:Iporã do Oeste,http://www.ipora.sc.gov.br,-53.5395118843,-26.9960166793,Ipora do Oeste,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
+4207684,SC,296624,Q647194,Ipuaçu,,7400,7448,pt:Ipuaçu,https://www.ipuacu.sc.gov.br,-52.4542969118,-26.6325600977,Ipuacu,,Xanxerê,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
+4207700,SC,296659,Q1758047,Ipumirim,,7561,7565,pt:Ipumirim,https://www.ipumirim.sc.gov.br,-52.1405408668,-27.0683263638,Ipumirim,,Concórdia,Oeste Catarinense,420010,Concórdia,4204,Chapecó
+4207759,SC,296788,Q1758989,Iraceminha,,4067,4015,pt:Iraceminha,https://www.iraceminha.sc.gov.br,-53.276057794,-26.8240650316,Iraceminha,,Chapecó,Oeste Catarinense,420012,Maravilha,4204,Chapecó
+4207809,SC,296729,Q732916,Irani,,10285,10339,pt:Irani,https://www.irani.sc.gov.br,-51.904107924,-27.0161866891,Irani,,Concórdia,Oeste Catarinense,420010,Concórdia,4204,Chapecó
+4207858,SC,296676,Q767579,Irati,,1984,1952,pt:Irati (Santa Catarina),https://www.irati.sc.gov.br,-52.8950113563,-26.6572269448,Irati,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4207908,SC,296572,Q1784615,Irineópolis,,11133,11155,pt:Irineópolis,https://www.irineopolis.sc.gov.br,-50.8039000498,-26.2366129371,Irineopolis,,Canoinhas,Norte Catarinense,420017,Mafra,4206,Joinville
+4208005,SC,296635,Q1774437,Itá,,6275,6209,pt:Itá (Santa Catarina),http://www.ita.sc.gov.br,-52.3291825163,-27.2817787175,Ita,,Concórdia,Oeste Catarinense,420010,Concórdia,4204,Chapecó
+4208104,SC,296613,Q1796811,Itaiópolis,,21506,21556,pt:Itaiópolis,https://www.itaiopolis.sc.gov.br,-49.9087562022,-26.3371264112,Itaiopolis,,Canoinhas,Norte Catarinense,420017,Mafra,4206,Joinville
+4208203,SC,296666,Q842713,Itajaí,,212615,215895,pt:Itajaí,https://www.itajai.sc.gov.br,-48.6570232083,-26.9074262398,Itajai,,Itajaí,Vale do Itajaí,420020,Itajaí,4207,Blumenau
+4208302,SC,296608,Q1750776,Itapema,,61187,63250,pt:Itapema,https://www.itapema.sc.gov.br,-48.6173993861,-27.0959378837,Itapema,,Itajaí,Vale do Itajaí,420020,Itajaí,4207,Blumenau
+4208401,SC,296511,Q595033,Itapiranga,,16683,16736,pt:Itapiranga (Santa Catarina),http://www.itapiranga.sc.gov.br,-53.7148020649,-27.1753750895,Itapiranga,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
+4208450,SC,296679,Q1758956,Itapoá,,19355,19963,pt:Itapoá,https://www.itapoa.sc.gov.br,-48.6041676071,-26.006047887,Itapoa,,Joinville,Norte Catarinense,420016,Joinville,4206,Joinville
+4208500,SC,296604,Q1758267,Ituporanga,,24622,24812,pt:Ituporanga,http://www.ituporanga.sc.gov.br,-49.6034147011,-27.4148584907,Ituporanga,,Ituporanga,Vale do Itajaí,420024,Ituporanga,4207,Blumenau
+4208609,SC,296722,Q612795,Jaborá,,3990,3955,pt:Jaborá,https://www.jabora.sc.gov.br,-51.743353839,-27.1728530869,Jabora,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
+4208708,SC,296589,Q1799312,Jacinto Machado,,10539,10457,pt:Jacinto Machado,https://www.jacintomachado.sc.gov.br,-49.7617686564,-29.0014186138,Jacinto Machado,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
+4208807,SC,296710,Q1764984,Jaguaruna,,19527,19755,pt:Jaguaruna,https://www.jaguaruna.sc.gov.br,-49.0491289861,-28.6249636892,Jaguaruna,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
+4208906,SC,296625,Q849584,Jaraguá do Sul,,170835,174158,pt:Jaraguá do Sul,http://www.jaraguadosul.com.br,-49.0762988228,-26.4904843494,Jaragua do Sul,,Joinville,Norte Catarinense,420016,Joinville,4206,Joinville
+4208955,SC,296566,Q1815648,Jardinópolis,,1625,1595,pt:Jardinópolis (Santa Catarina),https://www.jardinopolis.sc.gov.br,-52.858899256,-26.7205694035,Jardinopolis,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4209003,SC,296753,Q1758467,Joaçaba,,29608,29827,pt:Joaçaba,https://www.joacaba.sc.gov.br,-51.5066897333,-27.1739445292,Joacaba,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
+4209102,SC,296650,Q156819,Joinville,,577077,583144,pt:Joinville,https://www.joinville.sc.gov.br,-48.8494091432,-26.3045176487,Joinville,,Joinville,Norte Catarinense,420016,Joinville,4206,Joinville
+4209151,SC,296519,Q1784463,José Boiteux,,4887,4985,pt:José Boiteux,https://www.pmjb.sc.gov.br,-49.6238066865,-26.9546826166,Jose Boiteux,,Rio do Sul,Vale do Itajaí,420023,Ibirama - Presidente Getúlio,4207,Blumenau
+4209177,SC,296586,Q664255,Jupiá,,2127,2110,pt:Jupiá,https://www.jupia.sc.gov.br,-52.7343805408,-26.393702818,Jupia,,Xanxerê,Oeste Catarinense,420013,São Lourenço do Oeste,4204,Chapecó
+4209201,SC,296773,Q1799404,Lacerdópolis,,2251,2245,pt:Lacerdópolis,https://www.lacerdopolis.sc.gov.br,-51.5628663691,-27.2646000912,Lacerdopolis,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
+4209300,SC,296771,Q762009,Lages,,158508,157743,pt:Lages,https://www.lages.sc.gov.br,-50.3302224242,-27.8172594631,Lages,,Campos de Lages,Serrana,420005,Lages,4203,Lages
+4209409,SC,296721,Q1615291,Laguna,,45311,45500,pt:Laguna (Santa Catarina),https://www.laguna.sc.gov.br,-48.7813886218,-28.4835859539,Laguna,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
+4209458,SC,593770,Q1784377,Lajeado Grande,,1453,1437,pt:Lajeado Grande,https://www.lajeadogrande.sc.gov.br,-52.5660348495,-26.8609423456,Lajeado Grande,,Xanxerê,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4209508,SC,296554,Q1784534,Laurentino,,6790,6875,pt:Laurentino,https://www.laurentino.sc.gov.br,-49.755263661,-27.2123881016,Laurentino,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
+4209607,SC,296699,Q651077,Lauro Müller,,15149,15174,pt:Lauro Müller (Santa Catarina),https://www.lauromuller.sc.gov.br,-49.3943072672,-28.3935851653,Lauro Muller,,Criciúma,Sul Catarinense,420002,Criciúma,4202,Criciúma
+4209706,SC,296616,Q1799343,Lebon Régis,,12133,12099,pt:Lebon Régis,https://www.lebonregis.sc.gov.br,-50.6918278644,-26.9291140112,Lebon Regis,,Joaçaba,Oeste Catarinense,420014,Caçador,4205,Caçador
+4209805,SC,296536,Q1765068,Leoberto Leal,,3140,3083,pt:Leoberto Leal (Santa Catarina),https://www.leobertoleal.sc.gov.br,-49.289401499,-27.5063895157,Leoberto Leal,,Tijucas,Grande Florianópolis,420024,Ituporanga,4207,Blumenau
+4209854,SC,296735,Q1757818,Lindóia do Sul,,4615,4580,pt:Lindóia do Sul,https://www.lindoiadosul.sc.gov.br,-52.0809226442,-27.0474644815,Lindoia do Sul,,Concórdia,Oeste Catarinense,420010,Concórdia,4204,Chapecó
+4209904,SC,296523,Q1784684,Lontras,,11774,11942,pt:Lontras,https://www.lontras.sc.gov.br,-49.5448293547,-27.1574865637,Lontras,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
+4210001,SC,296592,Q1784358,Luiz Alves,,12413,12609,pt:Luiz Alves,https://www.luizalves.sc.gov.br,-48.9260467723,-26.7211107867,Luiz Alves,,Blumenau,Vale do Itajaí,420020,Itajaí,4207,Blumenau
+4210035,SC,296648,Q1758351,Luzerna,,5705,5686,pt:Luzerna (Santa Catarina),https://www.luzerna.sc.gov.br,-51.4679460432,-27.1298960692,Luzerna,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
+4210050,SC,296555,Q1815712,Macieira,,1799,1784,pt:Macieira (Santa Catarina),https://www.macieira.sc.gov.br,-51.376121977,-26.8552123885,Macieira,,Joaçaba,Oeste Catarinense,420014,Caçador,4205,Caçador
+4210100,SC,296713,Q1020414,Mafra,,55907,56017,pt:Mafra (Santa Catarina),https://www.mafra.sc.gov.br,-49.8010375283,-26.1152284943,Mafra,,Canoinhas,Norte Catarinense,420017,Mafra,4206,Joinville
+4210209,SC,296518,Q1765004,Major Gercino,,3429,3430,pt:Major Gercino,https://www.majorgercino.sc.gov.br,-48.9533539589,-27.4186604134,Major Gercino,,Tijucas,Grande Florianópolis,420021,Brusque,4207,Blumenau
+4210308,SC,296737,Q1799281,Major Vieira,,8015,8048,pt:Major Vieira,https://www.majorvieira.sc.gov.br,-50.3329868433,-26.357526536,Major Vieira,,Canoinhas,Norte Catarinense,420017,Mafra,4206,Joinville
+4210407,SC,296664,Q1799325,Maracajá,,7139,7207,pt:Maracajá,https://www.maracaja.sc.gov.br,-49.4543763246,-28.850314607,Maracaja,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
+4210506,SC,296502,Q1815756,Maravilha,,25076,25403,pt:Maravilha (Santa Catarina),https://www.maravilha.sc.gov.br,-53.1748188159,-26.7616239473,Maravilha,,Chapecó,Oeste Catarinense,420012,Maravilha,4204,Chapecó
+4210555,SC,296534,Q1815686,Marema,,1906,1846,pt:Marema,https://www.marema.sc.gov.br,-52.6271354101,-26.8004219088,Marema,,Xanxerê,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4210605,SC,296563,Q980131,Massaranduba,,16455,16704,pt:Massaranduba (Santa Catarina),http://www.massaranduba.sc.gov.br,-48.9887446627,-26.5954580147,Massaranduba,,Joinville,Norte Catarinense,420016,Joinville,4206,Joinville
+4210704,SC,296575,Q1784736,Matos Costa,,2614,2560,pt:Matos Costa,https://www.matoscosta.sc.gov.br,-51.1574514436,-26.4741154352,Matos Costa,,Joaçaba,Oeste Catarinense,420014,Caçador,4205,Caçador
+4210803,SC,296620,Q1799434,Meleiro,,7047,7028,pt:Meleiro,https://www.meleiro.sc.gov.br,-49.6298493602,-28.8324458209,Meleiro,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
+4210852,SC,296727,Q1799318,Mirim Doce,,2374,2336,pt:Mirim Doce,https://www.mirimdoce.sc.gov.br,-50.0685637124,-27.2012050831,Mirim Doce,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
+4210902,SC,296726,Q1796806,Modelo,,4192,4200,pt:Modelo (Santa Catarina),https://www.modelo.sc.gov.br,-53.0535007992,-26.7780420757,Modelo,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4211009,SC,296543,Q1758042,Mondaí,,11496,11592,pt:Mondaí,https://www.mondai.sc.gov.br,-53.3986840279,-27.1036116941,Mondai,,São Miguel D'oeste,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4211058,SC,296749,Q1815693,Monte Carlo,,9785,9824,pt:Monte Carlo (Santa Catarina),https://www.montecarlo.sc.gov.br,-50.974104678,-27.2176788021,Monte Carlo,,Curitibanos,Serrana,420015,Videira,4205,Caçador
+4211108,SC,296756,Q2011999,Monte Castelo,,8471,8280,pt:Monte Castelo (Santa Catarina),https://www.montecastelo.sc.gov.br,-50.2262714329,-26.4563624722,Monte Castelo,,Canoinhas,Norte Catarinense,420017,Mafra,4206,Joinville
+4211207,SC,296506,Q1758949,Morro da Fumaça,,17532,17642,pt:Morro da Fumaça,https://www.morrodafumaca.sc.gov.br,-49.2132565084,-28.654787843,Morro da Fumaca,,Criciúma,Sul Catarinense,420002,Criciúma,4202,Criciúma
+4211256,SC,296617,Q1784594,Morro Grande,,2915,2898,pt:Morro Grande,https://www.morrogrande.sc.gov.br,-49.7187999838,-28.7997195367,Morro Grande,,Araranguá,Sul Catarinense,420002,Criciúma,4202,Criciúma
+4211306,SC,296609,Q1010299,Navegantes,,77137,79285,pt:Navegantes,http://www.navegantes.sc.gov.br,-48.6491829025,-26.8974391193,Navegantes,,Itajaí,Vale do Itajaí,420020,Itajaí,4207,Blumenau
+4211405,SC,296697,Q955577,Nova Erechim,,4879,4945,pt:Nova Erechim,https://www.novaerechim.sc.gov.br,-52.9112866654,-26.9012733981,Nova Erechim,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4211454,SC,296630,Q1758973,Nova Itaberaba,,4339,4333,pt:Nova Itaberaba,https://www.novaitaberaba.sc.gov.br,-52.8112440549,-26.9428898836,Nova Itaberaba,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4211504,SC,296711,Q1637513,Nova Trento,,14099,14312,pt:Nova Trento,https://www.novatrento.sc.gov.br,-48.9257954329,-27.2877711668,Nova Trento,,Tijucas,Grande Florianópolis,420021,Brusque,4207,Blumenau
+4211603,SC,296516,Q961509,Nova Veneza,,14837,14987,pt:Nova Veneza (Santa Catarina),https://www.novaveneza.sc.gov.br,-49.5031235817,-28.6382326023,Nova Veneza,,Criciúma,Sul Catarinense,420002,Criciúma,4202,Criciúma
+4211652,SC,296794,Q926081,Novo Horizonte,,2532,2481,pt:Novo Horizonte (Santa Catarina),https://www.novohorizonte.sc.gov.br,-52.8340333905,-26.4461719902,Novo Horizonte,,Chapecó,Oeste Catarinense,420013,São Lourenço do Oeste,4204,Chapecó
+4211702,SC,296782,Q1784752,Orleans,,22723,22785,pt:Orleans (Santa Catarina),https://www.pmo.sc.gov.br,-49.2914262911,-28.3604689663,Orleans,,Tubarão,Sul Catarinense,420002,Criciúma,4202,Criciúma
+4211751,SC,296750,Q956998,Otacílio Costa,,18313,18510,pt:Otacílio Costa,https://www.otaciliocosta.sc.gov.br,-50.1123146891,-27.503846175,Otacilio Costa,,Campos de Lages,Serrana,420005,Lages,4203,Lages
+4211801,SC,296732,Q1784491,Ouro,,7363,7317,pt:Ouro (Santa Catarina),https://www.ouro.sc.gov.br,-51.6205621782,-27.3424881724,Ouro,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
+4211850,SC,296581,Q1994858,Ouro Verde,,2245,2227,pt:Ouro Verde (Santa Catarina),https://www.ouroverde.sc.gov.br,-52.3100192014,-26.6959944196,Ouro Verde,,Xanxerê,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
+4211876,SC,296759,Q1758019,Paial,,1577,1537,pt:Paial,https://www.paial.sc.gov.br,-52.5010887493,-27.2551577941,Paial,,Concórdia,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4211892,SC,296654,Q1764975,Painel,,2376,2363,pt:Painel,https://www.painel.sc.gov.br,-50.113009741,-27.9145181854,Painel,,Campos de Lages,Serrana,420005,Lages,4203,Lages
+4211900,SC,296582,Q973513,Palhoça,,164926,168259,pt:Palhoça,http://www.palhoca.sc.gov.br,-48.6702879187,-27.6470436837,Palhoca,,Florianópolis,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
+4212007,SC,296628,Q1799425,Palma Sola,,7558,7475,pt:Palma Sola,http://www.palmasola.sc.gov.br,-53.2799772512,-26.3465081338,Palma Sola,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
+4212056,SC,296685,Q1784383,Palmeira,,2586,2603,pt:Palmeira (Santa Catarina),https://www.palmeira.sc.gov.br,-50.1590014056,-27.5822620705,Palmeira,,Campos de Lages,Serrana,420005,Lages,4203,Lages
+4212106,SC,296573,Q588170,Palmitos,,16253,16182,pt:Palmitos,https://www.palmitos.sc.gov.br,-53.1622672929,-27.0702505492,Palmitos,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4212205,SC,296526,Q1796797,Papanduva,,19015,19218,pt:Papanduva,https://www.papanduva.sc.gov.br,-50.1632041973,-26.3939830708,Papanduva,,Canoinhas,Norte Catarinense,420017,Mafra,4206,Joinville
+4212239,SC,296587,Q428892,Paraíso,,3613,3515,pt:Paraíso (Santa Catarina),https://www.paraiso.sc.gov.br,-53.6753141317,-26.6152629708,Paraiso,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
+4212254,SC,296751,Q1799402,Passo de Torres,,8370,8594,pt:Passo de Torres,https://www.passodetorres.sc.gov.br,-49.7251452725,-29.3234599051,Passo de Torres,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
+4212270,SC,296610,Q1799357,Passos Maia,,4243,4186,pt:Passos Maia,https://www.passosmaia.sc.gov.br,-52.0617238004,-26.7808891472,Passos Maia,,Xanxerê,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
+4212304,SC,296636,Q1750773,Paulo Lopes,,7360,7418,pt:Paulo Lopes,https://www.paulolopes.sc.gov.br,-48.6814954136,-27.9498162326,Paulo Lopes,,Florianópolis,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
+4212403,SC,296769,Q1121962,Pedras Grandes,,4026,4000,pt:Pedras Grandes,https://www.pedrasgrandes.sc.gov.br,-49.1864875474,-28.4372176497,Pedras Grandes,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
+4212502,SC,296549,Q1784611,Penha,,31025,31764,pt:Penha (Santa Catarina),https://www.penha.sc.gov.br,-48.6475729113,-26.7688610927,Penha,,Itajaí,Vale do Itajaí,420020,Itajaí,4207,Blumenau
+4212601,SC,296571,Q1758031,Peritiba,,2855,2814,pt:Peritiba,https://www.peritiba.sc.gov.br,-51.9098146671,-27.3773092815,Peritiba,,Concórdia,Oeste Catarinense,420010,Concórdia,4204,Chapecó
+4212650,SC,3059133,Q3136609,Pescaria Brava,,9980,10022,pt:Pescaria Brava,https://www.pescariabrava.sc.gov.br,-48.886735,-28.396980,Pescaria Brava,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
+4212700,SC,296512,Q747168,Petrolândia,,6021,5971,pt:Petrolândia (Santa Catarina),https://www.petrolandia.sc.gov.br,-49.6948686231,-27.528126833,Petrolandia,,Ituporanga,Vale do Itajaí,420024,Ituporanga,4207,Blumenau
+4212809,SC,296718,Q285815,Balneário Piçarras,,21884,22511,pt:Balneário Piçarras,http://www.picarras.sc.gov.br,-48.675051354,-26.7691705385,Balneario Picarras,,Itajaí,Vale do Itajaí,420020,Itajaí,4207,Blumenau
+4212908,SC,296784,Q2011993,Pinhalzinho,,19511,19906,pt:Pinhalzinho (Santa Catarina),http://www.pinhalzinho.sc.gov.br,-52.9822532451,-26.8488143342,Pinhalzinho,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4213005,SC,296585,Q1799392,Pinheiro Preto,,3480,3513,pt:Pinheiro Preto,https://www.pinheiropreto.sc.gov.br,-51.2305364835,-27.0451346161,Pinheiro Preto,,Joaçaba,Oeste Catarinense,420015,Videira,4205,Caçador
+4213104,SC,296637,Q952174,Piratuba,,4102,3965,pt:Piratuba,https://www.piratuba.sc.gov.br,-51.7586498276,-27.4159535517,Piratuba,,Concórdia,Oeste Catarinense,420010,Concórdia,4204,Chapecó
+4213153,SC,296720,Q1758995,Planalto Alegre,,2844,2850,pt:Planalto Alegre,http://www.planaltoalegre.sc.gov.br,-52.8673520308,-27.0694597761,Planalto Alegre,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4213203,SC,4271672,Q326651,Pomerode,,32334,32874,pt:Pomerode,http://www.pomerode.sc.gov.br,-49.1741975274,-26.7448263965,Pomerode,,Blumenau,Vale do Itajaí,420019,Blumenau,4207,Blumenau
+4213302,SC,296704,Q1764920,Ponte Alta,,4767,4714,pt:Ponte Alta,https://www.pontealta.sc.gov.br,-50.3771006508,-27.4677840728,Ponte Alta,,Curitibanos,Serrana,420005,Lages,4203,Lages
+4213351,SC,296731,Q1777271,Ponte Alta do Norte,,3413,3408,pt:Ponte Alta do Norte,https://www.pmpan.sc.gov.br,-50.4654042678,-27.1690291829,Ponte Alta do Norte,,Curitibanos,Serrana,420006,Curitibanos,4203,Lages
+4213401,SC,296505,Q1784813,Ponte Serrada,,11545,11552,pt:Ponte Serrada,https://www.ponteserrada.sc.gov.br,-52.0145375125,-26.8749128276,Ponte Serrada,,Xanxerê,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
+4213500,SC,296565,Q1799285,Porto Belo,,20294,20834,pt:Porto Belo,https://www.portobelo.sc.gov.br,-48.6027567396,-27.1494662097,Porto Belo,,Itajaí,Vale do Itajaí,420020,Itajaí,4207,Blumenau
+4213609,SC,296677,Q1784679,Porto União,,35207,35250,pt:Porto União,https://www.portouniao.sc.gov.br,-51.0816046336,-26.2300048981,Porto Uniao,,Canoinhas,Norte Catarinense,420017,Mafra,4206,Joinville
+4213708,SC,296524,Q1796818,Pouso Redondo,,16957,17189,pt:Pouso Redondo,https://www.pousoredondo.sc.gov.br,-49.9556521355,-27.2510862782,Pouso Redondo,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
+4213807,SC,296783,Q1822575,Praia Grande,,7364,7326,pt:Praia Grande (Santa Catarina),https://www.praiagrande.sc.gov.br,-49.9605919763,-29.1957763636,Praia Grande,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
+4213906,SC,296550,Q1815669,Presidente Castello Branco,,1610,1590,pt:Presidente Castello Branco (Santa Catarina),https://www.castellobranco.sc.gov.br,-51.8113755382,-27.2199421946,Presidente Castello Branco,,Concórdia,Oeste Catarinense,420010,Concórdia,4204,Chapecó
+4214003,SC,296790,Q1757828,Presidente Getúlio,,16996,17215,pt:Presidente Getúlio,http://www.presidentegetulio.sc.gov.br,-49.6220861691,-27.0414082411,Presidente Getulio,,Rio do Sul,Vale do Itajaí,420023,Ibirama - Presidente Getúlio,4207,Blumenau
+4214102,SC,296632,Q1799367,Presidente Nereu,,2304,2290,pt:Presidente Nereu,https://www.presidentenereu.sc.gov.br,-49.4032927711,-27.2873292141,Presidente Nereu,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
+4214151,SC,296510,Q960413,Princesa,,2906,2911,pt:Princesa (Santa Catarina),https://www.princesa.sc.gov.br,-53.5981058756,-26.4443352068,Princesa,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
+4214201,SC,296760,Q2012005,Quilombo,,10044,9946,pt:Quilombo (Santa Catarina),https://www.quilombo.sc.gov.br,-52.7276095701,-26.7400555498,Quilombo,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4214300,SC,296594,Q1764967,Rancho Queimado,,2871,2868,pt:Rancho Queimado,http://www.rq.sc.gov.br,-49.00843238,-27.6772088641,Rancho Queimado,,Tabuleiro,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
+4214409,SC,296520,Q606838,Rio das Antas,,6246,6208,pt:Rio das Antas,https://www.riodasantas.sc.gov.br,-51.0760199432,-26.8970674359,Rio das Antas,,Joaçaba,Oeste Catarinense,420015,Videira,4205,Caçador
+4214508,SC,296531,Q1784673,Rio do Campo,,6043,5979,pt:Rio do Campo,http://www.riodocampo.sc.gov.br,-50.139588913,-26.9423084311,Rio do Campo,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
+4214607,SC,4753715,Q775857,Rio do Oeste,,7463,7456,pt:Rio do Oeste,https://www.riodooeste.sc.gov.br,-49.8028622167,-27.191166518,Rio do Oeste,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
+4214706,SC,296789,Q1784005,Rio dos Cedros,,11431,11542,pt:Rio dos Cedros,https://www.riodoscedros.sc.gov.br,-49.2723794436,-26.7491298162,Rio dos Cedros,,Blumenau,Vale do Itajaí,420019,Blumenau,4207,Blumenau
+4214805,SC,296719,Q1784001,Rio do Sul,,69188,70100,pt:Rio do Sul,https://www.riodosul.sc.gov.br,-49.6432375291,-27.2179032254,Rio do Sul,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
+4214904,SC,296707,Q1765038,Rio Fortuna,,4606,4601,pt:Rio Fortuna,https://www.riofortuna.sc.gov.br,-49.1050938026,-28.1325913886,Rio Fortuna,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
+4215000,SC,296541,Q1784714,Rio Negrinho,,42029,42106,pt:Rio Negrinho,https://www.rionegrinho.sc.gov.br,-49.5172950756,-26.2553250279,Rio Negrinho,,São Bento do Sul,Norte Catarinense,420018,São Bento do Sul - Rio Negrinho,4206,Joinville
+4215059,SC,296675,Q1765047,Rio Rufino,,2489,2482,pt:Rio Rufino,https://www.riorufino.sc.gov.br,-49.7775918043,-27.8632354792,Rio Rufino,,Campos de Lages,Serrana,420005,Lages,4203,Lages
+4215075,SC,296558,Q691288,Riqueza,,4670,4636,pt:Riqueza (Santa Catarina),https://www.riqueza.sc.gov.br,-53.3252862115,-27.0675941646,Riqueza,,São Miguel D'oeste,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4215109,SC,296660,Q2012010,Rodeio,,11488,11502,pt:Rodeio (Santa Catarina),https://www.rodeio.sc.gov.br,-49.3047072335,-26.9435016684,Rodeio,,Blumenau,Vale do Itajaí,420019,Blumenau,4207,Blumenau
+4215208,SC,296680,Q1757763,Romelândia,,5022,4890,pt:Romelândia,https://www.romelandia.sc.gov.br,-53.3201584,-26.6794635631,Romelandia,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
+4215307,SC,296723,Q1784692,Salete,,7634,7626,pt:Salete (Santa Catarina),https://www.salete.sc.gov.br,-50.0017307311,-26.9752443334,Salete,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
+4215356,SC,296775,Q2011982,Saltinho,,3847,3808,pt:Saltinho (Santa Catarina),https://www.saltinho.sc.gov.br,-53.0586312489,-26.6085589196,Saltinho,,Chapecó,Oeste Catarinense,420012,Maravilha,4204,Chapecó
+4215406,SC,296689,Q289981,Salto Veloso,,4655,4680,pt:Salto Veloso,https://www.saltoveloso.sc.gov.br,-51.405208078,-26.9031646077,Salto Veloso,,Joaçaba,Oeste Catarinense,420015,Videira,4205,Caçador
+4215455,SC,296553,Q945132,Sangão,,12233,12446,pt:Sangão,https://www.sangao.sc.gov.br,-49.1340298642,-28.6332229229,Sangao,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
+4215505,SC,296612,Q931280,Santa Cecília,,16701,16741,pt:Santa Cecília (Santa Catarina),https://www.santacecilia.sc.gov.br,-50.4229016203,-26.9569007446,Santa Cecilia,,Curitibanos,Serrana,420006,Curitibanos,4203,Lages
+4215554,SC,296556,Q2020284,Santa Helena,,2266,2247,pt:Santa Helena (Santa Catarina),https://www.santahelena.sc.gov.br,-53.6199878739,-26.9398439236,Santa Helena,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
+4215604,SC,296559,Q706547,Santa Rosa de Lima,,2139,2137,pt:Santa Rosa de Lima (Santa Catarina),https://www.santarosadelima.sc.gov.br,-49.1250913029,-28.0356055728,Santa Rosa de Lima,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
+4215653,SC,296655,Q1799409,Santa Rosa do Sul,,8356,8338,pt:Santa Rosa do Sul,https://www.santarosadosul.sc.gov.br,-49.7176263736,-29.1352882186,Santa Rosa do Sul,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
+4215679,SC,296593,Q2314224,Santa Terezinha,,8846,8801,pt:Santa Terezinha (Santa Catarina),https://www.santaterezinha.sc.gov.br,-50.0055291871,-26.780982354,Santa Terezinha,,Canoinhas,Norte Catarinense,420022,Rio do Sul,4207,Blumenau
+4215687,SC,296535,Q1759023,Santa Terezinha do Progresso,,2557,2484,pt:Santa Terezinha do Progresso,https://www.staterezinhaprogresso.sc.gov.br,-53.1998469617,-26.6197755739,Santa Terezinha do Progresso,,Chapecó,Oeste Catarinense,420012,Maravilha,4204,Chapecó
+4215695,SC,296657,Q1758231,Santiago do Sul,,1317,1286,pt:Santiago do Sul,https://www.santiagodosul.sc.gov.br,-52.6759494793,-26.6348090909,Santiago do Sul,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4215703,SC,296642,Q327210,Santo Amaro da Imperatriz,,22609,22905,pt:Santo Amaro da Imperatriz,http://www.santoamaro.sc.gov.br,-48.7802399214,-27.6897477585,Santo Amaro da Imperatriz,,Florianópolis,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
+4215752,SC,296538,Q1758962,São Bernardino,,2449,2386,pt:São Bernardino,https://www.saobernardino.sc.gov.br,-52.9655387397,-26.4732782463,Sao Bernardino,,Chapecó,Oeste Catarinense,420013,São Lourenço do Oeste,4204,Chapecó
+4215802,SC,296606,Q1765057,São Bento do Sul,,82842,83576,pt:São Bento do Sul,http://www.saobentodosul.sc.gov.br,-49.3869788951,-26.2494854185,Sao Bento do Sul,,São Bento do Sul,Norte Catarinense,420018,São Bento do Sul - Rio Negrinho,4206,Joinville
+4215901,SC,296529,Q1784638,São Bonifácio,,2899,2862,pt:São Bonifácio (Santa Catarina),https://www.saobonifacio.sc.gov.br,-48.9293119586,-27.8964966985,Sao Bonifacio,,Tabuleiro,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
+4216008,SC,296533,Q1815617,São Carlos,,11132,11191,pt:São Carlos (Santa Catarina),https://www.saocarlos.sc.gov.br,-53.0173942733,-27.0786350779,Sao Carlos,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4216057,SC,296748,Q639952,São Cristóvão do Sul,,5464,5499,pt:São Cristóvão do Sul,https://www.pmsc.sc.gov.br,-50.4346289331,-27.2829466734,Sao Cristovao do Sul,,Curitibanos,Serrana,420006,Curitibanos,4203,Lages
+4216107,SC,296741,Q617155,São Domingos,,9502,9457,pt:São Domingos (Santa Catarina),https://www.saodomingos.sc.gov.br,-52.5372274685,-26.5578303695,Sao Domingos,,Xanxerê,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
+4216206,SC,296696,Q986536,São Francisco do Sul,,50701,51677,pt:São Francisco do Sul,http://www.saofranciscodosul.sc.gov.br,-48.6375707582,-26.2440178842,Sao Francisco do Sul,,Joinville,Norte Catarinense,420016,Joinville,4206,Joinville
+4216255,SC,296509,Q599623,São João do Oeste,,6309,6359,pt:São João do Oeste,https://www.saojoao.sc.gov.br,-53.5959666797,-27.0974826254,Sao Joao do Oeste,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
+4216305,SC,296567,Q2023825,São João Batista,,35065,36244,pt:São João Batista (Santa Catarina),https://www.sjbatista.sc.gov.br,-48.8570042802,-27.2958805567,Sao Joao Batista,,Tijucas,Grande Florianópolis,420021,Brusque,4207,Blumenau
+4216354,SC,296644,Q1799384,São João do Itaperiú,,3690,3707,pt:São João do Itaperiú,https://www.pmsji.sc.gov.br,-48.7677653868,-26.6174540463,Sao Joao do Itaperiu,,Itajaí,Vale do Itajaí,420016,Joinville,4206,Joinville
+4216404,SC,296706,Q1799427,São João do Sul,,7268,7280,pt:São João do Sul,https://www.saojoaodosul.sc.gov.br,-49.8065713857,-29.2234797912,Sao Joao do Sul,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
+4216503,SC,296551,Q904782,São Joaquim,,26646,26763,pt:São Joaquim (Santa Catarina),https://www.saojoaquim.sc.gov.br,-49.9367417605,-28.2947124992,Sao Joaquim,,Campos de Lages,Serrana,420005,Lages,4203,Lages
+4216602,SC,296626,Q173849,São José,,239718,242927,pt:São José (Santa Catarina),https://www.saojose.sc.gov.br,-48.6160227159,-27.5903120772,Sao Jose,,Florianópolis,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
+4216701,SC,296717,Q545508,São José do Cedro,,13897,13838,pt:São José do Cedro,https://www.prefcedro.sc.gov.br,-53.5001241069,-26.4560602968,Sao Jose do Cedro,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
+4216800,SC,296590,Q1764954,São José do Cerrito,,8588,8421,pt:São José do Cerrito,https://www.cerrito.sc.gov.br,-50.5813861763,-27.6685865188,Sao Jose do Cerrito,,Campos de Lages,Serrana,420005,Lages,4203,Lages
+4216909,SC,296774,Q1759029,São Lourenço do Oeste,,23698,23857,pt:São Lourenço do Oeste,http://www.saolourenco.sc.gov.br,-52.851333667,-26.3551901646,Sao Lourenco do Oeste,,Chapecó,Oeste Catarinense,420013,São Lourenço do Oeste,4204,Chapecó
+4217006,SC,296542,Q2662610,São Ludgero,,12934,13165,pt:São Ludgero (Santa Catarina),https://www.saoludgero.sc.gov.br,-49.1756843247,-28.3268955251,Sao Ludgero,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
+4217105,SC,296763,Q2065307,São Martinho,,3210,3189,pt:São Martinho (Santa Catarina),https://www.saomartinho.sc.gov.br,-48.977786248,-28.1644952896,Sao Martinho,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
+4217154,SC,296569,Q1757994,São Miguel da Boa Vista,,1848,1833,pt:São Miguel da Boa Vista,https://www.saomigueldaboavista.sc.gov.br,-53.2545563767,-26.6944751453,Sao Miguel da Boa Vista,,Chapecó,Oeste Catarinense,420012,Maravilha,4204,Chapecó
+4217204,SC,296744,Q1757748,São Miguel do Oeste,,39793,40090,pt:São Miguel do Oeste,https://www.saomiguel.sc.gov.br,-53.5188394062,-26.7264271767,Sao Miguel do Oeste,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
+4217253,SC,296766,Q1750756,São Pedro de Alcântara,,5602,5709,pt:São Pedro de Alcântara,https://www.pmspa.sc.gov.br,-48.7876695873,-27.5671700934,Sao Pedro de Alcantara,,Florianópolis,Grande Florianópolis,420001,Florianópolis,4201,Florianópolis
+4217303,SC,296528,Q1757999,Saudades,,9664,9679,pt:Saudades (Santa Catarina),https://www.saudades.sc.gov.br,-52.9955697273,-26.919756951,Saudades,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4217402,SC,296611,Q398844,Schroeder,,20095,20728,pt:Schroeder,https://www.schroeder.sc.gov.br,-49.0732596915,-26.4209759126,Schroeder,,Joinville,Norte Catarinense,420016,Joinville,4206,Joinville
+4217501,SC,296525,Q1784472,Seara,,17526,17506,pt:Seara (Santa Catarina),https://www.seara.sc.gov.br,-52.302854828,-27.1456976229,Seara,,Concórdia,Oeste Catarinense,420010,Concórdia,4204,Chapecó
+4217550,SC,296557,Q1757812,Serra Alta,,3301,3270,pt:Serra Alta,https://www.serraalta.sc.gov.br,-53.0462763415,-26.7247733741,Serra Alta,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4217600,SC,296544,Q1759010,Siderópolis,,13870,13920,pt:Siderópolis,https://www.sideropolis.sc.gov.br,-49.420540933,-28.5951024182,Sideropolis,,Criciúma,Sul Catarinense,420002,Criciúma,4202,Criciúma
+4217709,SC,296700,Q1784827,Sombrio,,29710,30010,pt:Sombrio,https://www.sombrio.sc.gov.br,-49.6342103641,-29.1091327568,Sombrio,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
+4217758,SC,296634,Q549349,Sul Brasil,,2551,2500,pt:Sul Brasil,https://www.sulbrasil.sc.gov.br,-52.9642047957,-26.7369362097,Sul Brasil,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4217808,SC,296757,Q1759213,Taió,,18261,18302,pt:Taió,https://www.taio.sc.gov.br,-50.0050964643,-27.1179373002,Taio,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
+4217907,SC,296651,Q22063771,Tangará,,8738,8691,pt:Tangará (Santa Catarina),https://www.tangara.sc.gov.br,-51.2459143753,-27.1010111042,Tangara,,Joaçaba,Oeste Catarinense,420015,Videira,4205,Caçador
+4217956,SC,296656,Q1758053,Tigrinhos,,1695,1646,pt:Tigrinhos,https://www.tigrinhos.sc.gov.br,-53.1575419839,-26.6894748378,Tigrinhos,,Chapecó,Oeste Catarinense,420012,Maravilha,4204,Chapecó
+4218004,SC,296598,Q951660,Tijucas,,36931,37645,pt:Tijucas,https://www.tijucas.sc.gov.br,-48.6320705639,-27.2394536072,Tijucas,,Tijucas,Grande Florianópolis,420020,Itajaí,4207,Blumenau
+4218103,SC,296605,Q1799417,Timbé do Sul,,5377,5354,pt:Timbé do Sul,https://www.timbedosul.sc.gov.br,-49.8441177628,-28.8325174935,Timbe do Sul,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
+4218202,SC,4082327,Q773783,Timbó,,42801,43484,pt:Timbó (Santa Catarina),https://www.timbo.sc.gov.br,-49.2777122898,-26.822902575,Timbo,,Blumenau,Vale do Itajaí,420019,Blumenau,4207,Blumenau
+4218251,SC,296701,Q614626,Timbó Grande,,7767,7812,pt:Timbó Grande,https://www.timbogrande.sc.gov.br,-50.6746741365,-26.617828491,Timbo Grande,,Canoinhas,Norte Catarinense,420014,Caçador,4205,Caçador
+4218301,SC,296663,Q22063767,Três Barras,,19146,19183,pt:Três Barras,http://www.tresbarras.sc.gov.br,-50.305419368,-26.1140963368,Tres Barras,,Canoinhas,Norte Catarinense,420017,Mafra,4206,Joinville
+4218350,SC,296667,Q22063766,Treviso,,3863,3891,pt:Treviso (Santa Catarina),https://www.treviso.sc.gov.br,-49.4559333789,-28.5184848579,Treviso,,Criciúma,Sul Catarinense,420002,Criciúma,4202,Criciúma
+4218400,SC,296633,Q1764936,Treze de Maio,,7098,7070,pt:Treze de Maio,https://www.trezedemaio.sc.gov.br,-49.1448153072,-28.5581400375,Treze de Maio,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
+4218509,SC,296778,Q339414,Treze Tílias,,7545,7687,pt:Treze Tílias,https://www.trezetilias.sc.gov.br,-51.4146746651,-26.9985363059,Treze Tilias,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
+4218608,SC,296631,Q1784066,Trombudo Central,,7211,7284,pt:Trombudo Central,https://www.trombudocentral.sc.gov.br,-49.7924782341,-27.3030195291,Trombudo Central,,Rio do Sul,Vale do Itajaí,420022,Rio do Sul,4207,Blumenau
+4218707,SC,296517,Q1815730,Tubarão,,104457,104937,pt:Tubarão (Santa Catarina),https://www.tubarao.sc.gov.br,-49.005268077,-28.4800339479,Tubarao,,Tubarão,Sul Catarinense,420003,Tubarão,4202,Criciúma
+4218756,SC,296674,Q1758036,Tunápolis,,4597,4561,pt:Tunápolis,https://www.tunapolis.sc.gov.br,-53.641459736,-26.9722235915,Tunapolis,,São Miguel D'oeste,Oeste Catarinense,420009,São Miguel do Oeste,4204,Chapecó
+4218806,SC,296669,Q1833591,Turvo,,12746,12806,pt:Turvo (Santa Catarina),https://www.turvo.sc.gov.br,-49.6808657451,-28.9247492174,Turvo,,Araranguá,Sul Catarinense,420004,Araranguá,4202,Criciúma
+4218855,SC,296755,Q1758015,União do Oeste,,2600,2517,pt:União do Oeste,https://www.uniaodooeste.sc.gov.br,-52.8514964564,-26.7617370137,Uniao do Oeste,,Chapecó,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4218905,SC,296623,Q1646925,Urubici,,11191,11195,pt:Urubici,https://www.urubici.sc.gov.br,-49.5882056111,-28.004554912,Urubici,,Campos de Lages,Serrana,420005,Lages,4203,Lages
+4218954,SC,296715,Q1765034,Urupema,,2487,2472,pt:Urupema,https://www.urupema.sc.gov.br,-49.8732112424,-27.9526858098,Urupema,,Campos de Lages,Serrana,420005,Lages,4203,Lages
+4219002,SC,296643,Q22063758,Urussanga,,21177,21190,pt:Urussanga,https://www.urussanga.sc.gov.br,-49.3191079186,-28.5199662039,Urussanga,,Criciúma,Sul Catarinense,420002,Criciúma,4202,Criciúma
+4219101,SC,296683,Q1758111,Vargeão,,3590,3575,pt:Vargeão,https://www.vargeao.sc.gov.br,-52.1541056501,-26.8639833174,Vargeao,,Xanxerê,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
+4219150,SC,296764,Q22063756,Vargem,,2543,2522,pt:Vargem (Santa Catarina),https://www.vargem.sc.gov.br,-50.9781506257,-27.4899701004,Vargem,,Curitibanos,Serrana,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
+4219176,SC,296562,Q609989,Vargem Bonita,,4597,4534,pt:Vargem Bonita (Santa Catarina),https://www.vargembonita.sc.gov.br,-51.7447401814,-27.0032416045,Vargem Bonita,,Joaçaba,Oeste Catarinense,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
+4219200,SC,296687,Q1784642,Vidal Ramos,,6356,6347,pt:Vidal Ramos (Santa Catarina),https://www.prefeituravidalramos.com.br,-49.3682191726,-27.3957786987,Vidal Ramos,,Ituporanga,Vale do Itajaí,420024,Ituporanga,4207,Blumenau
+4219309,SC,296682,Q1799400,Videira,,52066,52510,pt:Videira (Santa Catarina),https://www.videira.sc.gov.br,-51.1517052828,-27.006129068,Videira,,Joaçaba,Oeste Catarinense,420015,Videira,4205,Caçador
+4219358,SC,296762,Q1784631,Vitor Meireles,,5056,5014,pt:Vitor Meireles (Santa Catarina),https://www.vitormeireles.sc.gov.br,-49.830751961,-26.8815776186,Vitor Meireles,,Rio do Sul,Vale do Itajaí,420023,Ibirama - Presidente Getúlio,4207,Blumenau
+4219408,SC,296570,Q1000671,Witmarsum,,3912,3932,pt:Witmarsum,https://www.witmarsum.sc.gov.br,-49.8042033754,-26.9267427234,Witmarsum,,Rio do Sul,Vale do Itajaí,420023,Ibirama - Presidente Getúlio,4207,Blumenau
+4219507,SC,296714,Q22063751,Xanxerê,,49738,50309,pt:Xanxerê,https://www.xanxere.sc.gov.br,-52.404667139,-26.8745844992,Xanxere,,Xanxerê,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
+4219606,SC,296653,Q923208,Xavantina,,4012,3963,pt:Xavantina,https://www.xavantina.sc.gov.br,-52.3428505099,-27.0702501471,Xavantina,,Concórdia,Oeste Catarinense,420011,Xanxerê,4204,Chapecó
+4219705,SC,296746,Q1751322,Xaxim,,28210,28424,pt:Xaxim (Santa Catarina),https://www.xaxim.sc.gov.br,-52.5349325183,-26.9637194992,Xaxim,,Xanxerê,Oeste Catarinense,420007,Chapecó,4204,Chapecó
+4219853,SC,296662,Q1648503,Zortéa,,3300,3328,pt:Zortéa,https://www.zortea.sc.gov.br,-51.5495663068,-27.4502514117,Zortea,,Curitibanos,Serrana,420008,Joaçaba - Herval d'Oeste,4204,Chapecó
+4220000,SC,3059132,Q2881477,Balneário Rincão,,12403,12570,pt:Balneário Rincão,https://www.balneariorincao.sc.gov.br,-49.23611111,-28.83444444,Balneario Rincao,,Criciúma,Sul Catarinense,420002,Criciúma,4202,Criciúma
 4300034,RS,242682,Q913259,Aceguá,,4759,4858,pt:Aceguá,http://www.acegua.rs.gov.br/,-54.1647315364,-31.8640153043,Acegua,,Campanha Meridional,Sudoeste Rio-Grandense,430010,Bagé,4302,Pelotas
 4300059,RS,242438,Q249795,Água Santa,,3841,3753,pt:Água Santa (Rio Grande do Sul),http://www.aguasantars.com.br/,-52.0346327892,-28.1750547485,Agua Santa,,Passo Fundo,Noroeste Rio-Grandense,430032,Tapejara - Sananduva,4306,Passo Fundo
 4300109,RS,242758,Q398173,Agudo,,17085,16524,pt:Agudo,http://www.agudo.rs.gov.br/,-53.2586916877,-29.6456633632,Agudo,,Restinga Sêca,Centro Ocidental Rio-Grandense,430011,Santa Maria,4303,Santa Maria
