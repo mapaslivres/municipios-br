@@ -1,21 +1,21 @@
 ibge_code,state_code,osm_relation_id,wikidata_id,name,is_capital,population_2017,population_2018,wikipedia_pt,website,lon,lat,no_accents,alternative_names,microregion,mesoregion,rgi_id,rgi_name,rgint_id,rgint_name
-1100015,RO,325842,Q1761456,Alta Floresta d'Oeste,,25437,23167,pt:Alta Floresta d'Oeste,,-61.9998238963,-11.9355403048,Alta Floresta d'Oeste,,Cacoal,Leste Rondoniense,110005,Cacoal,1102,Ji-Paraná
-1100023,RO,325888,Q1646975,Ariquemes,,107345,106168,pt:Ariquemes,,-63.033269278,-9.9084628666,Ariquemes,,Ariquemes,Leste Rondoniense,110002,Ariquemes,1101,Porto Velho
-1100031,RO,325882,Q940433,Cabixi,,6224,5438,pt:Cabixi,,-60.5443135812,-13.4997634597,Cabixi,,Colorado do Oeste,Leste Rondoniense,110006,Vilhena,1102,Ji-Paraná
-1100049,RO,325872,Q1761637,Cacoal,,88507,84813,pt:Cacoal,,-61.4429442118,-11.4338650287,Cacoal,,Cacoal,Leste Rondoniense,110005,Cacoal,1102,Ji-Paraná
-1100056,RO,325883,Q1803210,Cerejeiras,,17934,16444,pt:Cerejeiras,,-60.8184261647,-13.195033032,Cerejeiras,,Colorado do Oeste,Leste Rondoniense,110006,Vilhena,1102,Ji-Paraná
-1100064,RO,325860,Q1785819,Colorado do Oeste,,18467,16227,pt:Colorado do Oeste,,-60.5550674631,-13.1305638415,Colorado do Oeste,,Colorado do Oeste,Leste Rondoniense,110006,Vilhena,1102,Ji-Paraná
+1100015,RO,325842,Q1761456,Alta Floresta d'Oeste,,25437,23167,pt:Alta Floresta d'Oeste,http://altaflorestadoeste.ro.gov.br,-61.9998238963,-11.9355403048,Alta Floresta d'Oeste,,Cacoal,Leste Rondoniense,110005,Cacoal,1102,Ji-Paraná
+1100023,RO,325888,Q1646975,Ariquemes,,107345,106168,pt:Ariquemes,http://www.ariquemes.ro.gov.br,-63.033269278,-9.9084628666,Ariquemes,,Ariquemes,Leste Rondoniense,110002,Ariquemes,1101,Porto Velho
+1100031,RO,325882,Q940433,Cabixi,,6224,5438,pt:Cabixi,http://www.cabixi.ro.gov.br,-60.5443135812,-13.4997634597,Cabixi,,Colorado do Oeste,Leste Rondoniense,110006,Vilhena,1102,Ji-Paraná
+1100049,RO,325872,Q1761637,Cacoal,,88507,84813,pt:Cacoal,http://www.cacoal.ro.gov.br,-61.4429442118,-11.4338650287,Cacoal,,Cacoal,Leste Rondoniense,110005,Cacoal,1102,Ji-Paraná
+1100056,RO,325883,Q1803210,Cerejeiras,,17934,16444,pt:Cerejeiras,http://www.cerejeiras.ro.gov.br,-60.8184261647,-13.195033032,Cerejeiras,,Colorado do Oeste,Leste Rondoniense,110006,Vilhena,1102,Ji-Paraná
+1100064,RO,325860,Q1785819,Colorado do Oeste,,18467,16227,pt:Colorado do Oeste,http://coloradodooeste.ro.gov.br,-60.5550674631,-13.1305638415,Colorado do Oeste,,Colorado do Oeste,Leste Rondoniense,110006,Vilhena,1102,Ji-Paraná
 1100072,RO,325874,Q927349,Corumbiara,,8659,7567,pt:Corumbiara,,-60.9487011707,-12.9975202365,Corumbiara,,Colorado do Oeste,Leste Rondoniense,110006,Vilhena,1102,Ji-Paraná
 1100080,RO,325844,Q656758,Costa Marques,,17400,17855,pt:Costa Marques,,-64.2316539391,-12.4360138777,Costa Marques,,Guajará-Mirim,Madeira-Guaporé,110004,Ji-Paraná,1102,Ji-Paraná
 1100098,RO,325845,Q616498,Espigão d'Oeste,,33030,32047,pt:Espigão d'Oeste,,-61.0201731133,-11.5285546333,Espigao d'Oeste,,Cacoal,Leste Rondoniense,110005,Cacoal,1102,Ji-Paraná
 1100106,RO,325856,Q983810,Guajará-Mirim,,47451,45783,pt:Guajará-Mirim,,-65.3239518197,-10.7738837407,Guajara-Mirim,,Guajará-Mirim,Madeira-Guaporé,110001,Porto Velho,1101,Porto Velho
 1100114,RO,325864,Q988755,Jaru,,55871,51933,pt:Jaru,,-62.4762307081,-10.4359487679,Jaru,,Ji-Paraná,Leste Rondoniense,110003,Jaru,1101,Porto Velho
-1100122,RO,325879,Q983815,Ji-Paraná,,132667,127907,pt:Ji-Paraná,,-61.9450945827,-10.8820513183,Ji-Parana,,Ji-Paraná,Leste Rondoniense,110004,Ji-Paraná,1102,Ji-Paraná
+1100122,RO,325879,Q983815,Ji-Paraná,,132667,127907,pt:Ji-Paraná,http://www.ji-parana.ro.gov.br,-61.9450945827,-10.8820513183,Ji-Parana,,Ji-Paraná,Leste Rondoniense,110004,Ji-Paraná,1102,Ji-Paraná
 1100130,RO,325881,Q1786440,Machadinho d'Oeste,,38609,39097,pt:Machadinho d'Oeste,,-61.9995925724,-9.42556248,Machadinho d'Oeste,,Ariquemes,Leste Rondoniense,110003,Jaru,1101,Porto Velho
 1100148,RO,325857,Q2014329,Nova Brasilândia d'Oeste,,21747,20459,pt:Nova Brasilândia d'Oeste,,-62.308230163,-11.7213254139,Nova Brasilandia d'Oeste,,Alvorada D'oeste,Leste Rondoniense,110005,Cacoal,1102,Ji-Paraná
 1100155,RO,325854,Q1803223,Ouro Preto do Oeste,,39759,36340,pt:Ouro Preto do Oeste,,-62.2610551904,-10.7235739008,Ouro Preto do Oeste,,Ji-Paraná,Leste Rondoniense,110004,Ji-Paraná,1102,Ji-Paraná
 1100189,RO,325843,Q1803175,Pimenta Bueno,,38051,36434,pt:Pimenta Bueno,,-61.1836656736,-11.67753699,Pimenta Bueno,,Vilhena,Leste Rondoniense,110005,Cacoal,1102,Ji-Paraná
-1100205,RO,325855,Q172512,Porto Velho,true,519436,519531,pt:Porto Velho,,-63.8314456544,-8.76889179,Porto Velho,,Porto Velho,Madeira-Guaporé,110001,Porto Velho,1101,Porto Velho
+1100205,RO,325855,Q172512,Porto Velho,true,519436,519531,pt:Porto Velho,http://www.portovelho.ro.gov.br,-63.8314456544,-8.76889179,Porto Velho,,Porto Velho,Madeira-Guaporé,110001,Porto Velho,1101,Porto Velho
 1100254,RO,325892,Q1871362,Presidente Médici,,22124,19409,pt:Presidente Médici (Rondônia),,-61.9094386835,-11.1732050162,Presidente Medici,,Ji-Paraná,Leste Rondoniense,110004,Ji-Paraná,1102,Ji-Paraná
 1100262,RO,325848,Q1786495,Rio Crespo,,3829,3723,pt:Rio Crespo,,-62.900010366,-9.7055367097,Rio Crespo,,Ariquemes,Leste Rondoniense,110002,Ariquemes,1101,Porto Velho
 1100288,RO,325876,Q1784242,Rolim de Moura,,57074,54702,pt:Rolim de Moura,,-61.7857809352,-11.7222589134,Rolim de Moura,,Cacoal,Leste Rondoniense,110005,Cacoal,1102,Ji-Paraná
