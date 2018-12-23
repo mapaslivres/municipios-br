@@ -6,20 +6,24 @@
   "author": "Vitor George <vitor.george@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "convert-csv": "node src/convert-csv.js"
+    "generate-all-formats": "node src/generate-all-formats.js",
+    "wikidata-fill": "node src/wikidata-fill.js",
+    "lint": "eslint src/ --ext .js"
   },
   "devDependencies": {
     "csv2json": "^1.4.2",
     "d3-dsv": "^1.0.10",
-    "fs-extra": "^7.0.1",
-    "install": "^0.12.2",
-    "js-yaml": "^3.12.0",
-    "prettier": "^1.15.3",
     "eslint": "^5.10.0",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-node": "^8.0.0",
     "eslint-plugin-promise": "^4.0.1",
-    "eslint-plugin-standard": "^4.0.0"
+    "eslint-plugin-standard": "^4.0.0",
+    "fs-extra": "^7.0.1",
+    "install": "^0.12.2",
+    "js-yaml": "^3.12.0",
+    "prettier": "^1.15.3",
+    "node-fetch": "^2.3.0",
+    "wikidata-sdk": "^5.15.9"
   }
 }
