@@ -55,22 +55,23 @@ Dados em formato aberto sobre localidades brasileiras para uso em visualizaçõe
 - Código IBGE
 - Nome
 
-# Fontes
-
-* [IBGE](https://www.ibge.gov.br/)
-* [OpenStreetMap](https://www.openstreetmap.org/about)
-
 # Contribua
 
 Algumas maneiras de contribuir com este repositório:
 
 - Abra uma [issue](https://github.com/mapaslivres/localidades/issues/new) com dúvidas e sugestões;
 - Envie alterações via [pull requests](https://github.com/mapaslivres/localidades/pulls);
-- Ajude a [melhorar do dados do Wikidata](https://beta.observablehq.com/@vgeorge/municipios-do-brasil-sem-pagina-oficial-no-wikidata).
+- Ajude a [melhorar do dados do Wikidata](https://beta.observablehq.com/@vgeorge/municipios-do-brasil-sem-pagina-oficial-no-wikidata);
+- Use a [ferramenta de linha de comando](CLI.md) para comparar com dados do Wikidata.
 
 Ao enviar pull requests, mantenha o número de edições baixo para facilitar o processo de revisão.
 
 Conheça a [lista de contribuidores](https://github.com/mapaslivres/localidades/graphs/contributors).
+
+# Fontes
+
+* [IBGE](https://www.ibge.gov.br/)
+* [OpenStreetMap](https://www.openstreetmap.org/about)
 
 # Licença
 
