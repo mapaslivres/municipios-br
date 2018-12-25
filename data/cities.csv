@@ -15,7 +15,7 @@ ibge_code,state_code,osm_relation_id,wikidata_id,name,is_capital,population_2017
 1100148,RO,325857,Q2014329,Nova Brasilândia d'Oeste,,21747,20459,pt:Nova Brasilândia d'Oeste,,-62.308230163,-11.7213254139,Nova Brasilandia d'Oeste,,Alvorada D'oeste,Leste Rondoniense,110005,Cacoal,1102,Ji-Paraná
 1100155,RO,325854,Q1803223,Ouro Preto do Oeste,,39759,36340,pt:Ouro Preto do Oeste,,-62.2610551904,-10.7235739008,Ouro Preto do Oeste,,Ji-Paraná,Leste Rondoniense,110004,Ji-Paraná,1102,Ji-Paraná
 1100189,RO,325843,Q1803175,Pimenta Bueno,,38051,36434,pt:Pimenta Bueno,,-61.1836656736,-11.67753699,Pimenta Bueno,,Vilhena,Leste Rondoniense,110005,Cacoal,1102,Ji-Paraná
-1100205,RO,325855,Q172512,Porto Velho,true,519436,519531,pt:Porto Velho,http://www.portovelho.ro.gov.br,-63.8314456544,-8.76889179,Porto Velho,,Porto Velho,Madeira-Guaporé,110001,Porto Velho,1101,Porto Velho
+1100205,RO,325855,Q172512,Porto Velho,true,519436,519531,pt:Porto Velho,https://www.portovelho.ro.gov.br,-63.8314456544,-8.76889179,Porto Velho,,Porto Velho,Madeira-Guaporé,110001,Porto Velho,1101,Porto Velho
 1100254,RO,325892,Q1871362,Presidente Médici,,22124,19409,pt:Presidente Médici (Rondônia),,-61.9094386835,-11.1732050162,Presidente Medici,,Ji-Paraná,Leste Rondoniense,110004,Ji-Paraná,1102,Ji-Paraná
 1100262,RO,325848,Q1786495,Rio Crespo,,3829,3723,pt:Rio Crespo,,-62.900010366,-9.7055367097,Rio Crespo,,Ariquemes,Leste Rondoniense,110002,Ariquemes,1101,Porto Velho
 1100288,RO,325876,Q1784242,Rolim de Moura,,57074,54702,pt:Rolim de Moura,,-61.7857809352,-11.7222589134,Rolim de Moura,,Cacoal,Leste Rondoniense,110005,Cacoal,1102,Ji-Paraná
@@ -78,14 +78,14 @@ ibge_code,state_code,osm_relation_id,wikidata_id,name,is_capital,population_2017
 1300086,AM,332497,Q974915,Anamã,,12978,13269,pt:Anamã,,-61.4059034798,-3.5763704269,Anama,,Coari,Centro Amazonense,130004,Manacapuru,1301,Manaus
 1300102,AM,332474,Q931090,Anori,,20196,20538,pt:Anori,,-61.6589553829,-3.7453855861,Anori,,Coari,Centro Amazonense,130003,Coari,1301,Manaus
 1300144,AM,332502,Q1112525,Apuí,,21406,21583,pt:Apuí,,-59.8856661047,-7.1978701516,Apui,,Madeira,Sul Amazonense,130009,Manicoré,1303,Lábrea
-1300201,AM,332473,Q1793319,Atalaia do Norte,,19054,19438,pt:Atalaia do Norte,http://www.atalaiadonorte.am.gov.br,-70.1879892845,-4.3661574897,Atalaia do Norte,,Alto Solimões,Sudoeste Amazonense,130006,Tabatinga,1302,Tefé
+1300201,AM,332473,Q1793319,Atalaia do Norte,,19054,19438,pt:Atalaia do Norte,null,-70.1879892845,-4.3661574897,Atalaia do Norte,,Alto Solimões,Sudoeste Amazonense,130006,Tabatinga,1302,Tefé
 1300300,AM,332503,Q1772695,Autazes,,38454,38830,pt:Autazes,,-59.1335670918,-3.5786636418,Autazes,,Manaus,Centro Amazonense,130001,Manaus,1301,Manaus
 1300409,AM,332478,Q807939,Barcelos,,27743,27364,pt:Barcelos (Amazonas),http://www.barcelos.am.gov.br,-62.9256696581,-0.9728010525,Barcelos,,Rio Negro,Norte Amazonense,130002,São Gabriel da Cachoeira,1301,Manaus
 1300508,AM,332522,Q1772565,Barreirinha,,31542,31593,pt:Barreirinha,,-57.0677504899,-2.7981498369,Barreirinha,,Parintins,Centro Amazonense,130010,Parintins,1304,Parintins
-1300607,AM,332518,Q1767926,Benjamin Constant,,41329,42020,pt:Benjamin Constant (Amazonas),http://www.benjaminconstant.am.gov.br,-70.0273484333,-4.3749890186,Benjamin Constant,,Alto Solimões,Sudoeste Amazonense,130006,Tabatinga,1302,Tefé
+1300607,AM,332518,Q1767926,Benjamin Constant,,41329,42020,pt:Benjamin Constant (Amazonas),https://www.benjaminconstant.am.gov.br,-70.0273484333,-4.3749890186,Benjamin Constant,,Alto Solimões,Sudoeste Amazonense,130006,Tabatinga,1302,Tefé
 1300631,AM,332513,Q584172,Beruri,,18978,19258,pt:Beruri,,-61.3715708917,-3.8945134098,Beruri,,Coari,Centro Amazonense,130003,Coari,1301,Manaus
 1300680,AM,332464,Q940548,Boa Vista do Ramos,,18483,18781,pt:Boa Vista do Ramos,,-57.5877073465,-2.9717265316,Boa Vista do Ramos,,Parintins,Centro Amazonense,130010,Parintins,1304,Parintins
-1300706,AM,332492,Q1793334,Boca do Acre,,34176,33976,pt:Boca do Acre,http://www.bocadoacre.am.gov.br,-67.3995777567,-8.7512431961,Boca do Acre,,Boca do Acre,Sul Amazonense,130008,Lábrea,1303,Lábrea
+1300706,AM,332492,Q1793334,Boca do Acre,,34176,33976,pt:Boca do Acre,null,-67.3995777567,-8.7512431961,Boca do Acre,,Boca do Acre,Sul Amazonense,130008,Lábrea,1303,Lábrea
 1300805,AM,332495,Q2089660,Borba,,40464,40565,pt:Borba (Amazonas),,-59.5945590195,-4.3906198915,Borba,,Madeira,Sul Amazonense,130001,Manaus,1301,Manaus
 1300839,AM,332501,Q945469,Caapiranga,,12820,12877,pt:Caapiranga,,-61.2113341332,-3.3300933919,Caapiranga,,Coari,Centro Amazonense,130004,Manacapuru,1301,Manaus
 1300904,AM,332480,Q1807050,Canutama,,15490,15450,pt:Canutama,,-64.3942308189,-6.5291060758,Canutama,,Purus,Sul Amazonense,130008,Lábrea,1303,Lábrea
@@ -97,7 +97,7 @@ ibge_code,state_code,osm_relation_id,wikidata_id,name,is_capital,population_2017
 1301407,AM,332511,Q1646910,Eirunepé,,34888,34840,pt:Eirunepé,http://www.eirunepe.am.gov.br,-69.8662902624,-6.6673525669,Eirunepe,,Juruá,Sudoeste Amazonense,130007,Eirunepé,1302,Tefé
 1301506,AM,332488,Q1750090,Envira,,19492,19668,pt:Envira,,-70.030412543,-7.439817544,Envira,,Juruá,Sudoeste Amazonense,130007,Eirunepé,1302,Tefé
 1301605,AM,332510,Q1793768,Fonte Boa,,19669,18221,pt:Fonte Boa (Amazonas),,-66.0965029898,-2.5122706845,Fonte Boa,,Alto Solimões,Sudoeste Amazonense,130005,Tefé,1302,Tefé
-1301654,AM,332508,Q1808440,Guajará,,16339,16416,pt:Guajará (Amazonas),http://guajara.am.gov.br,-72.5824305383,-7.5477744148,Guajara,,Juruá,Sudoeste Amazonense,130007,Eirunepé,1302,Tefé
+1301654,AM,332508,Q1808440,Guajará,,16339,16416,pt:Guajará (Amazonas),null,-72.5824305383,-7.5477744148,Guajara,,Juruá,Sudoeste Amazonense,130007,Eirunepé,1302,Tefé
 1301704,AM,332523,Q1025760,Humaitá,,53383,54001,pt:Humaitá (Amazonas),,-63.0266980219,-7.5122249506,Humaita,,Madeira,Sul Amazonense,130009,Manicoré,1303,Lábrea
 1301803,AM,332520,Q1794374,Ipixuna,,28299,28933,pt:Ipixuna,,-71.6944180603,-7.0509801144,Ipixuna,,Juruá,Sudoeste Amazonense,130007,Eirunepé,1302,Tefé
 1301852,AM,332514,Q1761947,Iranduba,,47407,47571,pt:Iranduba,http://www.iranduba.am.gov.br,-60.1933881661,-3.2810538776,Iranduba,,Manaus,Centro Amazonense,130001,Manaus,1301,Manaus
@@ -106,7 +106,7 @@ ibge_code,state_code,osm_relation_id,wikidata_id,name,is_capital,population_2017
 1302009,AM,332516,Q1808448,Itapiranga,,9125,9064,pt:Itapiranga (Amazonas),,-58.034545884,-2.7418427523,Itapiranga,,Itacoatiara,Centro Amazonense,130011,Itacoatiara,1304,Parintins
 1302108,AM,332494,Q1757955,Japurá,,4205,3265,pt:Japurá (Amazonas),,-66.9969034946,-1.8808448587,Japura,,Japurá,Norte Amazonense,130005,Tefé,1302,Tefé
 1302207,AM,332490,Q1008285,Juruá,,13956,14312,pt:Juruá,,-66.0630419255,-3.4748895989,Jurua,,Juruá,Sudoeste Amazonense,130005,Tefé,1302,Tefé
-1302306,AM,332506,Q684641,Jutaí,,15824,14753,pt:Jutaí,http://www.jutai.am.gov.br,-66.7713275467,-2.7446464469,Jutai,,Alto Solimões,Sudoeste Amazonense,130005,Tefé,1302,Tefé
+1302306,AM,332506,Q684641,Jutaí,,15824,14753,pt:Jutaí,null,-66.7713275467,-2.7446464469,Jutai,,Alto Solimões,Sudoeste Amazonense,130005,Tefé,1302,Tefé
 1302405,AM,332504,Q386631,Lábrea,,44861,45245,pt:Lábrea,,-64.7947730275,-7.2619465533,Labrea,,Purus,Sul Amazonense,130008,Lábrea,1303,Lábrea
 1302504,AM,332469,Q983526,Manacapuru,,96460,96236,pt:Manacapuru,http://www.manacapuru.am.gov.br,-60.6205894459,-3.2982780355,Manacapuru,,Manaus,Centro Amazonense,130004,Manacapuru,1301,Manaus
 1302553,AM,332467,Q1807976,Manaquiri,,30222,31147,pt:Manaquiri,,-60.4588813064,-3.4290796694,Manaquiri,,Manaus,Centro Amazonense,130001,Manaus,1301,Manaus
@@ -118,13 +118,13 @@ ibge_code,state_code,osm_relation_id,wikidata_id,name,is_capital,population_2017
 1303106,AM,332481,Q1772535,Nova Olinda do Norte,,36431,36721,pt:Nova Olinda do Norte,,-59.093074026,-3.8875928319,Nova Olinda do Norte,,Itacoatiara,Centro Amazonense,130001,Manaus,1301,Manaus
 1303205,AM,332468,Q1750332,Novo Airão,,18586,18974,pt:Novo Airão,,-60.9488107078,-2.623432459,Novo Airao,,Rio Negro,Norte Amazonense,130004,Manacapuru,1301,Manaus
 1303304,AM,332465,Q1793549,Novo Aripuanã,,25112,25237,pt:Novo Aripuanã,,-60.377045669,-5.1226693142,Novo Aripuana,,Madeira,Sul Amazonense,130009,Manicoré,1303,Lábrea
-1303403,AM,332517,Q926713,Parintins,,113832,113168,pt:Parintins,http://www.parintins.am.gov.br,-56.7362921452,-2.6270525858,Parintins,,Parintins,Centro Amazonense,130010,Parintins,1304,Parintins
+1303403,AM,332517,Q926713,Parintins,,113832,113168,pt:Parintins,https://www.parintins.am.gov.br,-56.7362921452,-2.6270525858,Parintins,,Parintins,Centro Amazonense,130010,Parintins,1304,Parintins
 1303502,AM,332509,Q1793494,Pauini,,19597,19329,pt:Pauini,,-67.0020974885,-7.7140436443,Pauini,,Boca do Acre,Sul Amazonense,130008,Lábrea,1303,Lábrea
-1303536,AM,332498,Q655097,Presidente Figueiredo,,34574,35352,pt:Presidente Figueiredo,http://presidentefigueiredo.am.gov.br,-60.0256468345,-2.0584290852,Presidente Figueiredo,,Rio Preto da Eva,Centro Amazonense,130001,Manaus,1301,Manaus
+1303536,AM,332498,Q655097,Presidente Figueiredo,,34574,35352,pt:Presidente Figueiredo,null,-60.0256468345,-2.0584290852,Presidente Figueiredo,,Rio Preto da Eva,Centro Amazonense,130001,Manaus,1301,Manaus
 1303569,AM,332500,Q1793560,Rio Preto da Eva,,32001,32577,pt:Rio Preto da Eva,,-59.7047380942,-2.6933015416,Rio Preto da Eva,,Rio Preto da Eva,Centro Amazonense,130001,Manaus,1301,Manaus
 1303601,AM,332484,Q1754543,Santa Isabel do Rio Negro,,23765,24436,pt:Santa Isabel do Rio Negro,,-65.0200226395,-0.4166948319,Santa Isabel do Rio Negro,,Rio Negro,Norte Amazonense,130002,São Gabriel da Cachoeira,1301,Manaus
 1303700,AM,332505,Q970224,Santo Antônio do Içá,,23075,21966,pt:Santo Antônio do Içá,,-67.9464851439,-3.1074863092,Santo Antonio do Ica,,Alto Solimões,Sudoeste Amazonense,130006,Tabatinga,1302,Tefé
-1303809,AM,332477,Q694840,São Gabriel da Cachoeira,,44553,44816,pt:São Gabriel da Cachoeira,http://www.saogabrieldacachoeira.am.gov.br,-67.0836428963,-0.1364627881,Sao Gabriel da Cachoeira,,Rio Negro,Norte Amazonense,130002,São Gabriel da Cachoeira,1301,Manaus
+1303809,AM,332477,Q694840,São Gabriel da Cachoeira,,44553,44816,pt:São Gabriel da Cachoeira,null,-67.0836428963,-0.1364627881,Sao Gabriel da Cachoeira,,Rio Negro,Norte Amazonense,130002,São Gabriel da Cachoeira,1301,Manaus
 1303908,AM,332507,Q1794983,São Paulo de Olivença,,38047,38515,pt:São Paulo de Olivença,,-68.9448534881,-3.4665096235,Sao Paulo de Olivenca,,Alto Solimões,Sudoeste Amazonense,130006,Tabatinga,1302,Tefé
 1303957,AM,332483,Q1793440,São Sebastião do Uatumã,,13421,13685,pt:São Sebastião do Uatumã,,-57.8703463558,-2.5701525797,Sao Sebastiao do Uatuma,,Parintins,Centro Amazonense,130011,Itacoatiara,1304,Parintins
 1304005,AM,332471,Q2089673,Silves,,9211,9110,pt:Silves (Amazonas),,-58.2148008608,-2.8364274297,Silves,,Itacoatiara,Centro Amazonense,130011,Itacoatiara,1304,Parintins

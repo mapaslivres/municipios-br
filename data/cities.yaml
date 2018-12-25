@@ -9,7 +9,7 @@
     population_2017: 25437
     population_2018: 23167
     wikipedia_pt: 'pt:Alta Floresta d''Oeste'
-    website: 
+    website: http://altaflorestadoeste.ro.gov.br
     lon: -61.9998238963
     lat: -11.9355403048
     no_accents: 'Alta Floresta d''Oeste'
@@ -30,7 +30,7 @@
     population_2017: 107345
     population_2018: 106168
     wikipedia_pt: pt:Ariquemes
-    website: 
+    website: http://www.ariquemes.ro.gov.br
     lon: -63.033269278
     lat: -9.9084628666
     no_accents: Ariquemes
@@ -51,7 +51,7 @@
     population_2017: 6224
     population_2018: 5438
     wikipedia_pt: pt:Cabixi
-    website: 
+    website: http://www.cabixi.ro.gov.br
     lon: -60.5443135812
     lat: -13.4997634597
     no_accents: Cabixi
@@ -72,7 +72,7 @@
     population_2017: 88507
     population_2018: 84813
     wikipedia_pt: pt:Cacoal
-    website: 
+    website: http://www.cacoal.ro.gov.br
     lon: -61.4429442118
     lat: -11.4338650287
     no_accents: Cacoal
@@ -93,7 +93,7 @@
     population_2017: 17934
     population_2018: 16444
     wikipedia_pt: pt:Cerejeiras
-    website: 
+    website: http://www.cerejeiras.ro.gov.br
     lon: -60.8184261647
     lat: -13.195033032
     no_accents: Cerejeiras
@@ -114,7 +114,7 @@
     population_2017: 18467
     population_2018: 16227
     wikipedia_pt: pt:Colorado do Oeste
-    website: 
+    website: http://coloradodooeste.ro.gov.br
     lon: -60.5550674631
     lat: -13.1305638415
     no_accents: Colorado do Oeste
@@ -240,7 +240,7 @@
     population_2017: 132667
     population_2018: 127907
     wikipedia_pt: pt:Ji-Paraná
-    website: 
+    website: http://www.ji-parana.ro.gov.br
     lon: -61.9450945827
     lat: -10.8820513183
     no_accents: Ji-Parana
@@ -345,7 +345,7 @@
     population_2017: 519436
     population_2018: 519531
     wikipedia_pt: pt:Porto Velho
-    website: 
+    website: https://www.portovelho.ro.gov.br
     lon: -63.8314456544
     lat: -8.76889179
     no_accents: Porto Velho
@@ -1668,7 +1668,7 @@
     population_2017: 19054
     population_2018: 19438
     wikipedia_pt: pt:Atalaia do Norte
-    website: 
+    website: null
     lon: -70.1879892845
     lat: -4.3661574897
     no_accents: Atalaia do Norte
@@ -1710,7 +1710,7 @@
     population_2017: 27743
     population_2018: 27364
     wikipedia_pt: pt:Barcelos (Amazonas)
-    website: 
+    website: http://www.barcelos.am.gov.br
     lon: -62.9256696581
     lat: -0.9728010525
     no_accents: Barcelos
@@ -1752,7 +1752,7 @@
     population_2017: 41329
     population_2018: 42020
     wikipedia_pt: pt:Benjamin Constant (Amazonas)
-    website: 
+    website: https://www.benjaminconstant.am.gov.br
     lon: -70.0273484333
     lat: -4.3749890186
     no_accents: Benjamin Constant
@@ -1815,7 +1815,7 @@
     population_2017: 34176
     population_2018: 33976
     wikipedia_pt: pt:Boca do Acre
-    website: 
+    website: null
     lon: -67.3995777567
     lat: -8.7512431961
     no_accents: Boca do Acre
@@ -1962,7 +1962,7 @@
     population_2017: 84762
     population_2018: 84272
     wikipedia_pt: pt:Coari
-    website: 
+    website: http://www.coari.am.gov.br
     lon: -63.1421839841
     lat: -4.0842191588
     no_accents: Coari
@@ -2004,7 +2004,7 @@
     population_2017: 34888
     population_2018: 34840
     wikipedia_pt: pt:Eirunepé
-    website: 
+    website: http://www.eirunepe.am.gov.br
     lon: -69.8662902624
     lat: -6.6673525669
     no_accents: Eirunepe
@@ -2067,7 +2067,7 @@
     population_2017: 16339
     population_2018: 16416
     wikipedia_pt: pt:Guajará (Amazonas)
-    website: 
+    website: null
     lon: -72.5824305383
     lat: -7.5477744148
     no_accents: Guajara
@@ -2130,7 +2130,7 @@
     population_2017: 47407
     population_2018: 47571
     wikipedia_pt: pt:Iranduba
-    website: 
+    website: http://www.iranduba.am.gov.br
     lon: -60.1933881661
     lat: -3.2810538776
     no_accents: Iranduba
@@ -2256,7 +2256,7 @@
     population_2017: 15824
     population_2018: 14753
     wikipedia_pt: pt:Jutaí
-    website: 
+    website: null
     lon: -66.7713275467
     lat: -2.7446464469
     no_accents: Jutai
@@ -2298,7 +2298,7 @@
     population_2017: 96460
     population_2018: 96236
     wikipedia_pt: pt:Manacapuru
-    website: 
+    website: http://www.manacapuru.am.gov.br
     lon: -60.6205894459
     lat: -3.2982780355
     no_accents: Manacapuru
@@ -2340,7 +2340,7 @@
     population_2017: 2130264
     population_2018: 2145444
     wikipedia_pt: pt:Manaus
-    website: 
+    website: http://www.manaus.am.gov.br
     lon: -60.0233351811
     lat: -3.1346914912
     no_accents: Manaus
@@ -2361,7 +2361,7 @@
     population_2017: 54708
     population_2018: 54907
     wikipedia_pt: pt:Manicoré
-    website: 
+    website: http://manicore.am.gov.br
     lon: -61.2992484089
     lat: -5.8132052612
     no_accents: Manicore
@@ -2508,7 +2508,7 @@
     population_2017: 113832
     population_2018: 113168
     wikipedia_pt: pt:Parintins
-    website: 
+    website: https://www.parintins.am.gov.br
     lon: -56.7362921452
     lat: -2.6270525858
     no_accents: Parintins
@@ -2550,7 +2550,7 @@
     population_2017: 34574
     population_2018: 35352
     wikipedia_pt: pt:Presidente Figueiredo
-    website: 
+    website: null
     lon: -60.0256468345
     lat: -2.0584290852
     no_accents: Presidente Figueiredo
@@ -2634,7 +2634,7 @@
     population_2017: 44553
     population_2018: 44816
     wikipedia_pt: pt:São Gabriel da Cachoeira
-    website: 
+    website: null
     lon: -67.0836428963
     lat: -0.1364627881
     no_accents: Sao Gabriel da Cachoeira
