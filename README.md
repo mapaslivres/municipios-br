@@ -1,79 +1,39 @@
-# Localidades do Brasil
+# Municípios do Brasil
 
-Dados em formato aberto sobre localidades brasileiras para uso em visualizações de dados, interfaces de entrada e sanitização de bases.
+Dados em formato aberto sobre divisão territorial do Brasil.
 
-## [Unidades federativas](data/states.csv)
+Além dos nomes oficiais e códigos do IBGE para 2020, as tabelas contam também com:
 
-- Identificadores:
-  - Sigla oficial
-  - Código IBGE (e macrorregião)
-  - Código ISO3166-2
-  - Relação do OpenStreetMap
-  - Identificador no Wikidata
-- Nome com e sem acento
-- Gentílico
-- População em 2017 e 2018
-- Website estatal
-- Fuso-horário
-- Imagem da bandeira no Commons
+- Coordenadas do município
+- Nomes sem acento
+- Grafias alternativas
+- Identificador de relação no OpenStreetMap
+- Identificador na Wikidata
+- URL da página Wikipédia
 
-## [Municípios](data/cities.csv)
+Este repositório é mantido por [Vitor George](https://github.com/vgeorge) e [contribuidores](https://github.com/mapaslivres/localidades/graphs/contributors).
 
-- Nome oficial, sem acento e grafias alternativas
-- Sigla do estado
-- Identificadores:
-  - Código micro e mesorregião do IBGE
-  - Código região intermediária e imediata do IBGE
-  - Relação do OpenStreetMap
-  - Identificador no Wikidata
-  - Identificador na Wikipédia
-- Coordenadas do centro administrativo
-- Capitais
-- População em 2017 e 2018
-- Website municipal (parcial)
-  - Acre
-  - Mato Grosso
-  - Pernambuco
-  - Rio de Janeiro
-  - Rio Grande do Sul
-  - Santa catarina
-  - São Paulo
+## Download
 
+- [tabelas/ufs.csv](tabelas/ufs.csv)
+- [tabelas/municipios.csv](tabelas/municipios.csv)
+- [tabelas/distritos.csv](tabelas/distritos.csv)
+- [tabelas/subdistritos.csv](tabelas/subdistritos.csv)
 
-## [Distritos](data/districts.csv)
+## Fontes
 
-- Código IBGE
-- Nome
+- [IBGE](https://www.ibge.gov.br)
+  - [Release sobre atualização em 2020](https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/30115-ibge-atualiza-lista-de-municipios-distritos-e-subdistritos-municipais-do-pais-2020) 
+  - [download](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/23701-divisao-territorial-brasileira.html?=&t=acesso-ao-produto)
+- [OpenStreetMap](https://www.openstreetmap.org)
+- [Wikidata](https://www.wikidata.org)
+- [Wikipédia](https://www.wikipedia.org)
 
-## [Sub-distritos](data/subdistricts.csv)
+## Projetos similares
 
-- Código IBGE
-- Nome
+- [kelvins/Municipios-Brasileiros](https://github.com/kelvins/Municipios-Brasileiros)
+- [tbrugz/geodata-br](https://github.com/tbrugz/geodata-br)
+- [carolinabigonha/br-atlas](https://github.com/carolinabigonha/br-atlas)
+## Licença
 
-## [Localidades](data/localities.csv)
-
-- Código IBGE
-- Nome
-
-# Fontes
-
-* [IBGE](https://www.ibge.gov.br/)
-* [OpenStreetMap](https://www.openstreetmap.org/about)
-
-# Contribua
-
-Algumas maneiras de contribuir com este repositório:
-
-- Abra uma [issue](https://github.com/mapaslivres/localidades/issues/new) com dúvidas e sugestões;
-- Envie alterações via [pull requests](https://github.com/mapaslivres/localidades/pulls);
-- Ajude a [melhorar do dados do Wikidata](https://beta.observablehq.com/@vgeorge/municipios-do-brasil-sem-pagina-oficial-no-wikidata).
-
-Ao enviar pull requests, mantenha o número de edições baixo para facilitar o processo de revisão.
-
-Conheça a [lista de contribuidores](https://github.com/mapaslivres/localidades/graphs/contributors).
-
-# Licença
-
-Os dados estão licenciados sob a [Open Database License (ODbL-1.0)](LICENSE), que permite seu uso livre e requer redistribuição sob a mesma licença.
-
-Consulte a [página oficial](https://opendatacommons.org/licenses/odbl/) da ODbL-1.0 ou este este [FAQ](http://wiki.openstreetmap.org/wiki/Legal_FAQ/CC-BY-SA_Archive#What.27s_this_about_a_licence_change.3F) para saber mais sobre as condições de uso.
+[ODbL](LICENSE)
