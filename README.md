@@ -11,6 +11,8 @@ Além dos nomes oficiais e códigos do IBGE para 2020, as tabelas contam também
 - Identificador na Wikidata
 - URL da página Wikipédia
 
+As malhas territoriais podem ser baixadas no [FTP do IBGE](ftp://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2020/Brasil/BR), em formato shapefile.
+
 Este repositório é mantido por [Vitor George](https://github.com/vgeorge) e [contribuidores](https://github.com/mapaslivres/localidades/graphs/contributors).
 
 ## Download
