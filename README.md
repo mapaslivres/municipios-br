@@ -1,79 +1,46 @@
-# Localidades do Brasil
+# Municípios do Brasil
 
-Dados em formato aberto sobre localidades brasileiras para uso em visualizações de dados, interfaces de entrada e sanitização de bases.
+Dados em formato aberto sobre divisão territorial do Brasil.
 
-## [Unidades federativas](data/states.csv)
+Além dos nomes oficiais e códigos do IBGE para 2020, as tabelas contam também com:
 
-- Identificadores:
-  - Sigla oficial
-  - Código IBGE (e macrorregião)
-  - Código ISO3166-2
-  - Relação do OpenStreetMap
-  - Identificador no Wikidata
-- Nome com e sem acento
-- Gentílico
-- População em 2017 e 2018
-- Website estatal
-- Fuso-horário
-- Imagem da bandeira no Commons
+- Nomes sem acento
+- Grafias alternativas
+- Identificador de relação no OpenStreetMap
+- Identificador na Wikidata
+- URL da página Wikipédia
+- Coordenadas de municípios
+- Bandeiras e gentílicos de unidades federativas
 
-## [Municípios](data/cities.csv)
+As malhas territoriais podem ser baixadas no [FTP do IBGE](ftp://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2020/Brasil/BR), em formato shapefile.
 
-- Nome oficial, sem acento e grafias alternativas
-- Sigla do estado
-- Identificadores:
-  - Código micro e mesorregião do IBGE
-  - Código região intermediária e imediata do IBGE
-  - Relação do OpenStreetMap
-  - Identificador no Wikidata
-  - Identificador na Wikipédia
-- Coordenadas do centro administrativo
-- Capitais
-- População em 2017 e 2018
-- Website municipal (parcial)
-  - Acre
-  - Mato Grosso
-  - Pernambuco
-  - Rio de Janeiro
-  - Rio Grande do Sul
-  - Santa catarina
-  - São Paulo
+Este repositório é mantido por [Vitor George](https://github.com/vgeorge) e [contribuidores](https://github.com/mapaslivres/localidades/graphs/contributors).
 
+Em caso de dúvidas, sugestões ou correções, por favor, abra um ticket.
 
-## [Distritos](data/districts.csv)
+## Download
 
-- Código IBGE
-- Nome
+- [tabelas/ufs.csv](tabelas/ufs.csv)
+- [tabelas/municipios.csv](tabelas/municipios.csv)
+- [planilha no Google Sheets](https://docs.google.com/spreadsheets/d/1INaT-Af2apMvaxjMTkyX4CJMwUHFYsDcSI8r56Uobvo/edit?usp=sharing)
 
-## [Sub-distritos](data/subdistricts.csv)
+Os arquivos CSV foram gerados a partir da planilha do Google Sheets, que também conta com tabelas de regiões, distritos e subdistritos do IBGE.
 
-- Código IBGE
-- Nome
+## Fontes
 
-## [Localidades](data/localities.csv)
+- [IBGE](https://www.ibge.gov.br)
+  - [Release sobre atualização em 2020](https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/30115-ibge-atualiza-lista-de-municipios-distritos-e-subdistritos-municipais-do-pais-2020) 
+  - [Página de download](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/23701-divisao-territorial-brasileira.html?=&t=acesso-ao-produto)
+- [OpenStreetMap](https://www.openstreetmap.org)
+- [Wikidata](https://www.wikidata.org)
+- [Wikipédia](https://www.wikipedia.org)
 
-- Código IBGE
-- Nome
+## Projetos similares
 
-# Fontes
+- [geobr](https://github.com/ipeaGIT/geobr)
+- [kelvins/Municipios-Brasileiros](https://github.com/kelvins/Municipios-Brasileiros)
+- [tbrugz/geodata-br](https://github.com/tbrugz/geodata-br)
+- [carolinabigonha/br-atlas](https://github.com/carolinabigonha/br-atlas)
+## Licença
 
-* [IBGE](https://www.ibge.gov.br/)
-* [OpenStreetMap](https://www.openstreetmap.org/about)
-
-# Contribua
-
-Algumas maneiras de contribuir com este repositório:
-
-- Abra uma [issue](https://github.com/mapaslivres/localidades/issues/new) com dúvidas e sugestões;
-- Envie alterações via [pull requests](https://github.com/mapaslivres/localidades/pulls);
-- Ajude a [melhorar do dados do Wikidata](https://beta.observablehq.com/@vgeorge/municipios-do-brasil-sem-pagina-oficial-no-wikidata).
-
-Ao enviar pull requests, mantenha o número de edições baixo para facilitar o processo de revisão.
-
-Conheça a [lista de contribuidores](https://github.com/mapaslivres/localidades/graphs/contributors).
-
-# Licença
-
-Os dados estão licenciados sob a [Open Database License (ODbL-1.0)](LICENSE), que permite seu uso livre e requer redistribuição sob a mesma licença.
-
-Consulte a [página oficial](https://opendatacommons.org/licenses/odbl/) da ODbL-1.0 ou este este [FAQ](http://wiki.openstreetmap.org/wiki/Legal_FAQ/CC-BY-SA_Archive#What.27s_this_about_a_licence_change.3F) para saber mais sobre as condições de uso.
+[ODbL](LICENSE)
