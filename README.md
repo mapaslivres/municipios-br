@@ -37,6 +37,7 @@ Os arquivos CSV foram gerados a partir da planilha do Google Sheets, que também
 
 ## Projetos similares
 
+- [geobr](https://github.com/ipeaGIT/geobr)
 - [kelvins/Municipios-Brasileiros](https://github.com/kelvins/Municipios-Brasileiros)
 - [tbrugz/geodata-br](https://github.com/tbrugz/geodata-br)
 - [carolinabigonha/br-atlas](https://github.com/carolinabigonha/br-atlas)
