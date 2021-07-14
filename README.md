@@ -12,7 +12,7 @@ Além dos nomes oficiais e códigos do IBGE para 2020, as tabelas contam também
 - Coordenadas de municípios
 - Bandeiras e gentílicos de unidades federativas
 
-As malhas territoriais podem ser baixadas no [FTP do IBGE](ftp://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2020/Brasil/BR), em formato shapefile.
+As malhas territoriais podem ser baixadas no [FTP do IBGE](https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2020/Brasil/BR), em formato shapefile.
 
 Este repositório é mantido por [Vitor George](https://github.com/vgeorge) e [contribuidores](https://github.com/mapaslivres/localidades/graphs/contributors).
 
