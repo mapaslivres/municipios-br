@@ -35,8 +35,9 @@ Os arquivos CSV foram gerados a partir da planilha do Google Sheets, que também
 - [Wikidata](https://www.wikidata.org)
 - [Wikipédia](https://www.wikipedia.org)
 
-## Projetos similares
+## Projetos relacionados
 
+- [Notebook sobre websites oficiais de municípios do Brasil na Wikidata](https://observablehq.com/@vgeorge/municipios-do-brasil-sem-pagina-oficial-no-wikidata)
 - [geobr](https://github.com/ipeaGIT/geobr)
 - [kelvins/Municipios-Brasileiros](https://github.com/kelvins/Municipios-Brasileiros)
 - [tbrugz/geodata-br](https://github.com/tbrugz/geodata-br)
