@@ -23,7 +23,6 @@ Em caso de dúvidas, sugestões ou correções, por favor, abra um ticket.
 
 - [tabelas/ufs.csv](tabelas/ufs.csv)
 - [tabelas/municipios.csv](tabelas/municipios.csv)
-- [tabelas/municipios-populacao-estimada-2021.csv](tabelas/municipios-populacao-estimada-2021.csv)
 - [planilha no Google Sheets](https://docs.google.com/spreadsheets/d/1INaT-Af2apMvaxjMTkyX4CJMwUHFYsDcSI8r56Uobvo/edit?usp=sharing)
 
 Os arquivos CSV foram gerados a partir da planilha do Google Sheets, que também conta com tabelas de regiões, distritos e subdistritos do IBGE.
