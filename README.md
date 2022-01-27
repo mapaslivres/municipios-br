@@ -11,6 +11,7 @@ Além dos nomes oficiais e códigos do IBGE para 2020, as tabelas contam também
 - URL da página Wikipédia
 - Coordenadas de municípios
 - Bandeiras e gentílicos de unidades federativas
+- População estimada dos municípios (IBGE 2021)
 
 As malhas territoriais podem ser baixadas no [FTP do IBGE](https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2020/Brasil/BR), em formato shapefile.
 
