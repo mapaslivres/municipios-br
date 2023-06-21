@@ -25,12 +25,12 @@ Em caso de dúvidas, sugestões ou correções, por favor, abra um ticket.
 - [tabelas/municipios.csv](tabelas/municipios.csv)
 - [planilha no Google Sheets](https://docs.google.com/spreadsheets/d/1INaT-Af2apMvaxjMTkyX4CJMwUHFYsDcSI8r56Uobvo/edit?usp=sharing)
 
-Os arquivos CSV foram gerados a partir da planilha do Google Sheets, que também conta com tabelas de regiões, distritos e subdistritos do IBGE.
+Em caso de erros ou sugestões, por favor, deixe um comentário na planilha do Google Sheets. É possível fazer uma cópia pessoal da planilha do Google Sheet no menu "Arquivo/Fazer Cópia". O acesso a edição é restrito ao mantenedor.
 
 ## Fontes
 
 - [IBGE](https://www.ibge.gov.br)
-  - [Release sobre atualização em 2020](https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/30115-ibge-atualiza-lista-de-municipios-distritos-e-subdistritos-municipais-do-pais-2020) 
+  - [Release sobre atualização em 2020](https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/30115-ibge-atualiza-lista-de-municipios-distritos-e-subdistritos-municipais-do-pais-2020)
   - [Página de download](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/23701-divisao-territorial-brasileira.html?=&t=acesso-ao-produto)
 - [OpenStreetMap](https://www.openstreetmap.org)
 - [Wikidata](https://www.wikidata.org)
@@ -43,6 +43,7 @@ Os arquivos CSV foram gerados a partir da planilha do Google Sheets, que também
 - [kelvins/Municipios-Brasileiros](https://github.com/kelvins/Municipios-Brasileiros)
 - [tbrugz/geodata-br](https://github.com/tbrugz/geodata-br)
 - [carolinabigonha/br-atlas](https://github.com/carolinabigonha/br-atlas)
+
 ## Licença
 
 [ODbL](LICENSE)
